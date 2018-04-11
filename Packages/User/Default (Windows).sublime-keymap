@@ -1,0 +1,6 @@
+[
+	{
+		"keys":["ctrl+alt+f"],"command":"alignment"
+	},
+	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
+]

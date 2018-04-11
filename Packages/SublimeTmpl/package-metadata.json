@@ -1,0 +1,1 @@
+{"platforms": ["*"], "version": "1.1.6", "dependencies": [], "description": "Create File From Templates for ST2/ST3.", "url": "https://github.com/kairyou/SublimeTmpl", "sublime_text": "*"}
