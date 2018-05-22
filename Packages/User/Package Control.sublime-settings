@@ -19,14 +19,17 @@
 		"LESS",
 		"Less2Css",
 		"LiveReload",
-		"Markdown Preview",
 		"MarkdownEditing",
+		"MarkdownPreview",
 		"Package Control",
 		"SublimeGit",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint_d",
+		"SublimeLinter-eslint",
 		"SublimeTmpl",
 		"Theme - Flatland",
 		"TortoiseSVN",
-		"View In Browser"
+		"View In Browser",
+		"Vue Syntax Highlight"
 	]
 }

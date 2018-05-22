@@ -1,13 +1,39 @@
 {
 	"folder_history":
 	[
+		"/D/workspace/mynode",
+		"/D/workspace/express",
+		"/D/workspace/react-demo-test",
+		"/D/workspace/vote_jys",
+		"/D/workspace/leetcode",
+		"/D/workspace/ResumeSample-master",
+		"/D/workspace/myNodeProject-master",
+		"/D/workspace/node-express-mongo-blog",
+		"/D/workspace/WebGL_Guide_Code",
+		"/D/workspace/webgl",
+		"/D/workspace/vue-code-review",
+		"/D/workspace/common_simple_frame/common-simple/common-simple",
+		"/D/workspace/common_simple_frame/vue-common-simple-frame",
+		"/D/workspace/common_simple_frame",
+		"/D/workspace/vue-common-simple-frame",
+		"/D/workspace/vue-dev",
+		"/E/wamp25/www/web/webgl",
+		"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code",
+		"/F/wamp12/www/TP/Application/Home",
+		"/E/FLAXP/Tencent Files/1132228219/FileRecv/转盘",
+		"/E/BaiduNetdiskDownload/liu/weixinme",
+		"/D/workspace/sayHelloBlog-master",
+		"/E/FileRecv/下载/leetcode-spider-master/leetcode-spider-master",
+		"/D/活动页面/微信朋友圈/zhuangbiao/zhuangbiao",
+		"/D/活动页面/微信朋友圈/众分包报9240/众分包报",
+		"/D/活动页面/微信朋友圈/weishop81c1",
+		"/D/workspace/react-demo-test/node_modules/_iscroll@5.2.0@iscroll",
+		"/D/workspace/lyr-project/dist",
 		"/E/FileRecv/下载/react-redux-router-master/react-redux-router-master",
 		"/D/workspace/whyd/Default",
-		"/D/workspace/vote_jys",
 		"/D/workspace/vuetest",
 		"/D/workspace/whyd",
 		"/D/workspace/lyr-project",
-		"/D/workspace/react-demo-test",
 		"/F/workspace/sublime-h5-project",
 		"/D/workspace/mini_game",
 		"/D/workspace/eslint-test",
@@ -18,11 +44,11 @@
 		"/E/FileRecv/下载/weapp-adapter"
 	],
 	"last_version": 3143,
-	"last_window_id": 19,
+	"last_window_id": 35,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 845.0,
+		"new_window_height": 819.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -30,92 +56,516 @@
 				"selected_items":
 				[
 					[
-						"fu",
+						"fUn",
 						"function"
 					],
 					[
-						"ad",
-						"addEventListener"
+						"g_",
+						"g_modelMatrix"
 					],
 					[
-						"ADD",
-						"addEventListener"
+						"roa",
+						"rotate"
 					],
 					[
-						"re",
-						"return"
+						"BAS",
+						"baseHeight"
 					],
 					[
-						"str",
-						"str"
+						"TRANS",
+						"translate"
+					],
+					[
+						"arm1",
+						"arm1Length"
+					],
+					[
+						"bas",
+						"baseHeight"
+					],
+					[
+						"dra",
+						"drawBox"
+					],
+					[
+						"set",
+						"setTranslate"
+					],
+					[
+						"g_joi",
+						"g_joint3Angle"
+					],
+					[
+						"g_jo",
+						"g_joint2Angle"
+					],
+					[
+						"CA",
+						"canvas"
+					],
+					[
+						"fu",
+						"fun\tFunction"
+					],
+					[
+						"uni",
+						"uniformMatrix4fv"
+					],
+					[
+						"tr",
+						"transpose"
+					],
+					[
+						"g_M",
+						"g_mvpMatrix"
+					],
+					[
+						"view",
+						"viewProjMatrix"
+					],
+					[
+						"rota",
+						"rotate"
+					],
+					[
+						"cle",
+						"clear"
+					],
+					[
+						"t",
+						"true"
+					],
+					[
+						"DA",
+						"data"
+					],
+					[
+						"buff",
+						"bufferData"
+					],
+					[
+						"inde",
+						"indices"
+					],
+					[
+						"el",
+						"ELEMENT_ARRAY_BUFFER"
+					],
+					[
+						"nor",
+						"normals"
+					],
+					[
+						"ini",
+						"initArrayBuffer"
+					],
+					[
+						"u_M",
+						"u_MvpMatrix"
+					],
+					[
+						"vie",
+						"viewProjMatrix"
+					],
+					[
+						"ANGLE",
+						"ANGLE_STEP"
+					],
+					[
+						"dr",
+						"drawElements"
+					],
+					[
+						"De",
+						"DEPTH_TEST"
+					],
+					[
+						"uniof",
+						"uniformMatrix4fv"
+					],
+					[
+						"unifo",
+						"uniformMatrix4fv"
+					],
+					[
+						"MO",
+						"modelMatrix"
+					],
+					[
+						"MU",
+						"multiply"
+					],
+					[
+						"unif",
+						"uniformMatrix4fv"
+					],
+					[
+						"mo",
+						"model"
+					],
+					[
+						"no",
+						"normalMatrix"
+					],
+					[
+						"un",
+						"uniform3f"
+					],
+					[
+						"u_L",
+						"u_LightCorlor"
+					],
+					[
+						"u_Ligh",
+						"u_LightCorlor"
+					],
+					[
+						"No",
+						"NormalMatrixix"
+					],
+					[
+						"D",
+						"DEPTH_TEST"
+					],
+					[
+						"en",
+						"enable"
+					],
+					[
+						"var",
+						"var"
+					],
+					[
+						"mat",
+						"mat4"
+					],
+					[
+						"mode",
+						"modeMartrix"
+					],
+					[
+						"vertexa",
+						"vertexAttribPointer"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"crea",
+						"createBuffer"
+					],
+					[
+						"tra",
+						"TRIANGLES"
+					],
+					[
+						"Ma",
+						"Matrix4"
+					],
+					[
+						"u_Li",
+						"u_LightDirection"
+					],
+					[
+						"li",
+						"lightDirection"
+					],
+					[
+						"ligh",
+						"u_LightDirection"
+					],
+					[
+						"GET",
+						"getUniformLocation"
+					],
+					[
+						"init",
+						"initVertexBuffers"
+					],
+					[
+						"do",
+						"document"
+					],
+					[
+						"FS",
+						"FSHADER_SOURCE"
+					],
+					[
+						"pr",
+						"projMatrix"
+					],
+					[
+						"PR",
+						"projMatrix"
+					],
+					[
+						"get",
+						"getUniformLocation"
+					],
+					[
+						"g_e",
+						"g_eyeX"
+					],
+					[
+						"g_eye",
+						"g_eyeX"
+					],
+					[
+						"MODE",
+						"modelviewMatrix"
+					],
+					[
+						"drw",
+						"draw"
+					],
+					[
+						"viw",
+						"viewMatrix"
 					],
 					[
 						"FA",
 						"false"
 					],
 					[
-						"ES",
-						"else"
+						"F",
+						"FLOAT"
 					],
 					[
-						"STR",
-						"str"
+						"ver",
+						"vertexAttribPointer"
 					],
 					[
-						"d-",
-						"d-li\tdisplay: list-item;"
+						"VER",
+						"verticesColors"
 					],
 					[
-						"d",
-						"d-f\tdisplay: flex;"
+						"T",
+						"TRIANGLES"
 					],
 					[
-						"tr",
-						"trf\ttransform"
+						"ge",
+						"getUniformLocation"
 					],
 					[
-						"tran",
-						"transform"
+						"Fs",
+						"FSHADER_SOURCE"
 					],
 					[
-						"ma",
-						"margin"
+						"tex",
+						"texUnit"
 					],
 					[
-						"wi",
-						"width"
+						"g_te",
+						"g_texUnit1"
 					],
 					[
-						"co",
-						"color"
+						"TE",
+						"TEXTURE0"
 					],
 					[
-						"a",
-						"auto"
+						"us",
+						"u_Sampler1"
 					],
 					[
-						"img",
-						"img_url"
+						"TEX",
+						"TEXTURE_2D"
 					],
 					[
-						"ret",
+						"re",
 						"return"
 					],
 					[
-						"ar",
-						"arguments"
+						"u",
+						"u_Sampler"
 					],
 					[
-						"for",
-						"for\tfor (…) {…}"
+						"GL",
+						"gl"
 					],
 					[
-						"f",
-						"fun\tFunction"
+						"a_",
+						"a_Position"
 					],
 					[
-						"li",
-						"link\tTag"
+						"va",
+						"var"
+					],
+					[
+						"U",
+						"u_Sampler"
+					],
+					[
+						"v_",
+						"v_TextCoord"
+					],
+					[
+						"vec",
+						"vec2"
+					],
+					[
+						"u_",
+						"u_Height"
+					],
+					[
+						"Fra",
+						"gl_FragColor"
+					],
+					[
+						"a",
+						"a_PointSize"
+					],
+					[
+						"G",
+						"gl"
+					],
+					[
+						"ve",
+						"vertexAttribPointer"
+					],
+					[
+						"vertexAttrib",
+						"vertexAttribPointer"
+					],
+					[
+						"VE",
+						"verticesSizes"
+					],
+					[
+						"bu",
+						"bufferData"
+					],
+					[
+						"A",
+						"ARRAY_BUFFER"
+					],
+					[
+						"cre",
+						"createBuffer"
+					],
+					[
+						"g",
+						"g_last"
+					],
+					[
+						"xformMa",
+						"u_xformMatrix"
+					],
+					[
+						"sin",
+						"sinB"
+					],
+					[
+						"s",
+						"STATIC_DRAW"
+					],
+					[
+						"vER",
+						"vertexBuffer"
+					],
+					[
+						"cl",
+						"clearColor"
+					],
+					[
+						"si",
+						"sinB"
+					],
+					[
+						"cos",
+						"cosB"
+					],
+					[
+						"U_",
+						"u_SinB"
+					],
+					[
+						"pro",
+						"program"
+					],
+					[
+						"in",
+						"initVertexBuffers"
+					],
+					[
+						"loca",
+						"localStorage"
+					],
+					[
+						"pa",
+						"param"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"Us",
+						"Users"
+					],
+					[
+						"Users",
+						"UsersSchema"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"ne",
+						"newNode"
+					],
+					[
+						"p",
+						"prev10"
+					],
+					[
+						"l2",
+						"l2_length"
+					],
+					[
+						"nu",
+						"null"
+					],
+					[
+						"v",
+						"var"
+					],
+					[
+						"c",
+						"currentNode"
+					],
+					[
+						"num",
+						"nums"
+					],
+					[
+						"index",
+						"index_num"
+					],
+					[
+						"ma",
+						"matrix"
+					],
+					[
+						"sc",
+						"scroller"
+					],
+					[
+						"scr",
+						"scroller"
 					]
 				]
 			},
@@ -125,17 +575,17 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 189.0,
-				"last_filter": "remove",
+				"height": 139.0,
+				"last_filter": "install",
 				"selected_items":
 				[
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
 					],
 					[
 						"set",
@@ -164,94 +614,144 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/D/workspace/common_simple_frame/vue-common-simple-frame/.editorconfig",
+				"/D/workspace/vue-code-review/代码规范.MD",
+				"/D/workspace/common_simple_frame/vue-common-simple-frame/.eslintrc.js",
+				"/D/workspace/vue-devtools-master/shells/chrome/manifest.json",
+				"/D/workspace/vue-dev/src/platforms/web/runtime/index.js",
+				"/D/workspace/vue-dev/src/platforms/web/entry-runtime-with-compiler.js",
+				"/D/workspace/vue-dev/src/compiler/index.js",
+				"/D/workspace/vue-dev/src/core/instance/lifecycle.js",
+				"/D/workspace/vue-dev/src/compiler/codegen/index.js",
+				"/D/workspace/vue-dev/src/compiler/create-compiler.js",
+				"/E/FileRecv/下载/common_simple_frame.md",
+				"/D/workspace/vue-dev/src/core/index.js",
+				"/D/workspace/vue-code-review/review1.MD",
+				"/D/workspace/vue-dev/src/core/instance/init.js",
+				"/D/workspace/vue-dev/src/core/observer/index.js",
+				"/D/workspace/vue-dev/src/core/instance/events.js",
+				"/D/workspace/vue-dev/src/core/instance/state.js",
+				"/D/workspace/vue-dev/src/core/instance/render.js",
+				"/D/workspace/vue-dev/examples/grid/grid.js",
+				"/D/workspace/vue-dev/src/core/instance/index.js",
+				"/D/workspace/vue-dev/src/core/observer/dep.js",
+				"/D/workspace/vue-dev/src/core/observer/watcher.js",
+				"/D/workspace/vue-code-review/market_page.MD",
+				"/D/workspace/vue-code-review/vue-code-review2.MD",
+				"/D/workspace/vue-dev/src/core/util/index.js",
+				"/D/workspace/vue-dev/src/core/instance/inject.js",
+				"/D/workspace/vue-dev/examples/grid/index.html",
+				"/D/workspace/vue-dev/examples/commits/app.js",
+				"/D/workspace/vue-dev/scripts/config.js",
+				"/D/workspace/vue-dev/examples/commits/index.html",
+				"/D/workspace/vote_jys/test.html",
 				"/D/workspace/vote_jys/js/vote.js",
-				"/D/workspace/react-demo-test/src_demo/lib/public.js",
-				"/D/workspace/whyd/Default/Public/new_footer.html",
-				"/D/workspace/react-demo-test/src/a.js",
-				"/F/workspace/sublime-h5-project/index.html",
-				"/G/FTP本地路径/无锡/移动/kysd.html",
-				"/F/workspace/sublime-h5-project/css/test.css",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
-				"/E/FileRecv/下载/weapp-adapter/src/Node.js",
-				"/E/FileRecv/下载/weapp-adapter/README.md",
-				"/E/FileRecv/下载/weapp-adapter/src/WebSocket.js",
-				"/G/FTP本地路径/芜湖/PC/wwkaiye.html",
-				"/G/FTP本地路径/芜湖/PC/youhui.html",
-				"/G/FTP本地路径/芜湖/移动/wwkaiye.html",
+				"/D/workspace/vue-dev/src/core/vdom/helpers/index.js",
+				"/D/workspace/vue-code-review/review2.MD",
+				"/D/workspace/vue-code-review/front-stu.MD",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch09/MultiJointModel.js",
+				"/E/wamp25/www/web/webgl/demo1/index.html",
+				"/E/wamp25/www/web/webgl/demo1/HelloCanvas.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/LightedCube_perFragment.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/PointLightedCube.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch09/JointModel.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/PointLightedCube_animation.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/LightedTranslatedRotatedCube.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/LightedCube_ambient.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/Zfighting.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/HelloCube.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/ColoredCube.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtTrianglesWithKeys_ViewVolume.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/OrthoView.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtTrianglesWithKeys.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtRotatedTriangles.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtTriangles.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch05/TexturedQuad.js",
+				"/D/workspace/webgl/demo1/index.html",
+				"/D/workspace/webgl/demo1/HelloCanvas.js",
+				"/G/FTP本地路径/无锡/PC/kysd.html",
 				"/G/FTP本地路径/芜湖/移动/articlecx.html",
-				"/E/FileRecv/下载/weapp-adapter/src/localStorage.js",
-				"/E/FileRecv/下载/weapp-adapter/src/index.js",
-				"/E/FileRecv/下载/weapp-adapter/src/window.js",
-				"/E/FileRecv/下载/weapp-adapter/src/HTMLElement.js",
-				"/E/FileRecv/下载/weapp-adapter/src/HTMLMediaElement.js",
-				"/E/FileRecv/下载/weapp-adapter/src/HTMLAudioElement.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
-				"/E/FileRecv/下载/weapp-adapter/src/FileReader.js",
-				"/E/FileRecv/下载/weapp-adapter/src/Canvas.js",
-				"/E/FileRecv/下载/weapp-adapter/src/navigator.js",
-				"/E/FileRecv/下载/weapp-adapter/src/Audio.js",
-				"/D/workspace/mini_game/README.md",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
-				"/E/FileRecv/下载/filemap-master/filemap-master/filemap.js",
-				"/E/FileRecv/下载/filemap-master/filemap-master/package.json",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
-				"/D/workspace/eslint-test/test.js",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/.eslintrc.js",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/index.js",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/package.json",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/README.md",
-				"/D/workspace/eslint-test/package.json",
-				"/D/workspace/eslint-test/.eslintrc.js",
-				"/D/workspace/eslint-test/public-eslintrc.js",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/mocha.js",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/LICENSE",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/.gitignore",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/wechat.js",
-				"/E/FileRecv/下载/weapp-adapter/.eslintrc",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/json.tmpl",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/js.tmpl",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/xml.tmpl",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl/Default.sublime-commands",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default.sublime-commands",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
-				"/E/wamp25/www/web/sublime-project/css/index.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
-				"/E/FileRecv/下载/weapp-adapter/src/util/test.js",
-				"/E/sublime-project/css/index.css",
-				"/E/sublime-project/css/index.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/sublime_alignment-master/Default (Windows).sublime-keymap",
-				"/E/sublime-project/index.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/html.tmpl",
-				"/E/sublime-project/css/test.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CompactExpandCss-master/Default (Windows).sublime-keymap",
-				"/E/sublime-project/css/test.index",
-				"/C/Users/Administrator/Desktop/360安全浏览器.lnk",
-				"/E/sublime_project/index.html"
+				"/G/FTP本地路径/芜湖/移动/youhui.html",
+				"/F/wamp12/www/TP/Application/Home/Controller/IndexController.class.php",
+				"/G/FTP本地路径/无锡/移动/kysd_xmt.html",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch02/ClickedPoints.js",
+				"/G/FTP本地路径/无锡/移动/kysd.html",
+				"/G/FTP本地路径/无锡/移动/form.js",
+				"/G/FTP本地路径/无锡/移动/xinmeiti.html",
+				"/G/FTP本地路径/无锡/移动/ChannelAction.class.php",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/转盘/xmt_dzp.html",
+				"/G/FTP本地路径/无锡/移动/index.html",
+				"/F/wamp12/www/TP/Application/Home/Model/DrawprizeRecordModel.class.php",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/转盘/js/turntable.js",
+				"/E/BaiduNetdiskDownload/liu/weixinme/js/obj/draw_wheel.js",
+				"/E/BaiduNetdiskDownload/liu/weixinme/draw_wheel.html",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/turntable.js",
+				"/G/FTP本地路径/芜湖/移动/baojia.html",
+				"/D/workspace/mynode/myproject/app.js",
+				"/D/workspace/mynode/myproject/schemas/user.js",
+				"/D/workspace/mynode/myproject/modules/users.js",
+				"/D/workspace/mynode/myproject/routes/users.js",
+				"/D/workspace/mynode/myproject/views/users.jade",
+				"/D/workspace/mynode/myproject/routes/index.js",
+				"/G/FTP本地路径/芜湖/移动/weibo.js",
+				"/D/workspace/mynode/myproject/package.json",
+				"/G/FTP本地路径/芜湖/移动/form_spread2.html",
+				"/G/FTP本地路径/芜湖/移动/cspd2.html",
+				"/G/FTP本地路径/芜湖/移动/form.js",
+				"/G/FTP本地路径/无锡/PC/cspdsj.html",
+				"/D/workspace/leetcode/Add Two Numbers/index.html",
+				"/D/workspace/leetcode/Add Two Numbers/leetcode.js",
+				"/G/FTP本地路径/合肥/移动/zxhd.html",
+				"/G/FTP本地路径/合肥/PC/header.html",
+				"/G/FTP本地路径/芜湖/PC/youhui.html",
+				"/G/FTP本地路径/无锡/PC/kysd1.html",
+				"/G/FTP本地路径/无锡/PC/kysd2.html",
+				"/G/FTP本地路径/无锡/PC/kysd--备份.html",
+				"/D/workspace/leetcode/LinkedList/linkedlist.js",
+				"/D/workspace/leetcode/LinkedList/index.html",
+				"/G/FTP本地路径/无锡/PC/kysd3.html",
+				"/G/FTP本地路径/芜湖/移动/zhuangxiu.html",
+				"/G/FTP本地路径/芜湖/移动/index.html",
+				"/D/workspace/leetcode/three_sum/leetcode.js",
+				"/D/workspace/leetcode/two_sum/index.html",
+				"/D/workspace/leetcode/two_sum/leetcode.js",
+				"/D/workspace/leetcode/three_sum/index.html",
+				"/D/workspace/leetcode/threeSumClosest/index.html",
+				"/D/workspace/leetcode/threeSumClosest/leetcode.js",
+				"/D/workspace/leetcode/Two_sum.js",
+				"/D/workspace/ResumeSample-master/冷熊简历 (1).MD",
+				"/D/活动页面/微信朋友圈/weishop81c1/weishop/js/jquery.fly.min.js",
+				"/D/活动页面/微信朋友圈/weishop81c1/weishop/js/express_Arr.js",
+				"/G/FTP本地路径/合肥/PC/jquery.page.js",
+				"/G/FTP本地路径/合肥/PC/hhqb.html",
+				"/G/FTP本地路径/合肥/PC/hhqb.js",
+				"/D/workspace/react-demo-test/node_modules/_iscroll@5.2.0@iscroll/src/core2.js",
+				"/D/workspace/whyd/Default/Public/footer.html",
+				"/D/workspace/react-demo-test/node_modules/_iscroll@5.2.0@iscroll/src/keys/keys.js",
+				"/D/workspace/react-demo-test/README.md",
+				"/D/workspace/react-demo-test/src_demo/components/index.js",
+				"/D/workspace/react-demo-test/webpack.config.pro.js",
+				"/D/workspace/react-demo-test/src_demo/actions/index.js",
+				"/D/workspace/react-demo-test/src_demo/reducers/todos.js",
+				"/D/workspace/react-demo-test/public/css/base.css",
+				"/D/workspace/react-demo-test/public/scss/loading.scss",
+				"/D/workspace/react-demo-test/public/scss/test.scss",
+				"/D/workspace/react-demo-test/src_demo/constants/ActionsTypes.js",
+				"/D/workspace/react-demo-test/src_demo/components/SignUp.js",
+				"/D/workspace/vote_jys/test_3.html"
 			],
 			"find":
 			{
-				"height": 37.0
+				"height": 27.0
 			},
 			"find_in_files":
 			{
-				"height": 104.0,
+				"height": 109.0,
 				"where_history":
 				[
-					""
 				]
 			},
 			"find_state":
@@ -259,66 +759,6 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"String",
-					"section1",
-					"banner",
-					"index_banner",
-					"container",
-					"h2",
-					"img_box",
-					"removeChild",
-					"cloneNode",
-					"appendChild",
-					"EventTarget",
-					"__isAdapterInjected",
-					"GameGlobal",
-					"getSystemInfoSync",
-					"setTimeout",
-					"play",
-					"pause",
-					"        \n",
-					"load",
-					"fastSeek",
-					"captureStream",
-					"addTextTrack",
-					"clientWidth",
-					"getAttribute",
-					"setAttribute",
-					"constructor",
-					"extends",
-					"HTMLElement",
-					"extends",
-					"HTMLMediaElement",
-					"dispatchEvent",
-					"addEventListener",
-					"EventTarget",
-					"dispatchEvent",
-					"removeEventListener",
-					"addEventListener",
-					"querySelector",
-					"querySelectorAll",
-					"通过元素标签名选择：getElementByTagname",
-					"argument",
-					"console",
-					"ccaccc",
-					" =",
-					"62DA24",
-					"item12345",
-					"=\"",
-					"\t\t<li class=\"item12345\"><a href=\"\">Item 1</a></li>\n",
-					"function_name",
-					"li",
-					">\n\t\n",
-					"\t\n",
-					"li",
-					"Item",
-					"\n</",
-					"ul",
-					"\n</",
-					"\t\n",
-					"ul",
-					"stylesheet",
-					">\n"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -326,7 +766,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -340,12 +779,16 @@
 			},
 			"input":
 			{
-				"height": 36.0
+				"height": 37.0
 			},
 			"menu_visible": true,
 			"output.SublimeLinter":
 			{
 				"height": 0.0
+			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 122.0
 			},
 			"output.find_results":
 			{
@@ -354,6 +797,10 @@
 			"output.markdown":
 			{
 				"height": 122.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
 			},
 			"pinned_build_system": "",
 			"replace":
@@ -398,7 +845,7 @@
 			{
 			}
 		},
-		"new_window_width": 1701.0
+		"new_window_width": 1007.0
 	},
 	"windows":
 	[
@@ -408,117 +855,537 @@
 				"selected_items":
 				[
 					[
-						"te",
-						"test"
-					],
-					[
-						"fu",
+						"fUn",
 						"function"
 					],
 					[
-						"ad",
-						"addEventListener"
+						"g_",
+						"g_modelMatrix"
 					],
 					[
-						"ADD",
-						"addEventListener"
+						"roa",
+						"rotate"
 					],
 					[
-						"re",
-						"return"
+						"BAS",
+						"baseHeight"
 					],
 					[
-						"str",
-						"str"
+						"TRANS",
+						"translate"
+					],
+					[
+						"arm1",
+						"arm1Length"
+					],
+					[
+						"bas",
+						"baseHeight"
+					],
+					[
+						"dra",
+						"drawBox"
+					],
+					[
+						"set",
+						"setTranslate"
+					],
+					[
+						"g_joi",
+						"g_joint3Angle"
+					],
+					[
+						"g_jo",
+						"g_joint2Angle"
+					],
+					[
+						"CA",
+						"canvas"
+					],
+					[
+						"fu",
+						"fun\tFunction"
+					],
+					[
+						"uni",
+						"uniformMatrix4fv"
+					],
+					[
+						"tr",
+						"transpose"
+					],
+					[
+						"g_M",
+						"g_mvpMatrix"
+					],
+					[
+						"view",
+						"viewProjMatrix"
+					],
+					[
+						"rota",
+						"rotate"
+					],
+					[
+						"cle",
+						"clear"
+					],
+					[
+						"t",
+						"true"
+					],
+					[
+						"DA",
+						"data"
+					],
+					[
+						"buff",
+						"bufferData"
+					],
+					[
+						"inde",
+						"indices"
+					],
+					[
+						"el",
+						"ELEMENT_ARRAY_BUFFER"
+					],
+					[
+						"nor",
+						"normals"
+					],
+					[
+						"ini",
+						"initArrayBuffer"
+					],
+					[
+						"u_M",
+						"u_MvpMatrix"
+					],
+					[
+						"vie",
+						"viewProjMatrix"
+					],
+					[
+						"ANGLE",
+						"ANGLE_STEP"
+					],
+					[
+						"dr",
+						"drawElements"
+					],
+					[
+						"De",
+						"DEPTH_TEST"
+					],
+					[
+						"uniof",
+						"uniformMatrix4fv"
+					],
+					[
+						"unifo",
+						"uniformMatrix4fv"
+					],
+					[
+						"MO",
+						"modelMatrix"
+					],
+					[
+						"MU",
+						"multiply"
+					],
+					[
+						"unif",
+						"uniformMatrix4fv"
+					],
+					[
+						"mo",
+						"model"
+					],
+					[
+						"no",
+						"normalMatrix"
+					],
+					[
+						"un",
+						"uniform3f"
+					],
+					[
+						"u_L",
+						"u_LightCorlor"
+					],
+					[
+						"u_Ligh",
+						"u_LightCorlor"
+					],
+					[
+						"No",
+						"NormalMatrixix"
+					],
+					[
+						"D",
+						"DEPTH_TEST"
+					],
+					[
+						"en",
+						"enable"
+					],
+					[
+						"var",
+						"var"
+					],
+					[
+						"mat",
+						"mat4"
+					],
+					[
+						"mode",
+						"modeMartrix"
+					],
+					[
+						"vertexa",
+						"vertexAttribPointer"
+					],
+					[
+						"da",
+						"data"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"crea",
+						"createBuffer"
+					],
+					[
+						"tra",
+						"TRIANGLES"
+					],
+					[
+						"Ma",
+						"Matrix4"
+					],
+					[
+						"u_Li",
+						"u_LightDirection"
+					],
+					[
+						"li",
+						"lightDirection"
+					],
+					[
+						"ligh",
+						"u_LightDirection"
+					],
+					[
+						"GET",
+						"getUniformLocation"
+					],
+					[
+						"init",
+						"initVertexBuffers"
+					],
+					[
+						"do",
+						"document"
+					],
+					[
+						"FS",
+						"FSHADER_SOURCE"
+					],
+					[
+						"pr",
+						"projMatrix"
+					],
+					[
+						"PR",
+						"projMatrix"
+					],
+					[
+						"get",
+						"getUniformLocation"
+					],
+					[
+						"g_e",
+						"g_eyeX"
+					],
+					[
+						"g_eye",
+						"g_eyeX"
+					],
+					[
+						"MODE",
+						"modelviewMatrix"
+					],
+					[
+						"drw",
+						"draw"
+					],
+					[
+						"viw",
+						"viewMatrix"
 					],
 					[
 						"FA",
 						"false"
 					],
 					[
-						"ES",
-						"else"
+						"F",
+						"FLOAT"
 					],
 					[
-						"STR",
-						"str"
+						"ver",
+						"vertexAttribPointer"
 					],
 					[
-						"d-",
-						"d-li\tdisplay: list-item;"
+						"VER",
+						"verticesColors"
 					],
 					[
-						"d",
-						"d-f\tdisplay: flex;"
+						"T",
+						"TRIANGLES"
 					],
 					[
-						"tr",
-						"trf\ttransform"
+						"ge",
+						"getUniformLocation"
 					],
 					[
-						"tran",
-						"transform"
+						"Fs",
+						"FSHADER_SOURCE"
 					],
 					[
-						"ma",
-						"margin"
+						"tex",
+						"texUnit"
 					],
 					[
-						"wi",
-						"width"
+						"g_te",
+						"g_texUnit1"
 					],
 					[
-						"co",
-						"color"
+						"TE",
+						"TEXTURE0"
 					],
 					[
-						"a",
-						"auto"
+						"us",
+						"u_Sampler1"
 					],
 					[
-						"img",
-						"img_url"
+						"TEX",
+						"TEXTURE_2D"
 					],
 					[
-						"ret",
+						"re",
 						"return"
 					],
 					[
-						"ar",
-						"arguments"
+						"u",
+						"u_Sampler"
 					],
 					[
-						"for",
-						"for\tfor (…) {…}"
+						"GL",
+						"gl"
 					],
 					[
-						"f",
-						"fun\tFunction"
+						"a_",
+						"a_Position"
 					],
 					[
-						"li",
-						"link\tTag"
+						"va",
+						"var"
+					],
+					[
+						"U",
+						"u_Sampler"
+					],
+					[
+						"v_",
+						"v_TextCoord"
+					],
+					[
+						"vec",
+						"vec2"
+					],
+					[
+						"u_",
+						"u_Height"
+					],
+					[
+						"Fra",
+						"gl_FragColor"
+					],
+					[
+						"a",
+						"a_PointSize"
+					],
+					[
+						"G",
+						"gl"
+					],
+					[
+						"ve",
+						"vertexAttribPointer"
+					],
+					[
+						"vertexAttrib",
+						"vertexAttribPointer"
+					],
+					[
+						"VE",
+						"verticesSizes"
+					],
+					[
+						"bu",
+						"bufferData"
+					],
+					[
+						"A",
+						"ARRAY_BUFFER"
+					],
+					[
+						"cre",
+						"createBuffer"
+					],
+					[
+						"g",
+						"g_last"
+					],
+					[
+						"xformMa",
+						"u_xformMatrix"
+					],
+					[
+						"sin",
+						"sinB"
+					],
+					[
+						"s",
+						"STATIC_DRAW"
+					],
+					[
+						"vER",
+						"vertexBuffer"
+					],
+					[
+						"cl",
+						"clearColor"
+					],
+					[
+						"si",
+						"sinB"
+					],
+					[
+						"cos",
+						"cosB"
+					],
+					[
+						"U_",
+						"u_SinB"
+					],
+					[
+						"pro",
+						"program"
+					],
+					[
+						"in",
+						"initVertexBuffers"
+					],
+					[
+						"loca",
+						"localStorage"
+					],
+					[
+						"pa",
+						"param"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"Us",
+						"Users"
+					],
+					[
+						"Users",
+						"UsersSchema"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"ne",
+						"newNode"
+					],
+					[
+						"p",
+						"prev10"
+					],
+					[
+						"l2",
+						"l2_length"
+					],
+					[
+						"nu",
+						"null"
+					],
+					[
+						"v",
+						"var"
+					],
+					[
+						"c",
+						"currentNode"
+					],
+					[
+						"num",
+						"nums"
+					],
+					[
+						"index",
+						"index_num"
+					],
+					[
+						"ma",
+						"matrix"
+					],
+					[
+						"sc",
+						"scroller"
+					],
+					[
+						"scr",
+						"scroller"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/D/workspace/react-demo-test/public/scss/test.scss",
+					"file": "/D/workspace/common_simple_frame/common-simple/common-simple/src/components/HelloWorld.vue",
 					"settings":
 					{
-						"buffer_size": 508,
+						"buffer_size": 1904,
 						"encoding": "UTF-8",
-						"line_ending": "Windows"
+						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/D/workspace/react-demo-test/src_demo/components/alert.js",
+					"file": "/D/workspace/common_simple_frame/common-simple/common-simple/.eslintrc.js",
 					"settings":
 					{
-						"buffer_size": 385,
+						"buffer_size": 16752,
 						"encoding": "UTF-8",
-						"line_ending": "Windows"
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -529,17 +1396,17 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 189.0,
-				"last_filter": "remove",
+				"height": 139.0,
+				"last_filter": "install",
 				"selected_items":
 				[
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
 					],
 					[
 						"set",
@@ -568,102 +1435,144 @@
 			},
 			"expanded_folders":
 			[
-				"/D/workspace/react-demo-test",
-				"/D/workspace/react-demo-test/public",
-				"/D/workspace/react-demo-test/public/scss",
-				"/D/workspace/react-demo-test/src_demo",
-				"/D/workspace/react-demo-test/src_demo/components",
-				"/E/FileRecv/下载/react-redux-router-master/react-redux-router-master",
-				"/E/FileRecv/下载/react-redux-router-master/react-redux-router-master/src",
-				"/E/FileRecv/下载/react-redux-router-master/react-redux-router-master/src/home",
-				"/E/FileRecv/下载/react-redux-router-master/react-redux-router-master/src/home/components",
-				"/E/FileRecv/下载/react-redux-router-master/react-redux-router-master/src/home/components/alert"
+				"/D/workspace/common_simple_frame/common-simple/common-simple",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src/assets",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src/components",
+				"/D/workspace/vue-code-review",
+				"/D/workspace/webgl",
+				"/D/workspace/webgl/demo1"
 			],
 			"file_history":
 			[
-				"/D/workspace/react-demo-test/src_demo/components/alert.js",
-				"/D/workspace/react-demo-test/src_demo/index.js",
-				"/D/workspace/react-demo-test/public/scss/test.scss",
-				"/D/workspace/react-demo-test/package.json",
-				"/D/workspace/react-demo-test/webpack.config.js",
-				"/D/workspace/react-demo-test/webpack.config.pro.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src/main.js",
+				"/D/workspace/vue-code-review/代码规范.MD",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/.eslintrc.js",
+				"/D/workspace/webgl/demo1/HelloCanvas.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/D/workspace/common_simple_frame/vue-common-simple-frame/.editorconfig",
+				"/D/workspace/common_simple_frame/vue-common-simple-frame/.eslintrc.js",
+				"/D/workspace/vue-devtools-master/shells/chrome/manifest.json",
+				"/D/workspace/vue-dev/src/platforms/web/runtime/index.js",
+				"/D/workspace/vue-dev/src/platforms/web/entry-runtime-with-compiler.js",
+				"/D/workspace/vue-dev/src/compiler/index.js",
+				"/D/workspace/vue-dev/src/core/instance/lifecycle.js",
+				"/D/workspace/vue-dev/src/compiler/codegen/index.js",
+				"/D/workspace/vue-dev/src/compiler/create-compiler.js",
+				"/E/FileRecv/下载/common_simple_frame.md",
+				"/D/workspace/vue-dev/src/core/index.js",
+				"/D/workspace/vue-code-review/review1.MD",
+				"/D/workspace/vue-dev/src/core/instance/init.js",
+				"/D/workspace/vue-dev/src/core/observer/index.js",
+				"/D/workspace/vue-dev/src/core/instance/events.js",
+				"/D/workspace/vue-dev/src/core/instance/state.js",
+				"/D/workspace/vue-dev/src/core/instance/render.js",
+				"/D/workspace/vue-dev/examples/grid/grid.js",
+				"/D/workspace/vue-dev/src/core/instance/index.js",
+				"/D/workspace/vue-dev/src/core/observer/dep.js",
+				"/D/workspace/vue-dev/src/core/observer/watcher.js",
+				"/D/workspace/vue-code-review/market_page.MD",
+				"/D/workspace/vue-code-review/vue-code-review2.MD",
+				"/D/workspace/vue-dev/src/core/util/index.js",
+				"/D/workspace/vue-dev/src/core/instance/inject.js",
+				"/D/workspace/vue-dev/examples/grid/index.html",
+				"/D/workspace/vue-dev/examples/commits/app.js",
+				"/D/workspace/vue-dev/scripts/config.js",
+				"/D/workspace/vue-dev/examples/commits/index.html",
+				"/D/workspace/vote_jys/test.html",
 				"/D/workspace/vote_jys/js/vote.js",
-				"/D/workspace/react-demo-test/src_demo/lib/public.js",
-				"/D/workspace/whyd/Default/Public/new_footer.html",
-				"/D/workspace/react-demo-test/src/a.js",
-				"/F/workspace/sublime-h5-project/index.html",
-				"/G/FTP本地路径/无锡/移动/kysd.html",
-				"/F/workspace/sublime-h5-project/css/test.css",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
-				"/E/FileRecv/下载/weapp-adapter/src/Node.js",
-				"/E/FileRecv/下载/weapp-adapter/README.md",
-				"/E/FileRecv/下载/weapp-adapter/src/WebSocket.js",
-				"/G/FTP本地路径/芜湖/PC/wwkaiye.html",
-				"/G/FTP本地路径/芜湖/PC/youhui.html",
-				"/G/FTP本地路径/芜湖/移动/wwkaiye.html",
+				"/D/workspace/vue-dev/src/core/vdom/helpers/index.js",
+				"/D/workspace/vue-code-review/review2.MD",
+				"/D/workspace/vue-code-review/front-stu.MD",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch09/MultiJointModel.js",
+				"/E/wamp25/www/web/webgl/demo1/index.html",
+				"/E/wamp25/www/web/webgl/demo1/HelloCanvas.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/LightedCube_perFragment.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/PointLightedCube.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch09/JointModel.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/PointLightedCube_animation.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/LightedTranslatedRotatedCube.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/LightedCube_ambient.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/Zfighting.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/HelloCube.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/ColoredCube.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtTrianglesWithKeys_ViewVolume.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/OrthoView.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtTrianglesWithKeys.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtRotatedTriangles.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtTriangles.js",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch05/TexturedQuad.js",
+				"/D/workspace/webgl/demo1/index.html",
+				"/G/FTP本地路径/无锡/PC/kysd.html",
 				"/G/FTP本地路径/芜湖/移动/articlecx.html",
-				"/E/FileRecv/下载/weapp-adapter/src/localStorage.js",
-				"/E/FileRecv/下载/weapp-adapter/src/index.js",
-				"/E/FileRecv/下载/weapp-adapter/src/window.js",
-				"/E/FileRecv/下载/weapp-adapter/src/HTMLElement.js",
-				"/E/FileRecv/下载/weapp-adapter/src/HTMLMediaElement.js",
-				"/E/FileRecv/下载/weapp-adapter/src/HTMLAudioElement.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
-				"/E/FileRecv/下载/weapp-adapter/src/FileReader.js",
-				"/E/FileRecv/下载/weapp-adapter/src/Canvas.js",
-				"/E/FileRecv/下载/weapp-adapter/src/navigator.js",
-				"/E/FileRecv/下载/weapp-adapter/src/Audio.js",
-				"/D/workspace/mini_game/README.md",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
-				"/E/FileRecv/下载/filemap-master/filemap-master/filemap.js",
-				"/E/FileRecv/下载/filemap-master/filemap-master/package.json",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
-				"/D/workspace/eslint-test/test.js",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/.eslintrc.js",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/index.js",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/package.json",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/README.md",
-				"/D/workspace/eslint-test/package.json",
-				"/D/workspace/eslint-test/.eslintrc.js",
-				"/D/workspace/eslint-test/public-eslintrc.js",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/mocha.js",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/LICENSE",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/.gitignore",
-				"/E/FileRecv/下载/eslint-config-lei-master/eslint-config-lei-master/wechat.js",
-				"/E/FileRecv/下载/weapp-adapter/.eslintrc",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/json.tmpl",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/js.tmpl",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/xml.tmpl",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl/Default.sublime-commands",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default.sublime-commands",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl.sublime-settings",
-				"/E/wamp25/www/web/sublime-project/css/index.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
-				"/E/FileRecv/下载/weapp-adapter/src/util/test.js",
-				"/E/sublime-project/css/index.css",
-				"/E/sublime-project/css/index.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/sublime_alignment-master/Default (Windows).sublime-keymap",
-				"/E/sublime-project/index.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/html.tmpl",
-				"/E/sublime-project/css/test.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/CompactExpandCss-master/Default (Windows).sublime-keymap",
-				"/E/sublime-project/css/test.index",
-				"/C/Users/Administrator/Desktop/360安全浏览器.lnk",
-				"/E/sublime_project/index.html"
+				"/G/FTP本地路径/芜湖/移动/youhui.html",
+				"/F/wamp12/www/TP/Application/Home/Controller/IndexController.class.php",
+				"/G/FTP本地路径/无锡/移动/kysd_xmt.html",
+				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch02/ClickedPoints.js",
+				"/G/FTP本地路径/无锡/移动/kysd.html",
+				"/G/FTP本地路径/无锡/移动/form.js",
+				"/G/FTP本地路径/无锡/移动/xinmeiti.html",
+				"/G/FTP本地路径/无锡/移动/ChannelAction.class.php",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/转盘/xmt_dzp.html",
+				"/G/FTP本地路径/无锡/移动/index.html",
+				"/F/wamp12/www/TP/Application/Home/Model/DrawprizeRecordModel.class.php",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/转盘/js/turntable.js",
+				"/E/BaiduNetdiskDownload/liu/weixinme/js/obj/draw_wheel.js",
+				"/E/BaiduNetdiskDownload/liu/weixinme/draw_wheel.html",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/turntable.js",
+				"/G/FTP本地路径/芜湖/移动/baojia.html",
+				"/D/workspace/mynode/myproject/app.js",
+				"/D/workspace/mynode/myproject/schemas/user.js",
+				"/D/workspace/mynode/myproject/modules/users.js",
+				"/D/workspace/mynode/myproject/routes/users.js",
+				"/D/workspace/mynode/myproject/views/users.jade",
+				"/D/workspace/mynode/myproject/routes/index.js",
+				"/G/FTP本地路径/芜湖/移动/weibo.js",
+				"/D/workspace/mynode/myproject/package.json",
+				"/G/FTP本地路径/芜湖/移动/form_spread2.html",
+				"/G/FTP本地路径/芜湖/移动/cspd2.html",
+				"/G/FTP本地路径/芜湖/移动/form.js",
+				"/G/FTP本地路径/无锡/PC/cspdsj.html",
+				"/D/workspace/leetcode/Add Two Numbers/index.html",
+				"/D/workspace/leetcode/Add Two Numbers/leetcode.js",
+				"/G/FTP本地路径/合肥/移动/zxhd.html",
+				"/G/FTP本地路径/合肥/PC/header.html",
+				"/G/FTP本地路径/芜湖/PC/youhui.html",
+				"/G/FTP本地路径/无锡/PC/kysd1.html",
+				"/G/FTP本地路径/无锡/PC/kysd2.html",
+				"/G/FTP本地路径/无锡/PC/kysd--备份.html",
+				"/D/workspace/leetcode/LinkedList/linkedlist.js",
+				"/D/workspace/leetcode/LinkedList/index.html",
+				"/G/FTP本地路径/无锡/PC/kysd3.html",
+				"/G/FTP本地路径/芜湖/移动/zhuangxiu.html",
+				"/G/FTP本地路径/芜湖/移动/index.html",
+				"/D/workspace/leetcode/three_sum/leetcode.js",
+				"/D/workspace/leetcode/two_sum/index.html",
+				"/D/workspace/leetcode/two_sum/leetcode.js",
+				"/D/workspace/leetcode/three_sum/index.html",
+				"/D/workspace/leetcode/threeSumClosest/index.html",
+				"/D/workspace/leetcode/threeSumClosest/leetcode.js",
+				"/D/workspace/leetcode/Two_sum.js",
+				"/D/workspace/ResumeSample-master/冷熊简历 (1).MD",
+				"/D/活动页面/微信朋友圈/weishop81c1/weishop/js/jquery.fly.min.js",
+				"/D/活动页面/微信朋友圈/weishop81c1/weishop/js/express_Arr.js",
+				"/G/FTP本地路径/合肥/PC/jquery.page.js",
+				"/G/FTP本地路径/合肥/PC/hhqb.html",
+				"/G/FTP本地路径/合肥/PC/hhqb.js",
+				"/D/workspace/react-demo-test/node_modules/_iscroll@5.2.0@iscroll/src/core2.js",
+				"/D/workspace/whyd/Default/Public/footer.html",
+				"/D/workspace/react-demo-test/node_modules/_iscroll@5.2.0@iscroll/src/keys/keys.js",
+				"/D/workspace/react-demo-test/README.md",
+				"/D/workspace/react-demo-test/src_demo/components/index.js",
+				"/D/workspace/react-demo-test/webpack.config.pro.js",
+				"/D/workspace/react-demo-test/src_demo/actions/index.js",
+				"/D/workspace/react-demo-test/src_demo/reducers/todos.js",
+				"/D/workspace/react-demo-test/public/css/base.css",
+				"/D/workspace/react-demo-test/public/scss/loading.scss",
+				"/D/workspace/react-demo-test/public/scss/test.scss",
+				"/D/workspace/react-demo-test/src_demo/constants/ActionsTypes.js"
 			],
 			"find":
 			{
@@ -671,12 +1580,9 @@
 			},
 			"find_in_files":
 			{
-				"height": 104.0,
+				"height": 109.0,
 				"where_history":
 				[
-					"E:\\FileRecv\\下载\\react-redux-router-master\\react-redux-router-master\\src",
-					"E:\\FileRecv\\下载\\react-redux-router-master\\react-redux-router-master",
-					""
 				]
 			},
 			"find_state":
@@ -684,69 +1590,20 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"fs1",
-					"$color-white",
-					"$num",
-					"String",
-					"section1",
-					"banner",
-					"index_banner",
-					"container",
-					"h2",
-					"img_box",
-					"removeChild",
-					"cloneNode",
-					"appendChild",
-					"EventTarget",
-					"__isAdapterInjected",
-					"GameGlobal",
-					"getSystemInfoSync",
-					"setTimeout",
-					"play",
-					"pause",
-					"        \n",
-					"load",
-					"fastSeek",
-					"captureStream",
-					"addTextTrack",
-					"clientWidth",
-					"getAttribute",
-					"setAttribute",
-					"constructor",
-					"extends",
-					"HTMLElement",
-					"extends",
-					"HTMLMediaElement",
-					"dispatchEvent",
-					"addEventListener",
-					"EventTarget",
-					"dispatchEvent",
-					"removeEventListener",
-					"addEventListener",
-					"querySelector",
-					"querySelectorAll",
-					"通过元素标签名选择：getElementByTagname",
-					"argument",
-					"console",
-					"ccaccc",
-					" =",
-					"62DA24",
-					"item12345",
-					"=\"",
-					"\t\t<li class=\"item12345\"><a href=\"\">Item 1</a></li>\n",
-					"function_name",
-					"li",
-					">\n\t\n",
-					"\t\n",
-					"li",
-					"Item",
-					"\n</",
-					"ul",
-					"\n</",
-					"\t\n",
-					"ul",
-					"stylesheet",
-					">\n"
+					"no-unus",
+					"key-spacing",
+					"one-var",
+					"no-unused",
+					"no-use",
+					"new",
+					"indent",
+					"ident",
+					"semi",
+					"分号",
+					"space-return",
+					"no-empty-label",
+					"嵌套",
+					"label"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -754,7 +1611,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -765,147 +1621,83 @@
 			"folders":
 			[
 				{
-					"path": "E:\\FileRecv\\下载\\weapp-adapter"
+					"path": "D:\\workspace\\common_simple_frame\\common-simple\\common-simple"
 				},
 				{
-					"path": "E:\\wamp25\\www\\web\\sublime-project"
+					"path": "D:\\workspace\\vue-code-review"
 				},
 				{
-					"path": "D:\\workspace\\eslint-test"
+					"path": "D:\\workspace\\webgl"
 				},
 				{
-					"path": "D:\\workspace\\mini_game"
+					"path": "D:\\workspace\\WebGL_Guide_Code"
 				},
 				{
-					"path": "F:\\workspace\\sublime-h5-project"
+					"path": "D:\\workspace\\node-express-mongo-blog"
 				},
 				{
-					"path": "D:\\workspace\\react-demo-test"
+					"path": "D:\\workspace\\myNodeProject-master"
 				},
 				{
-					"path": "E:\\FileRecv\\下载\\react-redux-router-master\\react-redux-router-master"
+					"path": "D:\\workspace\\ResumeSample-master"
 				},
 				{
-					"path": "D:\\workspace\\lyr-project"
-				},
-				{
-					"path": "D:\\workspace\\vuetest"
+					"path": "D:\\workspace\\leetcode"
 				},
 				{
 					"path": "D:\\workspace\\vote_jys"
 				},
 				{
-					"path": "D:\\workspace\\whyd\\Default"
+					"path": "D:\\workspace\\react-demo-test"
+				},
+				{
+					"path": "D:\\workspace\\express"
+				},
+				{
+					"path": "D:\\workspace\\mynode"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/workspace/react-demo-test/public/scss/test.scss",
+							"file": "/D/workspace/common_simple_frame/common-simple/common-simple/src/components/HelloWorld.vue",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 508,
+								"buffer_size": 1904,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										165,
-										165
+										1507,
+										1507
 									]
 								],
 								"settings":
 								{
+									"SL.19.region_keys":
+									[
+										"SL.eslint.Gutter.|region.yellowish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Blueberry Cross/error.png",
+										"SL.eslint.Highlights.|0e902df17b6f8453e2f7a02ee5b58f70f6ab05035318e531eecc67cc4965a272|region.yellowish markup.error.sublime_linter|32",
+										"sublime_linter.protected_regions"
+									],
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.clone": -1,
 									"bracket_highlighter.clone_locations":
 									{
 										"close":
 										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
 											"1":
 											[
-												353,
-												354
+												1612,
+												1613
 											]
 										},
 										"icon":
@@ -920,129 +1712,8 @@
 										{
 											"1":
 											[
-												40,
-												41
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
-									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/workspace/react-demo-test/src_demo/components/alert.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 385,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										333,
-										333
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												311,
-												312
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/round_bracket.png",
-												"region.yellowish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												225,
-												226
+												1513,
+												1514
 											]
 										},
 										"unmatched":
@@ -1051,63 +1722,187 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
 									],
 									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1529,
+												1530
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1506,
+												1507
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Vue/vue.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1311.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/workspace/common_simple_frame/common-simple/common-simple/.eslintrc.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16752,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9186,
+										9193
+									]
+								],
+								"settings":
+								{
+									"SL.20.region_keys":
+									[
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
 									{
 										"close":
 										{
@@ -1122,78 +1917,166 @@
 										{
 											"1":
 											[
-												333,
-												334
+												676,
+												677
 											]
 										}
 									},
-									"bracket_highlighter.regions":
+									"bracket_highlighter.clone_regions":
 									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_tag_content"
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
 									],
-									"origin_encoding": "ASCII",
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												9200,
+												9201
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												9185,
+												9186
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
 									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 2
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 3569.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -1205,7 +2088,7 @@
 			},
 			"input":
 			{
-				"height": 36.0
+				"height": 37.0
 			},
 			"layout":
 			{
@@ -1234,6 +2117,10 @@
 			{
 				"height": 0.0
 			},
+			"output.SublimeLinter Messages":
+			{
+				"height": 122.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -1242,12 +2129,16 @@
 			{
 				"height": 122.0
 			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,980,-141,77,1576",
+			"position": "0,2,3,-1,-1,-1,-1,972,99,95,1122",
 			"project": "",
 			"replace":
 			{
-				"height": 70.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1290,7 +2181,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 25,
 			"workspace_name": ""
 		}
 	],
