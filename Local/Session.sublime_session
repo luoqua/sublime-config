@@ -1,6 +1,15 @@
 {
 	"folder_history":
 	[
+		"/D/workspace/mocha-demos-master",
+		"/E/FileRecv/下载/es6-promise-always-master/es6-promise-always-master",
+		"/D/workspace/vue-element-admin-master/node_modules/nprogress",
+		"/D/workspace/vant-dev",
+		"/D/workspace/vue2-elm-master",
+		"/D/workspace/vue-element-admin-master",
+		"/D/workspace/vue-dev",
+		"/D/workspace/common_simple_frame/vue-demo",
+		"/D/workspace/common_simple_frame/vue-common-simple-frame",
 		"/D/workspace/mynode",
 		"/D/workspace/express",
 		"/D/workspace/react-demo-test",
@@ -13,10 +22,8 @@
 		"/D/workspace/webgl",
 		"/D/workspace/vue-code-review",
 		"/D/workspace/common_simple_frame/common-simple/common-simple",
-		"/D/workspace/common_simple_frame/vue-common-simple-frame",
 		"/D/workspace/common_simple_frame",
 		"/D/workspace/vue-common-simple-frame",
-		"/D/workspace/vue-dev",
 		"/E/wamp25/www/web/webgl",
 		"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code",
 		"/F/wamp12/www/TP/Application/Home",
@@ -44,7 +51,7 @@
 		"/E/FileRecv/下载/weapp-adapter"
 	],
 	"last_version": 3143,
-	"last_window_id": 35,
+	"last_window_id": 36,
 	"log_indexing": false,
 	"settings":
 	{
@@ -614,10 +621,28 @@
 			},
 			"file_history":
 			[
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src/router/index.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.dev.conf.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/karma.conf.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.test.conf.js",
+				"/D/workspace/vue-code-review/karma.config.MD",
+				"/G/FTP本地路径/无锡/移动/zxhdbj.html",
+				"/G/FTP本地路径/无锡/移动/weibobj.html",
+				"/D/workspace/vue-code-review/vue-devtools-master/vue-cli-webpack-config-des.MD",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/.eslintignore",
+				"/G/FTP本地路径/无锡/移动/kysd.html",
+				"/D/workspace/whyd/Default/Channel/cspdsj.html",
+				"/G/FTP本地路径/无锡/移动/cspd2.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test/e2e/runner.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/.eslintrc.js",
+				"/D/workspace/common_simple_frame/vue-demo/.eslintrc.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src/components/HelloWorld.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src/main.js",
+				"/D/workspace/vue-code-review/代码规范.MD",
+				"/D/workspace/webgl/demo1/HelloCanvas.js",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
 				"/D/workspace/common_simple_frame/vue-common-simple-frame/.editorconfig",
-				"/D/workspace/vue-code-review/代码规范.MD",
 				"/D/workspace/common_simple_frame/vue-common-simple-frame/.eslintrc.js",
 				"/D/workspace/vue-devtools-master/shells/chrome/manifest.json",
 				"/D/workspace/vue-dev/src/platforms/web/runtime/index.js",
@@ -671,14 +696,12 @@
 				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtTriangles.js",
 				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch05/TexturedQuad.js",
 				"/D/workspace/webgl/demo1/index.html",
-				"/D/workspace/webgl/demo1/HelloCanvas.js",
 				"/G/FTP本地路径/无锡/PC/kysd.html",
 				"/G/FTP本地路径/芜湖/移动/articlecx.html",
 				"/G/FTP本地路径/芜湖/移动/youhui.html",
 				"/F/wamp12/www/TP/Application/Home/Controller/IndexController.class.php",
 				"/G/FTP本地路径/无锡/移动/kysd_xmt.html",
 				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch02/ClickedPoints.js",
-				"/G/FTP本地路径/无锡/移动/kysd.html",
 				"/G/FTP本地路径/无锡/移动/form.js",
 				"/G/FTP本地路径/无锡/移动/xinmeiti.html",
 				"/G/FTP本地路径/无锡/移动/ChannelAction.class.php",
@@ -725,27 +748,11 @@
 				"/D/workspace/ResumeSample-master/冷熊简历 (1).MD",
 				"/D/活动页面/微信朋友圈/weishop81c1/weishop/js/jquery.fly.min.js",
 				"/D/活动页面/微信朋友圈/weishop81c1/weishop/js/express_Arr.js",
-				"/G/FTP本地路径/合肥/PC/jquery.page.js",
-				"/G/FTP本地路径/合肥/PC/hhqb.html",
-				"/G/FTP本地路径/合肥/PC/hhqb.js",
-				"/D/workspace/react-demo-test/node_modules/_iscroll@5.2.0@iscroll/src/core2.js",
-				"/D/workspace/whyd/Default/Public/footer.html",
-				"/D/workspace/react-demo-test/node_modules/_iscroll@5.2.0@iscroll/src/keys/keys.js",
-				"/D/workspace/react-demo-test/README.md",
-				"/D/workspace/react-demo-test/src_demo/components/index.js",
-				"/D/workspace/react-demo-test/webpack.config.pro.js",
-				"/D/workspace/react-demo-test/src_demo/actions/index.js",
-				"/D/workspace/react-demo-test/src_demo/reducers/todos.js",
-				"/D/workspace/react-demo-test/public/css/base.css",
-				"/D/workspace/react-demo-test/public/scss/loading.scss",
-				"/D/workspace/react-demo-test/public/scss/test.scss",
-				"/D/workspace/react-demo-test/src_demo/constants/ActionsTypes.js",
-				"/D/workspace/react-demo-test/src_demo/components/SignUp.js",
-				"/D/workspace/vote_jys/test_3.html"
+				"/G/FTP本地路径/合肥/PC/jquery.page.js"
 			],
 			"find":
 			{
-				"height": 27.0
+				"height": 37.0
 			},
 			"find_in_files":
 			{
@@ -759,6 +766,27 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"portfinder",
+					"global-require",
+					"require",
+					"global",
+					"require",
+					"global",
+					"import",
+					"no-unus",
+					"key-spacing",
+					"one-var",
+					"no-unused",
+					"no-use",
+					"new",
+					"indent",
+					"ident",
+					"semi",
+					"分号",
+					"space-return",
+					"no-empty-label",
+					"嵌套",
+					"label"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -855,6 +883,194 @@
 				"selected_items":
 				[
 					[
+						"set",
+						"set"
+					],
+					[
+						"ca",
+						"call"
+					],
+					[
+						"cha",
+						"changeSpeed"
+					],
+					[
+						"sta",
+						"start"
+					],
+					[
+						"a",
+						"arguments"
+					],
+					[
+						"is",
+						"isStarted"
+					],
+					[
+						"st",
+						"status"
+					],
+					[
+						"pr",
+						"prototype"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"se",
+						"set"
+					],
+					[
+						"tra",
+						"transition"
+					],
+					[
+						"tras",
+						"transition"
+					],
+					[
+						"bar",
+						"barCss"
+					],
+					[
+						"ba",
+						"barCss"
+					],
+					[
+						"trans",
+						"transform"
+					],
+					[
+						"sty",
+						"style"
+					],
+					[
+						"style",
+						"styleObject"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"class",
+						"classList"
+					],
+					[
+						"remo",
+						"removeElement"
+					],
+					[
+						"sE",
+						"Settings"
+					],
+					[
+						"doc",
+						"document"
+					],
+					[
+						"spi",
+						"spinner"
+					],
+					[
+						"remov",
+						"removeElement"
+					],
+					[
+						"sp",
+						"spinner"
+					],
+					[
+						"do",
+						"document"
+					],
+					[
+						"s",
+						"status"
+					],
+					[
+						"pa",
+						"parent"
+					],
+					[
+						"cla",
+						"class"
+					],
+					[
+						"va",
+						"var"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"tr",
+						"trickle"
+					],
+					[
+						"css",
+						"css"
+					],
+					[
+						"tran",
+						"transition"
+					],
+					[
+						"es",
+						"else"
+					],
+					[
+						"prp",
+						"properties"
+					],
+					[
+						"cssP",
+						"cssPrefixes"
+					],
+					[
+						"bod",
+						"body"
+					],
+					[
+						"ea",
+						"ease"
+					],
+					[
+						"ve",
+						"vendorPrefix"
+					],
+					[
+						"ge",
+						"getPositioningCSS"
+					],
+					[
+						"the",
+						"thenable"
+					],
+					[
+						"re",
+						"reject"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"img",
+						"img_url"
+					],
+					[
+						"f",
+						"function"
+					],
+					[
 						"fUn",
 						"function"
 					],
@@ -887,10 +1103,6 @@
 						"drawBox"
 					],
 					[
-						"set",
-						"setTranslate"
-					],
-					[
 						"g_joi",
 						"g_joint3Angle"
 					],
@@ -903,16 +1115,8 @@
 						"canvas"
 					],
 					[
-						"fu",
-						"fun\tFunction"
-					],
-					[
 						"uni",
 						"uniformMatrix4fv"
-					],
-					[
-						"tr",
-						"transpose"
 					],
 					[
 						"g_M",
@@ -1059,10 +1263,6 @@
 						"createBuffer"
 					],
 					[
-						"tra",
-						"TRIANGLES"
-					],
-					[
 						"Ma",
 						"Matrix4"
 					],
@@ -1087,24 +1287,12 @@
 						"initVertexBuffers"
 					],
 					[
-						"do",
-						"document"
-					],
-					[
 						"FS",
 						"FSHADER_SOURCE"
 					],
 					[
-						"pr",
-						"projMatrix"
-					],
-					[
 						"PR",
 						"projMatrix"
-					],
-					[
-						"get",
-						"getUniformLocation"
 					],
 					[
 						"g_e",
@@ -1147,10 +1335,6 @@
 						"TRIANGLES"
 					],
 					[
-						"ge",
-						"getUniformLocation"
-					],
-					[
 						"Fs",
 						"FSHADER_SOURCE"
 					],
@@ -1175,10 +1359,6 @@
 						"TEXTURE_2D"
 					],
 					[
-						"re",
-						"return"
-					],
-					[
 						"u",
 						"u_Sampler"
 					],
@@ -1189,10 +1369,6 @@
 					[
 						"a_",
 						"a_Position"
-					],
-					[
-						"va",
-						"var"
 					],
 					[
 						"U",
@@ -1215,176 +1391,20 @@
 						"gl_FragColor"
 					],
 					[
-						"a",
-						"a_PointSize"
-					],
-					[
 						"G",
 						"gl"
-					],
-					[
-						"ve",
-						"vertexAttribPointer"
-					],
-					[
-						"vertexAttrib",
-						"vertexAttribPointer"
-					],
-					[
-						"VE",
-						"verticesSizes"
-					],
-					[
-						"bu",
-						"bufferData"
-					],
-					[
-						"A",
-						"ARRAY_BUFFER"
-					],
-					[
-						"cre",
-						"createBuffer"
-					],
-					[
-						"g",
-						"g_last"
-					],
-					[
-						"xformMa",
-						"u_xformMatrix"
-					],
-					[
-						"sin",
-						"sinB"
-					],
-					[
-						"s",
-						"STATIC_DRAW"
-					],
-					[
-						"vER",
-						"vertexBuffer"
-					],
-					[
-						"cl",
-						"clearColor"
-					],
-					[
-						"si",
-						"sinB"
-					],
-					[
-						"cos",
-						"cosB"
-					],
-					[
-						"U_",
-						"u_SinB"
-					],
-					[
-						"pro",
-						"program"
-					],
-					[
-						"in",
-						"initVertexBuffers"
-					],
-					[
-						"loca",
-						"localStorage"
-					],
-					[
-						"pa",
-						"param"
-					],
-					[
-						"print",
-						"print_r"
-					],
-					[
-						"font-s",
-						"font-size"
-					],
-					[
-						"Us",
-						"Users"
-					],
-					[
-						"Users",
-						"UsersSchema"
-					],
-					[
-						"mar",
-						"margin"
-					],
-					[
-						"ba",
-						"background"
-					],
-					[
-						"ne",
-						"newNode"
-					],
-					[
-						"p",
-						"prev10"
-					],
-					[
-						"l2",
-						"l2_length"
-					],
-					[
-						"nu",
-						"null"
-					],
-					[
-						"v",
-						"var"
-					],
-					[
-						"c",
-						"currentNode"
-					],
-					[
-						"num",
-						"nums"
-					],
-					[
-						"index",
-						"index_num"
-					],
-					[
-						"ma",
-						"matrix"
-					],
-					[
-						"sc",
-						"scroller"
-					],
-					[
-						"scr",
-						"scroller"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/D/workspace/common_simple_frame/common-simple/common-simple/src/main.js",
+					"file": "/D/workspace/common_simple_frame/vue-common-simple-frame/static/lInput.js",
 					"settings":
 					{
-						"buffer_size": 360,
+						"buffer_size": 41,
 						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/workspace/common_simple_frame/common-simple/common-simple/src/App.vue",
-					"settings":
-					{
-						"buffer_size": 374,
-						"line_ending": "Unix"
+						"line_ending": "Windows"
 					}
 				}
 			],
@@ -1434,18 +1454,130 @@
 			},
 			"expanded_folders":
 			[
-				"/D/workspace/common_simple_frame/common-simple/common-simple",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/src",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/src/assets",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/src/components",
-				"/D/workspace/vue-code-review",
-				"/D/workspace/webgl",
-				"/D/workspace/webgl/demo1"
+				"/D/workspace/common_simple_frame/vue-common-simple-frame",
+				"/D/workspace/common_simple_frame/vue-common-simple-frame/static"
 			],
 			"file_history":
 			[
-				"/D/workspace/vue-code-review/代码规范.MD",
+				"/G/FTP本地路径/芜湖/移动/articlecx.html",
+				"/G/FTP本地路径/芜湖/移动/footer.html",
+				"/G/FTP本地路径/芜湖/移动/ceshipindao.html",
+				"/G/FTP本地路径/芜湖/移动/footer2.html",
+				"/G/FTP本地路径/芜湖/移动/header.html",
+				"/G/FTP本地路径/芜湖/移动/cs.php",
+				"/D/workspace/vue-element-admin-master/src/router/_import_development.js",
+				"/D/workspace/vote_jys/test.html",
+				"/D/workspace/vue-element-admin-master/node_modules/nprogress/test/index.html",
+				"/D/workspace/vue-element-admin-master/node_modules/nprogress/connect.js",
+				"/D/workspace/vue-element-admin-master/node_modules/nprogress/lProgress.js",
+				"/D/workspace/vue-element-admin-master/node_modules/nprogress/test/index2.html",
+				"/D/workspace/vue-code-review/vue-devtools-master/常用正则表达式.MD",
+				"/D/workspace/vue-element-admin-master/node_modules/nprogress/nprogress.js",
+				"/D/workspace/vue-element-admin-master/node_modules/nprogress/nprogress_copy.js",
+				"/D/workspace/vue-code-review/js基础常用.MD",
+				"/G/FTP本地路径/合肥/移动/xxllfzxbj2.html",
+				"/G/FTP本地路径/合肥/移动/weibo.js",
+				"/G/FTP本地路径/无锡/移动/kysd.html",
+				"/G/FTP本地路径/无锡/移动/zxfgcs.html",
+				"/G/FTP本地路径/无锡/移动/footer.html",
+				"/G/FTP本地路径/无锡/移动/weibobj.js",
+				"/G/FTP本地路径/无锡/移动/zxfgcs.js",
+				"/G/FTP本地路径/无锡/移动/gaishu.html",
+				"/C/Users/Administrator/Desktop/Juneactivity/index.html",
+				"/C/Users/Administrator/Desktop/Juneactivity/js/index.js",
+				"/G/FTP本地路径/无锡/移动/.bash_history",
+				"/G/FTP本地路径/无锡/移动/passwd",
+				"/G/FTP本地路径/无锡/PC/kysd.html",
+				"/G/FTP本地路径/无锡/移动/articlecx.html",
+				"/D/workspace/vant-dev/packages/utils/clickoutside.js",
+				"/D/workspace/vue-code-review/ES6入坑之路.md",
+				"/D/workspace/vue-dev/src/core/vdom/create-component.js",
+				"/D/workspace/vue-dev/src/platforms/web/entry-runtime-with-compiler.js",
+				"/D/workspace/vue-dev/src/core/instance/lifecycle.js",
+				"/D/workspace/vue-code-review/常见动画效果.MD",
+				"/D/workspace/vant-dev/.eslintrc.js",
+				"/D/workspace/vant-dev/build/bin/build-entry.js",
+				"/D/workspace/vant-dev/packages/index.js",
+				"/D/workspace/vant-dev/package.json",
+				"/D/workspace/vant-dev/build/webpack.dev.js",
+				"/D/workspace/vant-dev/docs/src/mobile.js",
+				"/D/workspace/vant-dev/docs/src/utils/iframe-router.js",
+				"/D/workspace/vue-dev/src/core/util/next-tick.js",
+				"/D/workspace/vue-dev/src/core/instance/render.js",
+				"/D/workspace/vant-dev/packages/actionsheet/index.vue",
+				"/D/workspace/vant-dev/packages/utils/create.js",
+				"/D/workspace/vant-dev/packages/utils/create-basic.js",
+				"/D/workspace/vue-dev/src/core/global-api/use.js",
+				"/D/workspace/vant-dev/node_modules/.bin/babel",
+				"/D/workspace/vant-dev/node_modules/.bin/babel-node",
+				"/D/workspace/vant-dev/docs/src/index.js",
+				"/G/FTP本地路径/合肥/PC/index.html",
+				"/G/FTP本地路径/合肥/PC/form.js",
+				"/D/workspace/vue-code-review/Vue.js入坑之路.MD",
+				"/D/workspace/vue-code-review/review1.MD",
+				"/D/workspace/vue-code-review/Node.js入坑之路.MD",
+				"/G/FTP本地路径/芜湖/移动/botttom_float_box.html",
+				"/G/FTP本地路径/芜湖/移动/youhui.html",
+				"/G/FTP本地路径/无锡/移动/nginx.conf",
+				"/G/FTP本地路径/无锡/移动/denyip.conf",
+				"/D/workspace/vue-dev/src/core/index.js",
+				"/D/workspace/vant-dev/build/bin/get-components.js",
+				"/G/FTP本地路径/无锡/PC/ceshipindao.html",
+				"/G/FTP本地路径/无锡/PC/zxhdbj3.html",
+				"/D/workspace/vant-dev/package-lock.json",
+				"/D/workspace/vant-dev/build/bin/build-lib.js",
+				"/D/workspace/vant-dev/build/bin/build-components.js",
+				"/G/FTP本地路径/无锡/移动/cspdsj.html",
+				"/G/FTP本地路径/无锡/移动/kysd1.html",
+				"/D/workspace/vue-element-admin-master/node_modules/console-browserify/test/static/index.html",
+				"/D/workspace/vue-element-admin-master/node_modules/cuint/README.md",
+				"/D/workspace/vue-element-admin-master/node_modules/date-now/test/static/index.html",
+				"/D/workspace/vue-element-admin-master/node_modules/imurmurhash/README.md",
+				"/D/workspace/vue-element-admin-master/node_modules/inquirer/README.md",
+				"/D/workspace/vue-element-admin-master/node_modules/js-cookie/README.md",
+				"/D/workspace/vue-element-admin-master/node_modules/json3/README.md",
+				"/D/workspace/vue-element-admin-master/node_modules/showdown/test/cases/images.html",
+				"/D/workspace/vue-element-admin-master/node_modules/sockjs/examples/koa/index.html",
+				"/D/workspace/vue-element-admin-master/node_modules/sortablejs/README.md",
+				"/D/workspace/vue-element-admin-master/node_modules/spdy/README.md",
+				"/D/workspace/vue-element-admin-master/node_modules/vm-browserify/example/run/index.html",
+				"/D/workspace/vue-element-admin-master/node_modules/vm-browserify/readme.markdown",
+				"/D/workspace/vue-element-admin-master/node_modules/vuedraggable/README.md",
+				"/D/workspace/vue-element-admin-master/node_modules/webpack-bundle-analyzer/views/script.ejs",
+				"/D/workspace/vue-element-admin-master/node_modules/webpack-dev-server/client/live.html",
+				"/D/workspace/vue-element-admin-master/node_modules/webpack/node_modules/yargs/README.md",
+				"/D/workspace/vue-element-admin-master/node_modules/yargs/README.md",
+				"/D/workspace/vue-element-admin-master/node_modules/xxhashjs/README.md",
+				"/D/workspace/vue-element-admin-master/src/views/components-demo/tinymce.vue",
+				"/D/workspace/vant-dev/docs/src/WapApp.vue",
+				"/D/workspace/vue2-elm-master/src/router/router.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src/components/HelloWorld.vue",
+				"/G/FTP本地路径/无锡/移动/nginx",
+				"/D/workspace/vue-element-admin-master/src/api/article.js",
+				"/G/FTP本地路径/无锡/移动/header.html",
+				"/D/workspace/vue-code-review/SSR服务端渲染学习.MD",
+				"/D/workspace/vue-dev/src/core/instance/init.js",
+				"/D/workspace/vue2-elm-master/src/page/home/home.vue",
+				"/D/workspace/vue-code-review/e2e-test.MD",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test/e2e/specs/test.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/specs/HelloWorld.spec.js",
 				"/D/workspace/common_simple_frame/common-simple/common-simple/.eslintrc.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/karma.conf.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/package.json",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src/router/index.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.dev.conf.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.test.conf.js",
+				"/D/workspace/vue-code-review/karma.config.MD",
+				"/G/FTP本地路径/无锡/移动/zxhdbj.html",
+				"/G/FTP本地路径/无锡/移动/weibobj.html",
+				"/D/workspace/vue-code-review/vue-devtools-master/vue-cli-webpack-config-des.MD",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/.eslintignore",
+				"/D/workspace/whyd/Default/Channel/cspdsj.html",
+				"/G/FTP本地路径/无锡/移动/cspd2.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test/e2e/runner.js",
+				"/D/workspace/common_simple_frame/vue-demo/.eslintrc.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src/main.js",
+				"/D/workspace/vue-code-review/代码规范.MD",
 				"/D/workspace/webgl/demo1/HelloCanvas.js",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
@@ -1453,125 +1585,8 @@
 				"/D/workspace/common_simple_frame/vue-common-simple-frame/.eslintrc.js",
 				"/D/workspace/vue-devtools-master/shells/chrome/manifest.json",
 				"/D/workspace/vue-dev/src/platforms/web/runtime/index.js",
-				"/D/workspace/vue-dev/src/platforms/web/entry-runtime-with-compiler.js",
 				"/D/workspace/vue-dev/src/compiler/index.js",
-				"/D/workspace/vue-dev/src/core/instance/lifecycle.js",
-				"/D/workspace/vue-dev/src/compiler/codegen/index.js",
-				"/D/workspace/vue-dev/src/compiler/create-compiler.js",
-				"/E/FileRecv/下载/common_simple_frame.md",
-				"/D/workspace/vue-dev/src/core/index.js",
-				"/D/workspace/vue-code-review/review1.MD",
-				"/D/workspace/vue-dev/src/core/instance/init.js",
-				"/D/workspace/vue-dev/src/core/observer/index.js",
-				"/D/workspace/vue-dev/src/core/instance/events.js",
-				"/D/workspace/vue-dev/src/core/instance/state.js",
-				"/D/workspace/vue-dev/src/core/instance/render.js",
-				"/D/workspace/vue-dev/examples/grid/grid.js",
-				"/D/workspace/vue-dev/src/core/instance/index.js",
-				"/D/workspace/vue-dev/src/core/observer/dep.js",
-				"/D/workspace/vue-dev/src/core/observer/watcher.js",
-				"/D/workspace/vue-code-review/market_page.MD",
-				"/D/workspace/vue-code-review/vue-code-review2.MD",
-				"/D/workspace/vue-dev/src/core/util/index.js",
-				"/D/workspace/vue-dev/src/core/instance/inject.js",
-				"/D/workspace/vue-dev/examples/grid/index.html",
-				"/D/workspace/vue-dev/examples/commits/app.js",
-				"/D/workspace/vue-dev/scripts/config.js",
-				"/D/workspace/vue-dev/examples/commits/index.html",
-				"/D/workspace/vote_jys/test.html",
-				"/D/workspace/vote_jys/js/vote.js",
-				"/D/workspace/vue-dev/src/core/vdom/helpers/index.js",
-				"/D/workspace/vue-code-review/review2.MD",
-				"/D/workspace/vue-code-review/front-stu.MD",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch09/MultiJointModel.js",
-				"/E/wamp25/www/web/webgl/demo1/index.html",
-				"/E/wamp25/www/web/webgl/demo1/HelloCanvas.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/LightedCube_perFragment.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/PointLightedCube.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch09/JointModel.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/PointLightedCube_animation.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/LightedTranslatedRotatedCube.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/LightedCube_ambient.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/Zfighting.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/HelloCube.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/ColoredCube.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtTrianglesWithKeys_ViewVolume.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/OrthoView.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtTrianglesWithKeys.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtRotatedTriangles.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtTriangles.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch05/TexturedQuad.js",
-				"/D/workspace/webgl/demo1/index.html",
-				"/G/FTP本地路径/无锡/PC/kysd.html",
-				"/G/FTP本地路径/芜湖/移动/articlecx.html",
-				"/G/FTP本地路径/芜湖/移动/youhui.html",
-				"/F/wamp12/www/TP/Application/Home/Controller/IndexController.class.php",
-				"/G/FTP本地路径/无锡/移动/kysd_xmt.html",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch02/ClickedPoints.js",
-				"/G/FTP本地路径/无锡/移动/kysd.html",
-				"/G/FTP本地路径/无锡/移动/form.js",
-				"/G/FTP本地路径/无锡/移动/xinmeiti.html",
-				"/G/FTP本地路径/无锡/移动/ChannelAction.class.php",
-				"/E/FLAXP/Tencent Files/1132228219/FileRecv/转盘/xmt_dzp.html",
-				"/G/FTP本地路径/无锡/移动/index.html",
-				"/F/wamp12/www/TP/Application/Home/Model/DrawprizeRecordModel.class.php",
-				"/E/FLAXP/Tencent Files/1132228219/FileRecv/转盘/js/turntable.js",
-				"/E/BaiduNetdiskDownload/liu/weixinme/js/obj/draw_wheel.js",
-				"/E/BaiduNetdiskDownload/liu/weixinme/draw_wheel.html",
-				"/E/FLAXP/Tencent Files/1132228219/FileRecv/turntable.js",
-				"/G/FTP本地路径/芜湖/移动/baojia.html",
-				"/D/workspace/mynode/myproject/app.js",
-				"/D/workspace/mynode/myproject/schemas/user.js",
-				"/D/workspace/mynode/myproject/modules/users.js",
-				"/D/workspace/mynode/myproject/routes/users.js",
-				"/D/workspace/mynode/myproject/views/users.jade",
-				"/D/workspace/mynode/myproject/routes/index.js",
-				"/G/FTP本地路径/芜湖/移动/weibo.js",
-				"/D/workspace/mynode/myproject/package.json",
-				"/G/FTP本地路径/芜湖/移动/form_spread2.html",
-				"/G/FTP本地路径/芜湖/移动/cspd2.html",
-				"/G/FTP本地路径/芜湖/移动/form.js",
-				"/G/FTP本地路径/无锡/PC/cspdsj.html",
-				"/D/workspace/leetcode/Add Two Numbers/index.html",
-				"/D/workspace/leetcode/Add Two Numbers/leetcode.js",
-				"/G/FTP本地路径/合肥/移动/zxhd.html",
-				"/G/FTP本地路径/合肥/PC/header.html",
-				"/G/FTP本地路径/芜湖/PC/youhui.html",
-				"/G/FTP本地路径/无锡/PC/kysd1.html",
-				"/G/FTP本地路径/无锡/PC/kysd2.html",
-				"/G/FTP本地路径/无锡/PC/kysd--备份.html",
-				"/D/workspace/leetcode/LinkedList/linkedlist.js",
-				"/D/workspace/leetcode/LinkedList/index.html",
-				"/G/FTP本地路径/无锡/PC/kysd3.html",
-				"/G/FTP本地路径/芜湖/移动/zhuangxiu.html",
-				"/G/FTP本地路径/芜湖/移动/index.html",
-				"/D/workspace/leetcode/three_sum/leetcode.js",
-				"/D/workspace/leetcode/two_sum/index.html",
-				"/D/workspace/leetcode/two_sum/leetcode.js",
-				"/D/workspace/leetcode/three_sum/index.html",
-				"/D/workspace/leetcode/threeSumClosest/index.html",
-				"/D/workspace/leetcode/threeSumClosest/leetcode.js",
-				"/D/workspace/leetcode/Two_sum.js",
-				"/D/workspace/ResumeSample-master/冷熊简历 (1).MD",
-				"/D/活动页面/微信朋友圈/weishop81c1/weishop/js/jquery.fly.min.js",
-				"/D/活动页面/微信朋友圈/weishop81c1/weishop/js/express_Arr.js",
-				"/G/FTP本地路径/合肥/PC/jquery.page.js",
-				"/G/FTP本地路径/合肥/PC/hhqb.html",
-				"/G/FTP本地路径/合肥/PC/hhqb.js",
-				"/D/workspace/react-demo-test/node_modules/_iscroll@5.2.0@iscroll/src/core2.js",
-				"/D/workspace/whyd/Default/Public/footer.html",
-				"/D/workspace/react-demo-test/node_modules/_iscroll@5.2.0@iscroll/src/keys/keys.js",
-				"/D/workspace/react-demo-test/README.md",
-				"/D/workspace/react-demo-test/src_demo/components/index.js",
-				"/D/workspace/react-demo-test/webpack.config.pro.js",
-				"/D/workspace/react-demo-test/src_demo/actions/index.js",
-				"/D/workspace/react-demo-test/src_demo/reducers/todos.js",
-				"/D/workspace/react-demo-test/public/css/base.css",
-				"/D/workspace/react-demo-test/public/scss/loading.scss",
-				"/D/workspace/react-demo-test/public/scss/test.scss",
-				"/D/workspace/react-demo-test/src_demo/constants/ActionsTypes.js",
-				"/D/workspace/react-demo-test/src_demo/components/SignUp.js"
+				"/D/workspace/vue-dev/src/compiler/codegen/index.js"
 			],
 			"find":
 			{
@@ -1582,6 +1597,15 @@
 				"height": 109.0,
 				"where_history":
 				[
+					"D:\\workspace\\vue-code-review",
+					"D:\\workspace\\vant-dev\\packages",
+					"D:\\workspace\\vue-dev\\src",
+					"D:\\workspace\\vue-dev\\src\\core",
+					"D:\\workspace\\vant-dev\\build",
+					"D:\\workspace\\vant-dev\\docs",
+					"D:\\workspace\\vue-dev\\src",
+					"D:\\workspace\\vant-dev",
+					"D:\\workspace\\vue-element-admin-master"
 				]
 			},
 			"find_state":
@@ -1589,6 +1613,103 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"js",
+					"quote_btn",
+					"progress.offsetWidth",
+					"render",
+					"set",
+					"if",
+					"set",
+					"render",
+					"set",
+					"bar",
+					"inc",
+					"barPositionCss",
+					"set",
+					"setTimeout",
+					"set",
+					"true",
+					"queue",
+					"barPositionCss",
+					"positionUsing",
+					"method_name",
+					"first_argument",
+					"quote_btn",
+					"argument",
+					"queue",
+					"barPositionCSS",
+					"render",
+					"assign",
+					"hasClass",
+					"promise",
+					"done",
+					"clamp",
+					"trickle",
+					"barPositionCSS",
+					"css",
+					"barPositionCss",
+					"getVendorProp",
+					"lazyload",
+					"echo",
+					"data-original",
+					"css",
+					"getPositioningCSS",
+					"Repaint",
+					"offsetWidth",
+					"clamp",
+					"directive",
+					"routes",
+					"router",
+					"render",
+					"render: function",
+					"prototype.render",
+					"Vue.render",
+					"render",
+					"character",
+					"bad",
+					"babel",
+					"data-original",
+					"img",
+					"lazyload",
+					"less_day",
+					"daojishi_font",
+					"lazy",
+					"bg_5",
+					"syncPath",
+					"nextTick",
+					"Vue.use",
+					"Vue.prototype.use",
+					"use",
+					"lazyload",
+					"swiper-container",
+					"lunbo1",
+					"glob",
+					"data-original",
+					"jysjzjt",
+					"img",
+					"close",
+					"data-original=\"/",
+					" src=\"/",
+					"src=\"/",
+					"=\"/",
+					"src=\"/",
+					"jysjzjt",
+					"argument",
+					"newline",
+					"new-line",
+					"portfinder",
+					"global-require",
+					"require",
+					"global",
+					"require",
+					"global",
+					"import",
+					"no-unus",
+					"key-spacing",
+					"one-var",
+					"no-unused",
+					"no-use",
+					"new",
 					"indent",
 					"ident",
 					"semi",
@@ -1604,6 +1725,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"\nsrc=\"/http://img.jysjzjt.com/"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1621,6 +1743,12 @@
 				},
 				{
 					"path": "D:\\workspace\\webgl"
+				},
+				{
+					"path": "D:\\workspace\\vue-element-admin-master"
+				},
+				{
+					"path": "D:\\workspace\\vue2-elm-master"
 				},
 				{
 					"path": "D:\\workspace\\WebGL_Guide_Code"
@@ -1648,165 +1776,138 @@
 				},
 				{
 					"path": "D:\\workspace\\mynode"
+				},
+				{
+					"path": "D:\\workspace\\common_simple_frame\\vue-common-simple-frame"
+				},
+				{
+					"path": "D:\\workspace\\common_simple_frame\\vue-demo"
+				},
+				{
+					"path": "D:\\workspace\\vue-dev"
+				},
+				{
+					"path": "D:\\workspace\\vant-dev"
+				},
+				{
+					"path": "E:\\FileRecv\\下载\\es6-promise-always-master\\es6-promise-always-master"
+				},
+				{
+					"path": "D:\\workspace\\vue-element-admin-master\\node_modules\\nprogress"
+				},
+				{
+					"path": "D:\\workspace\\mocha-demos-master"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/workspace/common_simple_frame/common-simple/common-simple/src/main.js",
+							"file": "/D/workspace/common_simple_frame/vue-common-simple-frame/static/lInput.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 360,
+								"buffer_size": 41,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										360,
-										360
+										41,
+										41
 									]
 								],
 								"settings":
 								{
-									"SL.14.region_keys":
+									"SL.432.region_keys":
 									[
+										"SL.eslint.Highlights.|153933a6d52b7c03add472571ec54239ae410d30c8aac639d6de8a4f8fba7aed|region.yellowish markup.error.sublime_linter|32",
+										"SL.eslint.Highlights.|3d4e8be642c2e445e02b961460e1066a4275caac36a04bf155207d333fd8f630|region.yellowish markup.error.sublime_linter|32",
+										"SL.eslint.Gutter.|region.yellowish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Blueberry Cross/error.png",
+										"SL.eslint.Highlights.|c41bc301610be1c341ae2e6c3729c0cae0db65535e4de2d10f21e088624e8626|region.yellowish markup.error.sublime_linter|32",
+										"SL.eslint.Highlights.|0c0928421abe45e2416130730477bdb01b89a166b994e4d9e7b604ae9a70b3c0|region.yellowish markup.error.sublime_linter|32",
+										"SL.eslint.Highlights.|3ffa8ff62dc6067ba6afc5b3b57202885b79a7a129b7a2da769cf84cc443baa1|region.yellowish markup.error.sublime_linter|32",
 										"sublime_linter.protected_regions"
-									],
-									"SL.59.region_keys":
-									[
-										"SL.eslint.Highlights.|77929b5b032a4da80ced1970690eb0182971bff9ce7e4bd1750063e3fca22059|region.redish markup.error.sublime_linter|32",
-										"SL.eslint.Highlights.|21de8b4a4e4052f0d386448ab2a8a06f47de36fabd24966466dc1757f552eafa|region.redish markup.error.sublime_linter|32",
-										"SL.eslint.Highlights.|13f033dc6f5a97670071df21037c19b531c0addf6f87998b264bbf694f9412b7|region.redish markup.error.sublime_linter|32",
-										"SL.eslint.Highlights.|d24a6d978ae92dd0ff26a536bee72c841b052e3b2c7f8f9682ccdbf07f530798|region.redish markup.error.sublime_linter|32",
-										"SL.eslint.Highlights.|c3048df03375c536dce346b3d6b1949cbaa678c11109848a1d3f9bf3b824b2a6|region.redish markup.error.sublime_linter|32",
-										"SL.eslint.Gutter.|region.redish markup.error.sublime_linter|dot",
-										"sublime_linter.protected_regions",
-										"SL.eslint.Highlights.|db80f50d17413467c4c4bec45d06c8766a8170b818c98e4beaa5dd205b8735ca|region.redish markup.error.sublime_linter|32"
 									],
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
+									"bracket_highlighter.locations":
 									{
 										"close":
 										{
+											"1":
+											[
+												40,
+												41
+											]
 										},
 										"icon":
 										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
 										},
 										"open":
 										{
+											"1":
+											[
+												26,
+												27
+											]
 										},
 										"unmatched":
 										{
 										}
 									},
-									"bracket_highlighter.clone_regions":
+									"bracket_highlighter.regions":
 									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
@@ -1817,209 +1918,13 @@
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
+										"bh_regex_content"
 									],
-									"is_init_dirty_state": false,
-									"origin_encoding": "ASCII",
 									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/workspace/common_simple_frame/common-simple/common-simple/src/App.vue",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 374,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content"
-									],
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -2068,7 +1973,7 @@
 			},
 			"output.SublimeLinter Messages":
 			{
-				"height": 122.0
+				"height": 494.0
 			},
 			"output.find_results":
 			{
@@ -2083,7 +1988,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,972,99,95,1122",
+			"position": "0,2,3,-32000,-32000,-1,-1,1252,-155,342,1718",
 			"project": "",
 			"replace":
 			{
@@ -2125,7 +2030,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 284.0,
+			"side_bar_width": 318.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
