@@ -1,10 +1,26 @@
 {
 	"folder_history":
 	[
+		"/E/FileRecv/下载/clipboard.js-master/clipboard.js-master",
+		"/D/workspace/tdhyd",
+		"/D/workspace/myPromise",
+		"/D/workspace/抄",
+		"/D/workspace/myexpress",
+		"/D/workspace/node",
+		"/E/FileRecv/下载/Promise-master/Promise-master",
+		"/D/workspace/vant-dev2/vant-dev",
+		"/D/workspace/vant-dev",
+		"/D/workspace/vant-dev/node_modules/vant-doc",
+		"/D/workspace/vue-code-review",
+		"/D/workspace/vuetest",
+		"/D/workspace/vue-2.0.0",
+		"/D/workspace/vue-1.0.20",
+		"/D/workspace/LInput/config",
+		"/D/workspace/LInput/build",
+		"/D/workspace/LInput",
 		"/D/workspace/mocha-demos-master",
 		"/E/FileRecv/下载/es6-promise-always-master/es6-promise-always-master",
 		"/D/workspace/vue-element-admin-master/node_modules/nprogress",
-		"/D/workspace/vant-dev",
 		"/D/workspace/vue2-elm-master",
 		"/D/workspace/vue-element-admin-master",
 		"/D/workspace/vue-dev",
@@ -20,7 +36,6 @@
 		"/D/workspace/node-express-mongo-blog",
 		"/D/workspace/WebGL_Guide_Code",
 		"/D/workspace/webgl",
-		"/D/workspace/vue-code-review",
 		"/D/workspace/common_simple_frame/common-simple/common-simple",
 		"/D/workspace/common_simple_frame",
 		"/D/workspace/vue-common-simple-frame",
@@ -38,7 +53,6 @@
 		"/D/workspace/lyr-project/dist",
 		"/E/FileRecv/下载/react-redux-router-master/react-redux-router-master",
 		"/D/workspace/whyd/Default",
-		"/D/workspace/vuetest",
 		"/D/workspace/whyd",
 		"/D/workspace/lyr-project",
 		"/F/workspace/sublime-h5-project",
@@ -51,11 +65,11 @@
 		"/E/FileRecv/下载/weapp-adapter"
 	],
 	"last_version": 3143,
-	"last_window_id": 36,
+	"last_window_id": 45,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 819.0,
+		"new_window_height": 828.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -63,516 +77,516 @@
 				"selected_items":
 				[
 					[
-						"fUn",
+						"s",
+						"string"
+					],
+					[
+						"my",
+						"myFirstPromise"
+					],
+					[
+						"web",
+						"webpackConfig"
+					],
+					[
+						"fin",
 						"function"
 					],
 					[
-						"g_",
-						"g_modelMatrix"
+						"RE",
+						"reject"
 					],
 					[
-						"roa",
-						"rotate"
+						"P",
+						"Promise"
 					],
 					[
-						"BAS",
-						"baseHeight"
+						"rr",
+						"return"
 					],
 					[
-						"TRANS",
-						"translate"
-					],
-					[
-						"arm1",
-						"arm1Length"
-					],
-					[
-						"bas",
-						"baseHeight"
-					],
-					[
-						"dra",
-						"drawBox"
-					],
-					[
-						"set",
-						"setTranslate"
-					],
-					[
-						"g_joi",
-						"g_joint3Angle"
-					],
-					[
-						"g_jo",
-						"g_joint2Angle"
-					],
-					[
-						"CA",
-						"canvas"
-					],
-					[
-						"fu",
-						"fun\tFunction"
-					],
-					[
-						"uni",
-						"uniformMatrix4fv"
-					],
-					[
-						"tr",
-						"transpose"
-					],
-					[
-						"g_M",
-						"g_mvpMatrix"
-					],
-					[
-						"view",
-						"viewProjMatrix"
-					],
-					[
-						"rota",
-						"rotate"
-					],
-					[
-						"cle",
-						"clear"
-					],
-					[
-						"t",
-						"true"
-					],
-					[
-						"DA",
-						"data"
-					],
-					[
-						"buff",
-						"bufferData"
-					],
-					[
-						"inde",
-						"indices"
-					],
-					[
-						"el",
-						"ELEMENT_ARRAY_BUFFER"
-					],
-					[
-						"nor",
-						"normals"
-					],
-					[
-						"ini",
-						"initArrayBuffer"
-					],
-					[
-						"u_M",
-						"u_MvpMatrix"
-					],
-					[
-						"vie",
-						"viewProjMatrix"
-					],
-					[
-						"ANGLE",
-						"ANGLE_STEP"
-					],
-					[
-						"dr",
-						"drawElements"
-					],
-					[
-						"De",
-						"DEPTH_TEST"
-					],
-					[
-						"uniof",
-						"uniformMatrix4fv"
-					],
-					[
-						"unifo",
-						"uniformMatrix4fv"
-					],
-					[
-						"MO",
-						"modelMatrix"
-					],
-					[
-						"MU",
-						"multiply"
-					],
-					[
-						"unif",
-						"uniformMatrix4fv"
-					],
-					[
-						"mo",
-						"model"
-					],
-					[
-						"no",
-						"normalMatrix"
-					],
-					[
-						"un",
-						"uniform3f"
-					],
-					[
-						"u_L",
-						"u_LightCorlor"
-					],
-					[
-						"u_Ligh",
-						"u_LightCorlor"
-					],
-					[
-						"No",
-						"NormalMatrixix"
-					],
-					[
-						"D",
-						"DEPTH_TEST"
-					],
-					[
-						"en",
-						"enable"
-					],
-					[
-						"var",
-						"var"
-					],
-					[
-						"mat",
-						"mat4"
-					],
-					[
-						"mode",
-						"modeMartrix"
-					],
-					[
-						"vertexa",
-						"vertexAttribPointer"
-					],
-					[
-						"da",
-						"data"
-					],
-					[
-						"le",
-						"length"
-					],
-					[
-						"crea",
-						"createBuffer"
-					],
-					[
-						"tra",
-						"TRIANGLES"
-					],
-					[
-						"Ma",
-						"Matrix4"
-					],
-					[
-						"u_Li",
-						"u_LightDirection"
-					],
-					[
-						"li",
-						"lightDirection"
-					],
-					[
-						"ligh",
-						"u_LightDirection"
-					],
-					[
-						"GET",
-						"getUniformLocation"
-					],
-					[
-						"init",
-						"initVertexBuffers"
-					],
-					[
-						"do",
-						"document"
-					],
-					[
-						"FS",
-						"FSHADER_SOURCE"
-					],
-					[
-						"pr",
-						"projMatrix"
-					],
-					[
-						"PR",
-						"projMatrix"
-					],
-					[
-						"get",
-						"getUniformLocation"
-					],
-					[
-						"g_e",
-						"g_eyeX"
-					],
-					[
-						"g_eye",
-						"g_eyeX"
-					],
-					[
-						"MODE",
-						"modelviewMatrix"
-					],
-					[
-						"drw",
-						"draw"
-					],
-					[
-						"viw",
-						"viewMatrix"
-					],
-					[
-						"FA",
-						"false"
-					],
-					[
-						"F",
-						"FLOAT"
-					],
-					[
-						"ver",
-						"vertexAttribPointer"
-					],
-					[
-						"VER",
-						"verticesColors"
-					],
-					[
-						"T",
-						"TRIANGLES"
-					],
-					[
-						"ge",
-						"getUniformLocation"
-					],
-					[
-						"Fs",
-						"FSHADER_SOURCE"
-					],
-					[
-						"tex",
-						"texUnit"
-					],
-					[
-						"g_te",
-						"g_texUnit1"
-					],
-					[
-						"TE",
-						"TEXTURE0"
-					],
-					[
-						"us",
-						"u_Sampler1"
-					],
-					[
-						"TEX",
-						"TEXTURE_2D"
+						"se",
+						"setTimeout"
 					],
 					[
 						"re",
 						"return"
 					],
 					[
-						"u",
-						"u_Sampler"
+						"pinr",
+						"print_r"
 					],
 					[
-						"GL",
-						"gl"
+						"S",
+						"Status"
 					],
 					[
-						"a_",
-						"a_Position"
+						"ST",
+						"stack"
 					],
 					[
-						"va",
-						"var"
+						"_",
+						"_status"
 					],
 					[
-						"U",
-						"u_Sampler"
+						"th",
+						"that"
 					],
 					[
-						"v_",
-						"v_TextCoord"
+						"sta",
+						"Status"
 					],
 					[
-						"vec",
-						"vec2"
+						"onf",
+						"onFulfilled"
 					],
 					[
-						"u_",
-						"u_Height"
+						"ON",
+						"onFulfilled"
 					],
 					[
-						"Fra",
-						"gl_FragColor"
+						"FUN",
+						"function"
 					],
 					[
-						"a",
-						"a_PointSize"
+						"res",
+						"resolve"
 					],
 					[
-						"G",
-						"gl"
+						"hand",
+						"handlePromiseAll"
 					],
 					[
-						"ve",
-						"vertexAttribPointer"
+						"fun",
+						"function"
 					],
 					[
-						"vertexAttrib",
-						"vertexAttribPointer"
+						"le",
+						"length"
 					],
 					[
-						"VE",
-						"verticesSizes"
+						"ite",
+						"iterable"
 					],
 					[
-						"bu",
-						"bufferData"
+						"o",
+						"object_arr"
 					],
 					[
-						"A",
-						"ARRAY_BUFFER"
+						"fo",
+						"forEach"
 					],
 					[
-						"cre",
-						"createBuffer"
+						"l",
+						"data_site_now_lat.js"
 					],
 					[
-						"g",
-						"g_last"
+						"req",
+						"require"
 					],
 					[
-						"xformMa",
-						"u_xformMatrix"
+						"Lng",
+						"LnglatdataNow"
 					],
 					[
-						"sin",
-						"sinB"
+						"ln",
+						"lat_lng_arr"
 					],
 					[
-						"s",
-						"STATIC_DRAW"
+						"L",
+						"Lnglat"
 					],
 					[
-						"vER",
-						"vertexBuffer"
+						"js",
+						"JSON"
 					],
 					[
-						"cl",
-						"clearColor"
-					],
-					[
-						"si",
-						"sinB"
-					],
-					[
-						"cos",
-						"cosB"
-					],
-					[
-						"U_",
-						"u_SinB"
+						"rq",
+						"req"
 					],
 					[
 						"pro",
-						"program"
+						"promise"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"ba",
+						"background-size"
+					],
+					[
+						"PO",
+						"point"
+					],
+					[
+						"pi",
+						"Point"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"co",
+						"construct_status"
+					],
+					[
+						"C",
+						"Cs_site"
+					],
+					[
+						"excel",
+						"excelObj"
+					],
+					[
+						"Us",
+						"User"
+					],
+					[
+						"user",
+						"username"
+					],
+					[
+						"u",
+						"username"
+					],
+					[
+						"err",
+						"error"
+					],
+					[
+						"index",
+						"indexRouter"
+					],
+					[
+						"U",
+						"User"
+					],
+					[
+						"User",
+						"UserSchema"
+					],
+					[
+						"mo",
+						"mongoose"
+					],
+					[
+						"con",
+						"config"
+					],
+					[
+						"bod",
+						"body"
+					],
+					[
+						"url",
+						"urlencodeParser"
+					],
+					[
+						"for",
+						"form_index"
+					],
+					[
+						"fa",
+						"favicon"
+					],
+					[
+						"cl",
+						"collection"
+					],
+					[
+						"d",
+						"dbo"
+					],
+					[
+						"myob",
+						"myobj"
+					],
+					[
+						"clo",
+						"close"
+					],
+					[
+						"fi",
+						"function"
+					],
+					[
+						"m",
+						"MongoClient"
+					],
+					[
+						"CON",
+						"connect"
+					],
+					[
+						"db",
+						"dbo"
+					],
+					[
+						"up",
+						"updateStr"
+					],
+					[
+						"pr",
+						"proxyServer"
+					],
+					[
+						"is",
+						"isLoading"
+					],
+					[
+						"F",
+						"FULLFILLED"
+					],
+					[
+						"_s",
+						"_status"
+					],
+					[
+						"rejs",
+						"_rejectedStack"
+					],
+					[
+						"on",
+						"onRejected"
+					],
+					[
+						"st",
+						"stack"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"p",
+						"promise"
+					],
+					[
+						"the",
+						"then"
+					],
+					[
+						"reso",
+						"resolve"
+					],
+					[
+						"ret",
+						"return_result"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"ar",
+						"args"
+					],
+					[
+						"ne",
+						"next"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"border-ra",
+						"border-bottom-right-radius"
 					],
 					[
 						"in",
-						"initVertexBuffers"
+						"initial"
 					],
 					[
-						"loca",
-						"localStorage"
+						"reje",
+						"reject"
+					],
+					[
+						"DE",
+						"devFlagPlugin"
 					],
 					[
 						"pa",
-						"param"
+						"packages/"
 					],
 					[
-						"print",
-						"print_r"
+						"com",
+						"components"
+					],
+					[
+						"wat",
+						"watcherOb"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"OBJ",
+						"obj"
+					],
+					[
+						"cal",
+						"class"
+					],
+					[
+						"new",
+						"newVal"
+					],
+					[
+						"dep",
+						"depend"
+					],
+					[
+						"DEF",
+						"defineReactive"
+					],
+					[
+						"key",
+						"key"
+					],
+					[
+						"def",
+						"defineReactive"
+					],
+					[
+						"O",
+						"Object"
+					],
+					[
+						"he",
+						"health"
+					],
+					[
+						"hr",
+						"hero"
+					],
+					[
+						"de",
+						"defineProperty"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"tex",
+						"textEnd"
+					],
+					[
+						"tr",
+						"transform"
+					],
+					[
+						"peo",
+						"person1"
+					],
+					[
+						"arr",
+						"arrToObj"
+					],
+					[
+						"see",
+						"selectDom"
+					],
+					[
+						"pre",
+						"person2"
+					],
+					[
+						"cla",
+						"call"
+					],
+					[
+						"call",
+						"callHook"
+					],
+					[
+						"ca",
+						"catch"
+					],
+					[
+						"k",
+						"key"
+					],
+					[
+						"ke",
+						"keys"
+					],
+					[
+						"selec",
+						"selectDom"
+					],
+					[
+						"fomr",
+						"formsubimit"
+					],
+					[
+						"bac",
+						"background-size"
+					],
+					[
+						"background-c",
+						"background-color"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"fon",
+						"font"
+					],
+					[
+						"tra",
+						"translateX()"
 					],
 					[
 						"font-s",
 						"font-size"
 					],
 					[
-						"Us",
-						"Users"
+						"form",
+						"formAction"
 					],
 					[
-						"Users",
-						"UsersSchema"
+						"ci",
+						"configure"
 					],
 					[
-						"mar",
-						"margin"
+						"jys",
+						"jys_kysd"
 					],
 					[
-						"ba",
-						"background"
+						"cha",
+						"changeSpeed"
 					],
 					[
-						"ne",
-						"newNode"
+						"a",
+						"arguments"
 					],
 					[
-						"p",
-						"prev10"
+						"tras",
+						"transition"
 					],
 					[
-						"l2",
-						"l2_length"
+						"bar",
+						"barCss"
 					],
 					[
-						"nu",
-						"null"
+						"trans",
+						"transform"
 					],
 					[
-						"v",
-						"var"
-					],
-					[
-						"c",
-						"currentNode"
-					],
-					[
-						"num",
-						"nums"
-					],
-					[
-						"index",
-						"index_num"
-					],
-					[
-						"ma",
-						"matrix"
-					],
-					[
-						"sc",
-						"scroller"
-					],
-					[
-						"scr",
-						"scroller"
+						"sty",
+						"style"
 					]
 				]
 			},
@@ -621,144 +635,174 @@
 			},
 			"file_history":
 			[
-				"/D/workspace/common_simple_frame/common-simple/common-simple/src/router/index.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.dev.conf.js",
+				"/D/workspace/tdhyd/public/js/jquery.form.min.js",
+				"/D/workspace/tdhyd/public/js/jquery.pagination.js",
+				"/D/workspace/tdhyd/index/js/show.js",
+				"/D/workspace/tdhyd/public/js/common.js",
+				"/D/workspace/tdhyd/public/css/ui-dialog.css",
+				"/D/workspace/tdhyd/public/js/dialog-plus-min.js",
+				"/D/workspace/tdhyd/public/js/Validform_v5.3.2_min.js",
+				"/D/workspace/tdhyd/zxbj/css/zxbj.css",
+				"/D/workspace/tdhyd/zxbj/css/validate.css",
+				"/D/workspace/tdhyd/index/js/default.js",
+				"/D/workspace/tdhyd/index/css/public.css",
+				"/D/workspace/tdhyd/index/css/index.css",
+				"/D/workspace/tdhyd/public/js/jquery-1.8.2.min.js",
+				"/G/FTP本地路径/无锡/移动/nginx.conf",
+				"/D/workspace/myPromise/test/myPromise.spec.js",
+				"/D/workspace/vue-code-review/karma单元测试环境搭建的一次尝试.MD",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/index.js",
+				"/D/workspace/myPromise/webpack.test.conf.js",
+				"/D/workspace/myPromise/karma.conf.js",
+				"/D/workspace/myPromise/package.json",
+				"/D/workspace/myPromise/src/myPromise.js",
 				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/karma.conf.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/coverage/lcov-report/index.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/package.json",
+				"/D/workspace/myPromise/report/ut/result/index.html",
+				"/D/workspace/myPromise/report/ut/converage/index.html",
+				"/D/workspace/myPromise/report/ut/converage/test/index.html",
+				"/D/workspace/myPromise/report/ut/converage/sorter.js",
+				"/D/workspace/myPromise/report/ut/converage/prettify.css",
+				"/D/workspace/myPromise/report/ut/converage/prettify.js",
+				"/D/workspace/myPromise/report/ut/converage/sort-arrow-sprite.png",
+				"/D/workspace/myPromise/report/ut/converage/test/index.spec.js.html",
+				"/D/workspace/myPromise/test/index2.spec.js",
+				"/D/workspace/myPromise/src/index2.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/static/promise_demo.js",
+				"/D/workspace/myPromise/test/index.spec.js",
+				"/D/workspace/myPromise/src/index.js",
+				"/D/workspace/myPromise/Module",
+				"/D/workspace/react-demo-test/webpack.config.js",
 				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.test.conf.js",
-				"/D/workspace/vue-code-review/karma.config.MD",
-				"/G/FTP本地路径/无锡/移动/zxhdbj.html",
-				"/G/FTP本地路径/无锡/移动/weibobj.html",
-				"/D/workspace/vue-code-review/vue-devtools-master/vue-cli-webpack-config-des.MD",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/.eslintignore",
+				"/D/workspace/myPromise/karma.conf2.js",
+				"/D/workspace/myPromise/.babelrc",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.base.conf.js",
+				"/D/workspace/myPromise/node_modules/_async-limiter@1.0.0@async-limiter/coverage/lcov-report/index.html",
+				"/G/FTP本地路径/无锡/移动/hdzxbj3.html",
 				"/G/FTP本地路径/无锡/移动/kysd.html",
-				"/D/workspace/whyd/Default/Channel/cspdsj.html",
-				"/G/FTP本地路径/无锡/移动/cspd2.html",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test/e2e/runner.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/.eslintrc.js",
-				"/D/workspace/common_simple_frame/vue-demo/.eslintrc.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/src/components/HelloWorld.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/src/main.js",
-				"/D/workspace/vue-code-review/代码规范.MD",
-				"/D/workspace/webgl/demo1/HelloCanvas.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-				"/D/workspace/common_simple_frame/vue-common-simple-frame/.editorconfig",
-				"/D/workspace/common_simple_frame/vue-common-simple-frame/.eslintrc.js",
-				"/D/workspace/vue-devtools-master/shells/chrome/manifest.json",
-				"/D/workspace/vue-dev/src/platforms/web/runtime/index.js",
-				"/D/workspace/vue-dev/src/platforms/web/entry-runtime-with-compiler.js",
-				"/D/workspace/vue-dev/src/compiler/index.js",
-				"/D/workspace/vue-dev/src/core/instance/lifecycle.js",
-				"/D/workspace/vue-dev/src/compiler/codegen/index.js",
-				"/D/workspace/vue-dev/src/compiler/create-compiler.js",
-				"/E/FileRecv/下载/common_simple_frame.md",
-				"/D/workspace/vue-dev/src/core/index.js",
-				"/D/workspace/vue-code-review/review1.MD",
-				"/D/workspace/vue-dev/src/core/instance/init.js",
-				"/D/workspace/vue-dev/src/core/observer/index.js",
-				"/D/workspace/vue-dev/src/core/instance/events.js",
-				"/D/workspace/vue-dev/src/core/instance/state.js",
-				"/D/workspace/vue-dev/src/core/instance/render.js",
-				"/D/workspace/vue-dev/examples/grid/grid.js",
-				"/D/workspace/vue-dev/src/core/instance/index.js",
-				"/D/workspace/vue-dev/src/core/observer/dep.js",
-				"/D/workspace/vue-dev/src/core/observer/watcher.js",
-				"/D/workspace/vue-code-review/market_page.MD",
-				"/D/workspace/vue-code-review/vue-code-review2.MD",
-				"/D/workspace/vue-dev/src/core/util/index.js",
-				"/D/workspace/vue-dev/src/core/instance/inject.js",
-				"/D/workspace/vue-dev/examples/grid/index.html",
-				"/D/workspace/vue-dev/examples/commits/app.js",
-				"/D/workspace/vue-dev/scripts/config.js",
-				"/D/workspace/vue-dev/examples/commits/index.html",
-				"/D/workspace/vote_jys/test.html",
-				"/D/workspace/vote_jys/js/vote.js",
-				"/D/workspace/vue-dev/src/core/vdom/helpers/index.js",
-				"/D/workspace/vue-code-review/review2.MD",
-				"/D/workspace/vue-code-review/front-stu.MD",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch09/MultiJointModel.js",
-				"/E/wamp25/www/web/webgl/demo1/index.html",
-				"/E/wamp25/www/web/webgl/demo1/HelloCanvas.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/LightedCube_perFragment.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/PointLightedCube.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch09/JointModel.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/PointLightedCube_animation.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/LightedTranslatedRotatedCube.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch08/LightedCube_ambient.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/Zfighting.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/HelloCube.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/ColoredCube.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtTrianglesWithKeys_ViewVolume.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/OrthoView.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtTrianglesWithKeys.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtRotatedTriangles.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch07/LookAtTriangles.js",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch05/TexturedQuad.js",
-				"/D/workspace/webgl/demo1/index.html",
-				"/G/FTP本地路径/无锡/PC/kysd.html",
-				"/G/FTP本地路径/芜湖/移动/articlecx.html",
-				"/G/FTP本地路径/芜湖/移动/youhui.html",
-				"/F/wamp12/www/TP/Application/Home/Controller/IndexController.class.php",
-				"/G/FTP本地路径/无锡/移动/kysd_xmt.html",
-				"/D/workspace/WebGL_Guide_Code/WebGL_Guide_Code/ch02/ClickedPoints.js",
+				"/G/FTP本地路径/无锡/移动/kysd_gd.html",
+				"/G/FTP本地路径/无锡/移动/jys_kysd_july.js",
+				"/G/FTP本地路径/无锡/移动/jys_kysd_gd.js",
+				"/G/FTP本地路径/无锡/移动/zxxgcs.html",
+				"/G/FTP本地路径/无锡/移动/zxxbjys.html",
+				"/G/FTP本地路径/无锡/移动/weibobj.html",
+				"/G/FTP本地路径/无锡/移动/lbrz.html",
+				"/D/workspace/react-demo-test/.babelrc",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/.babelrc",
+				"/D/workspace/myPromise/src/index.test.js",
+				"/D/workspace/myPromise/test/index.test.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/specs/HelloWorld.spec.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/.eslintrc",
+				"/D/workspace/vue-code-review/karma.config.MD",
 				"/G/FTP本地路径/无锡/移动/form.js",
-				"/G/FTP本地路径/无锡/移动/xinmeiti.html",
+				"/G/FTP本地路径/无锡/移动/zxxbjys_new.html",
 				"/G/FTP本地路径/无锡/移动/ChannelAction.class.php",
-				"/E/FLAXP/Tencent Files/1132228219/FileRecv/转盘/xmt_dzp.html",
-				"/G/FTP本地路径/无锡/移动/index.html",
-				"/F/wamp12/www/TP/Application/Home/Model/DrawprizeRecordModel.class.php",
-				"/E/FLAXP/Tencent Files/1132228219/FileRecv/转盘/js/turntable.js",
-				"/E/BaiduNetdiskDownload/liu/weixinme/js/obj/draw_wheel.js",
-				"/E/BaiduNetdiskDownload/liu/weixinme/draw_wheel.html",
-				"/E/FLAXP/Tencent Files/1132228219/FileRecv/turntable.js",
-				"/G/FTP本地路径/芜湖/移动/baojia.html",
-				"/D/workspace/mynode/myproject/app.js",
-				"/D/workspace/mynode/myproject/schemas/user.js",
-				"/D/workspace/mynode/myproject/modules/users.js",
-				"/D/workspace/mynode/myproject/routes/users.js",
-				"/D/workspace/mynode/myproject/views/users.jade",
-				"/D/workspace/mynode/myproject/routes/index.js",
-				"/G/FTP本地路径/芜湖/移动/weibo.js",
-				"/D/workspace/mynode/myproject/package.json",
-				"/G/FTP本地路径/芜湖/移动/form_spread2.html",
-				"/G/FTP本地路径/芜湖/移动/cspd2.html",
-				"/G/FTP本地路径/芜湖/移动/form.js",
-				"/G/FTP本地路径/无锡/PC/cspdsj.html",
-				"/D/workspace/leetcode/Add Two Numbers/index.html",
-				"/D/workspace/leetcode/Add Two Numbers/leetcode.js",
-				"/G/FTP本地路径/合肥/移动/zxhd.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/static/Promise.js",
+				"/G/FTP本地路径/无锡/移动/footer.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/static/pinkie.min.js",
+				"/G/FTP本地路径/无锡/移动/mfhqbj.html",
+				"/G/FTP本地路径/无锡/移动/m_2018.css",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/static/map.html",
+				"/G/FTP本地路径/无锡/移动/header.html",
+				"/G/FTP本地路径/无锡/移动/zxfgcs.html",
+				"/G/FTP本地路径/无锡/移动/weibobj2.html",
+				"/G/FTP本地路径/无锡/移动/result_style.html",
+				"/D/workspace/vue-code-review/linux常用操作指令.MD",
+				"/G/FTP本地路径/合肥/PC/footer.html",
+				"/D/workspace/myexpress/myapp/routes/index.js",
+				"/D/workspace/vote_jys/map2.html",
+				"/D/workspace/vote_jys/test_2.html",
+				"/G/FTP本地路径/芜湖/PC/baiwen1.html",
+				"/G/FTP本地路径/合肥/PC/bottom_quote.html",
 				"/G/FTP本地路径/合肥/PC/header.html",
-				"/G/FTP本地路径/芜湖/PC/youhui.html",
-				"/G/FTP本地路径/无锡/PC/kysd1.html",
-				"/G/FTP本地路径/无锡/PC/kysd2.html",
-				"/G/FTP本地路径/无锡/PC/kysd--备份.html",
-				"/D/workspace/leetcode/LinkedList/linkedlist.js",
-				"/D/workspace/leetcode/LinkedList/index.html",
-				"/G/FTP本地路径/无锡/PC/kysd3.html",
-				"/G/FTP本地路径/芜湖/移动/zhuangxiu.html",
-				"/G/FTP本地路径/芜湖/移动/index.html",
+				"/G/FTP本地路径/无锡/PC/footer.html",
+				"/D/workspace/myexpress/myapp/public/index.html",
+				"/D/workspace/vant-dev2/vant-dev/build/bin/build-entry.js",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/demo-entry.js",
+				"/D/workspace/myexpress/myapp/package.json",
+				"/G/FTP本地路径/合肥/PC/index.html",
+				"/D/workspace/抄/index1/mfhqbj.html",
+				"/D/workspace/抄/index1/index.html",
+				"/D/workspace/抄/index1/css/index.css",
+				"/G/FTP本地路径/无锡/移动/GuestbookModel.class.php",
+				"/G/FTP本地路径/无锡/移动/index.html",
+				"/D/workspace/抄/index1/js",
+				"/D/workspace/vote_jys/css/swiper.css",
+				"/D/workspace/vote_jys/test2.html",
+				"/D/workspace/vote_jys/test_3.html",
+				"/D/workspace/myexpress/myapp/public/data_site_now_lat.js",
+				"/D/workspace/myexpress/myapp/public/data_site_now_lng.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/.gitignore",
+				"/D/workspace/myexpress/myapp/.gitignore",
+				"/D/workspace/myexpress/myapp/public/data_site_now.js",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/docs-entry.js",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/DocsApp.vue",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/index.js",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/mobile.js",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/router.js",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/doc.config.js",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/index.tpl",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/demo-common.js",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/utils/index.js",
+				"/D/workspace/myexpress/myapp/schemas/LnglatdataSchema.js",
+				"/D/workspace/myexpress/myapp/models/Lnglatdata.js",
+				"/D/workspace/myexpress/myapp/models/ConstructSite.js",
+				"/D/workspace/myexpress/myapp/models/User.js",
+				"/D/workspace/myexpress/myapp/schemas/ConstructSiteSchema.js",
+				"/D/workspace/myexpress/myapp/schemas/LnglatdataNowSchema.js",
+				"/D/workspace/myexpress/myapp/models/LnglatdataNow.js",
+				"/D/workspace/myexpress/myapp/app.js",
+				"/D/workspace/myexpress/myapp/schemas/UserSchema.js",
+				"/G/FTP本地路径/无锡/移动/weibobj.js",
+				"/G/FTP本地路径/无锡/PC/kysd.html",
+				"/G/FTP本地路径/马鞍山/移动/ChannelAction.class.php",
 				"/D/workspace/leetcode/three_sum/leetcode.js",
-				"/D/workspace/leetcode/two_sum/index.html",
-				"/D/workspace/leetcode/two_sum/leetcode.js",
-				"/D/workspace/leetcode/three_sum/index.html",
 				"/D/workspace/leetcode/threeSumClosest/index.html",
 				"/D/workspace/leetcode/threeSumClosest/leetcode.js",
-				"/D/workspace/leetcode/Two_sum.js",
-				"/D/workspace/ResumeSample-master/冷熊简历 (1).MD",
-				"/D/活动页面/微信朋友圈/weishop81c1/weishop/js/jquery.fly.min.js",
-				"/D/活动页面/微信朋友圈/weishop81c1/weishop/js/express_Arr.js",
-				"/G/FTP本地路径/合肥/PC/jquery.page.js"
+				"/G/FTP本地路径/无锡/移动/cspdsj.html",
+				"/D/workspace/leetcode/two_sum/leetcode.js"
 			],
 			"find":
 			{
-				"height": 37.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
-				"height": 109.0,
+				"height": 124.0,
 				"where_history":
 				[
+					"D:\\workspace\\vant-dev2\\vant-dev",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\vant-dev2\\vant-dev",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\vant-dev2\\vant-dev\\build",
+					"D:\\workspace\\vant-dev2\\vant-dev\\docs",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\vant-dev\\packages",
+					"D:\\workspace\\vue-dev\\src",
+					"D:\\workspace\\vue-code-review\\*.MD",
+					"D:\\workspace\\vue-code-review",
+					"D:\\workspace\\vue-dev\\src",
+					"D:\\workspace\\vue-dev\\src\\platforms\\web\\util",
+					"D:\\workspace\\vue-dev\\src",
+					"D:\\workspace\\vue-dev\\src\\platforms\\web\\util",
+					"D:\\workspace\\vue-dev\\src",
+					"D:\\workspace\\vue-2.0.0\\src",
+					"D:\\workspace\\vue-dev\\src",
+					"D:\\workspace\\vue-dev\\src\\compiler",
+					"D:\\workspace\\vue-dev\\src\\platforms\\web",
+					"D:\\workspace\\vue-dev\\src\\core",
+					"D:\\workspace\\vue-code-review",
+					"D:\\workspace\\vant-dev\\packages",
+					"D:\\workspace\\vue-dev\\src",
+					"D:\\workspace\\vue-dev\\src\\core",
+					"D:\\workspace\\vant-dev\\build",
+					"D:\\workspace\\vant-dev\\docs",
+					"D:\\workspace\\vue-dev\\src",
+					"D:\\workspace\\vant-dev",
+					"D:\\workspace\\vue-element-admin-master"
 				]
 			},
 			"find_state":
@@ -766,27 +810,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"portfinder",
-					"global-require",
-					"require",
-					"global",
-					"require",
-					"global",
-					"import",
-					"no-unus",
-					"key-spacing",
-					"one-var",
-					"no-unused",
-					"no-use",
-					"new",
-					"indent",
-					"ident",
-					"semi",
-					"分号",
-					"space-return",
-					"no-empty-label",
-					"嵌套",
-					"label"
+					"http://m.tdhjt.com/templates/mobilebj/images/",
+					"/scripts/artdialog/",
+					"f_words",
+					"/templates/mobilemains/js/",
+					"/templates/mobilemains/images/",
+					"/App/Tpl/Wap/Default/Public/kysd/july_wx/",
+					".bgf8",
+					"handlePromiseRace",
+					"race",
+					"argument",
+					"setTimeoutPromise",
+					"arr_promise",
+					"setTimeoutPromise",
+					"_rejectedStack",
+					"setTimeoutPromise",
+					"makeRejectedfunc",
+					"setTimeoutPromise",
+					"makeRejectedfunc",
+					"setTimeoutPromise",
+					"makeFulfilledfunc",
+					"\t\t\t\n",
+					"setTimeoutPromise",
+					"resolve",
+					"handlePromiseRace",
+					"that",
+					"makeFulfilledfunc",
+					"_fulfilledStack",
+					"setTimeoutPromise",
+					"makeFulfilledfunc",
+					"setTimeoutPromise",
+					"catch",
+					"setTimeoutPromise",
+					"argument",
+					"catch",
+					"makeFulfilledfunc",
+					"setTimeoutPromise",
+					"reject",
+					"catch",
+					"_rejectedStack",
+					"setTimeoutPromise",
+					"argument",
+					"catch",
+					"reject",
+					"throw",
+					"console.log",
+					"then",
+					"resolve",
+					"argument",
+					"#open_xs_yx, ins, iframe, #iframeHat, #__S3A2111_DEF2__",
+					"error_1",
+					"alert",
+					"chenghu",
+					"您的称呼",
+					"images/",
+					"css/",
+					"js/",
+					"checked",
+					"mui",
+					"选择房屋所在城市:",
+					"linkageSel17",
+					"data_city",
+					"/Public/wap/zxbj/images/",
+					"删除",
+					"/Public/wap/zxbj/css/",
+					"/Public/wap/zxbj/js",
+					".js",
+					".css",
+					"css",
+					"argument",
+					"var LnglatNow = require('../models/LnglatdataNow.js')",
+					"LnglatNow",
+					"argument",
+					"layer-huxing",
+					"18961861926",
+					"guestbook",
+					".daojishi",
+					"daojishi",
+					"/App/Tpl/Home/Default/Public/kysd1/images_June/",
+					"_sendmessageCr",
+					"_sendmessageCr2",
+					"Cs_site",
+					"select",
+					"guestbook",
+					"D(",
+					"D",
+					"views",
+					"ph_id",
+					"argument",
+					"june_wx",
+					"argument",
+					"construct_name",
+					",",
+					"argument",
+					",",
+					"]",
+					"aa2[",
+					",",
+					"Engineering_supervision",
+					"UserSchema",
+					"argument",
+					"域",
+					"field",
+					"column",
+					"field",
+					"column",
+					"数据字段",
+					"field",
+					"tbody",
+					"</",
+					"数据记录行",
+					"document",
+					"row",
+					"数据库表",
+					"collection",
+					"table",
+					"database",
+					"\t\t\n",
+					"view",
+					"listen 80",
+					"argument",
+					"菜鸟工具",
+					"name",
+					"finally",
+					"makeRejectedfunc",
+					"REJECTED",
+					"reject",
+					"_sendmessageCr",
+					"setTimeoutPromise"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -794,6 +945,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"\nsrc=\"/http://img.jysjzjt.com/"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -803,11 +955,11 @@
 			},
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 28.0
 			},
 			"input":
 			{
-				"height": 37.0
+				"height": 44.0
 			},
 			"menu_visible": true,
 			"output.SublimeLinter":
@@ -816,7 +968,7 @@
 			},
 			"output.SublimeLinter Messages":
 			{
-				"height": 122.0
+				"height": 494.0
 			},
 			"output.find_results":
 			{
@@ -833,7 +985,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 50.0
+				"height": 52.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -867,13 +1019,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 284.0,
+			"side_bar_width": 263.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1007.0
+		"new_window_width": 1886.0
 	},
 	"windows":
 	[
@@ -883,530 +1035,521 @@
 				"selected_items":
 				[
 					[
-						"set",
-						"set"
+						"RES",
+						"result_p"
 					],
 					[
-						"ca",
-						"call"
+						"res",
+						"result_v"
 					],
 					[
-						"cha",
-						"changeSpeed"
+						"my",
+						"myRequest"
 					],
 					[
-						"sta",
-						"start"
+						"fin",
+						"finally"
 					],
 					[
-						"a",
-						"arguments"
+						"rt",
+						"return"
 					],
 					[
-						"is",
-						"isStarted"
-					],
-					[
-						"st",
-						"status"
-					],
-					[
-						"pr",
-						"prototype"
-					],
-					[
-						"pro",
-						"prototype"
-					],
-					[
-						"se",
-						"set"
-					],
-					[
-						"tra",
-						"transition"
-					],
-					[
-						"tras",
-						"transition"
-					],
-					[
-						"bar",
-						"barCss"
-					],
-					[
-						"ba",
-						"barCss"
-					],
-					[
-						"trans",
-						"transform"
-					],
-					[
-						"sty",
-						"style"
-					],
-					[
-						"style",
-						"styleObject"
-					],
-					[
-						"get",
-						"getElementById"
-					],
-					[
-						"proto",
-						"prototype"
-					],
-					[
-						"class",
-						"classList"
-					],
-					[
-						"remo",
-						"removeElement"
-					],
-					[
-						"sE",
-						"Settings"
-					],
-					[
-						"doc",
-						"document"
-					],
-					[
-						"spi",
-						"spinner"
-					],
-					[
-						"remov",
-						"removeElement"
-					],
-					[
-						"sp",
-						"spinner"
-					],
-					[
-						"do",
-						"document"
+						"to",
+						"toBe"
 					],
 					[
 						"s",
-						"status"
+						"string"
 					],
 					[
-						"pa",
-						"parent"
+						"web",
+						"webpackConfig"
 					],
 					[
-						"cla",
-						"class"
+						"RE",
+						"reject"
 					],
 					[
-						"va",
-						"var"
+						"P",
+						"Promise"
 					],
 					[
-						"fu",
-						"function"
+						"rr",
+						"return"
 					],
 					[
-						"tr",
-						"trickle"
-					],
-					[
-						"css",
-						"css"
-					],
-					[
-						"tran",
-						"transition"
-					],
-					[
-						"es",
-						"else"
-					],
-					[
-						"prp",
-						"properties"
-					],
-					[
-						"cssP",
-						"cssPrefixes"
-					],
-					[
-						"bod",
-						"body"
-					],
-					[
-						"ea",
-						"ease"
-					],
-					[
-						"ve",
-						"vendorPrefix"
-					],
-					[
-						"ge",
-						"getPositioningCSS"
-					],
-					[
-						"the",
-						"thenable"
+						"se",
+						"setTimeout"
 					],
 					[
 						"re",
-						"reject"
+						"return"
+					],
+					[
+						"pinr",
+						"print_r"
+					],
+					[
+						"S",
+						"Status"
+					],
+					[
+						"ST",
+						"stack"
+					],
+					[
+						"_",
+						"_status"
+					],
+					[
+						"th",
+						"that"
+					],
+					[
+						"sta",
+						"Status"
+					],
+					[
+						"onf",
+						"onFulfilled"
+					],
+					[
+						"ON",
+						"onFulfilled"
+					],
+					[
+						"FUN",
+						"function"
+					],
+					[
+						"hand",
+						"handlePromiseAll"
 					],
 					[
 						"fun",
 						"function"
 					],
 					[
-						"img",
-						"img_url"
-					],
-					[
-						"f",
-						"function"
-					],
-					[
-						"fUn",
-						"function"
-					],
-					[
-						"g_",
-						"g_modelMatrix"
-					],
-					[
-						"roa",
-						"rotate"
-					],
-					[
-						"BAS",
-						"baseHeight"
-					],
-					[
-						"TRANS",
-						"translate"
-					],
-					[
-						"arm1",
-						"arm1Length"
-					],
-					[
-						"bas",
-						"baseHeight"
-					],
-					[
-						"dra",
-						"drawBox"
-					],
-					[
-						"g_joi",
-						"g_joint3Angle"
-					],
-					[
-						"g_jo",
-						"g_joint2Angle"
-					],
-					[
-						"CA",
-						"canvas"
-					],
-					[
-						"uni",
-						"uniformMatrix4fv"
-					],
-					[
-						"g_M",
-						"g_mvpMatrix"
-					],
-					[
-						"view",
-						"viewProjMatrix"
-					],
-					[
-						"rota",
-						"rotate"
-					],
-					[
-						"cle",
-						"clear"
-					],
-					[
-						"t",
-						"true"
-					],
-					[
-						"DA",
-						"data"
-					],
-					[
-						"buff",
-						"bufferData"
-					],
-					[
-						"inde",
-						"indices"
-					],
-					[
-						"el",
-						"ELEMENT_ARRAY_BUFFER"
-					],
-					[
-						"nor",
-						"normals"
-					],
-					[
-						"ini",
-						"initArrayBuffer"
-					],
-					[
-						"u_M",
-						"u_MvpMatrix"
-					],
-					[
-						"vie",
-						"viewProjMatrix"
-					],
-					[
-						"ANGLE",
-						"ANGLE_STEP"
-					],
-					[
-						"dr",
-						"drawElements"
-					],
-					[
-						"De",
-						"DEPTH_TEST"
-					],
-					[
-						"uniof",
-						"uniformMatrix4fv"
-					],
-					[
-						"unifo",
-						"uniformMatrix4fv"
-					],
-					[
-						"MO",
-						"modelMatrix"
-					],
-					[
-						"MU",
-						"multiply"
-					],
-					[
-						"unif",
-						"uniformMatrix4fv"
-					],
-					[
-						"mo",
-						"model"
-					],
-					[
-						"no",
-						"normalMatrix"
-					],
-					[
-						"un",
-						"uniform3f"
-					],
-					[
-						"u_L",
-						"u_LightCorlor"
-					],
-					[
-						"u_Ligh",
-						"u_LightCorlor"
-					],
-					[
-						"No",
-						"NormalMatrixix"
-					],
-					[
-						"D",
-						"DEPTH_TEST"
-					],
-					[
-						"en",
-						"enable"
-					],
-					[
-						"var",
-						"var"
-					],
-					[
-						"mat",
-						"mat4"
-					],
-					[
-						"mode",
-						"modeMartrix"
-					],
-					[
-						"vertexa",
-						"vertexAttribPointer"
-					],
-					[
-						"da",
-						"data"
-					],
-					[
 						"le",
 						"length"
 					],
 					[
-						"crea",
-						"createBuffer"
+						"ite",
+						"iterable"
 					],
 					[
-						"Ma",
-						"Matrix4"
+						"o",
+						"object_arr"
 					],
 					[
-						"u_Li",
-						"u_LightDirection"
+						"fo",
+						"forEach"
 					],
 					[
-						"li",
-						"lightDirection"
+						"l",
+						"data_site_now_lat.js"
 					],
 					[
-						"ligh",
-						"u_LightDirection"
+						"req",
+						"require"
 					],
 					[
-						"GET",
-						"getUniformLocation"
+						"Lng",
+						"LnglatdataNow"
 					],
 					[
-						"init",
-						"initVertexBuffers"
+						"ln",
+						"lat_lng_arr"
 					],
 					[
-						"FS",
-						"FSHADER_SOURCE"
+						"L",
+						"Lnglat"
 					],
 					[
-						"PR",
-						"projMatrix"
+						"js",
+						"JSON"
 					],
 					[
-						"g_e",
-						"g_eyeX"
+						"rq",
+						"req"
 					],
 					[
-						"g_eye",
-						"g_eyeX"
+						"pro",
+						"promise"
 					],
 					[
-						"MODE",
-						"modelviewMatrix"
+						"prin",
+						"print_r"
 					],
 					[
-						"drw",
-						"draw"
+						"ma",
+						"margin"
 					],
 					[
-						"viw",
-						"viewMatrix"
+						"ba",
+						"background-size"
 					],
 					[
-						"FA",
-						"false"
+						"PO",
+						"point"
 					],
 					[
-						"F",
-						"FLOAT"
+						"pi",
+						"Point"
 					],
 					[
-						"ver",
-						"vertexAttribPointer"
+						"ex",
+						"exit"
 					],
 					[
-						"VER",
-						"verticesColors"
+						"co",
+						"construct_status"
 					],
 					[
-						"T",
-						"TRIANGLES"
+						"C",
+						"Cs_site"
 					],
 					[
-						"Fs",
-						"FSHADER_SOURCE"
+						"excel",
+						"excelObj"
 					],
 					[
-						"tex",
-						"texUnit"
+						"Us",
+						"User"
 					],
 					[
-						"g_te",
-						"g_texUnit1"
-					],
-					[
-						"TE",
-						"TEXTURE0"
-					],
-					[
-						"us",
-						"u_Sampler1"
-					],
-					[
-						"TEX",
-						"TEXTURE_2D"
+						"user",
+						"username"
 					],
 					[
 						"u",
-						"u_Sampler"
+						"username"
 					],
 					[
-						"GL",
-						"gl"
+						"err",
+						"error"
 					],
 					[
-						"a_",
-						"a_Position"
+						"index",
+						"indexRouter"
 					],
 					[
 						"U",
-						"u_Sampler"
+						"User"
 					],
 					[
-						"v_",
-						"v_TextCoord"
+						"User",
+						"UserSchema"
 					],
 					[
-						"vec",
-						"vec2"
+						"mo",
+						"mongoose"
 					],
 					[
-						"u_",
-						"u_Height"
+						"con",
+						"config"
 					],
 					[
-						"Fra",
-						"gl_FragColor"
+						"bod",
+						"body"
 					],
 					[
-						"G",
-						"gl"
+						"url",
+						"urlencodeParser"
+					],
+					[
+						"for",
+						"form_index"
+					],
+					[
+						"fa",
+						"favicon"
+					],
+					[
+						"cl",
+						"collection"
+					],
+					[
+						"d",
+						"dbo"
+					],
+					[
+						"myob",
+						"myobj"
+					],
+					[
+						"clo",
+						"close"
+					],
+					[
+						"fi",
+						"function"
+					],
+					[
+						"m",
+						"MongoClient"
+					],
+					[
+						"CON",
+						"connect"
+					],
+					[
+						"db",
+						"dbo"
+					],
+					[
+						"up",
+						"updateStr"
+					],
+					[
+						"pr",
+						"proxyServer"
+					],
+					[
+						"is",
+						"isLoading"
+					],
+					[
+						"F",
+						"FULLFILLED"
+					],
+					[
+						"_s",
+						"_status"
+					],
+					[
+						"rejs",
+						"_rejectedStack"
+					],
+					[
+						"on",
+						"onRejected"
+					],
+					[
+						"st",
+						"stack"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"p",
+						"promise"
+					],
+					[
+						"the",
+						"then"
+					],
+					[
+						"reso",
+						"resolve"
+					],
+					[
+						"ret",
+						"return_result"
+					],
+					[
+						"set",
+						"setTimeout"
+					],
+					[
+						"ar",
+						"args"
+					],
+					[
+						"ne",
+						"next"
+					],
+					[
+						"pad",
+						"padding-left"
+					],
+					[
+						"border-ra",
+						"border-bottom-right-radius"
+					],
+					[
+						"in",
+						"initial"
+					],
+					[
+						"reje",
+						"reject"
+					],
+					[
+						"DE",
+						"devFlagPlugin"
+					],
+					[
+						"pa",
+						"packages/"
+					],
+					[
+						"com",
+						"components"
+					],
+					[
+						"wat",
+						"watcherOb"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"OBJ",
+						"obj"
+					],
+					[
+						"cal",
+						"class"
+					],
+					[
+						"new",
+						"newVal"
+					],
+					[
+						"dep",
+						"depend"
+					],
+					[
+						"DEF",
+						"defineReactive"
+					],
+					[
+						"key",
+						"key"
+					],
+					[
+						"def",
+						"defineReactive"
+					],
+					[
+						"O",
+						"Object"
+					],
+					[
+						"he",
+						"health"
+					],
+					[
+						"hr",
+						"hero"
+					],
+					[
+						"de",
+						"defineProperty"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"tex",
+						"textEnd"
+					],
+					[
+						"tr",
+						"transform"
+					],
+					[
+						"peo",
+						"person1"
+					],
+					[
+						"arr",
+						"arrToObj"
+					],
+					[
+						"see",
+						"selectDom"
+					],
+					[
+						"pre",
+						"person2"
+					],
+					[
+						"cla",
+						"call"
+					],
+					[
+						"call",
+						"callHook"
+					],
+					[
+						"ca",
+						"catch"
+					],
+					[
+						"k",
+						"key"
+					],
+					[
+						"ke",
+						"keys"
+					],
+					[
+						"selec",
+						"selectDom"
+					],
+					[
+						"fomr",
+						"formsubimit"
+					],
+					[
+						"bac",
+						"background-size"
+					],
+					[
+						"background-c",
+						"background-color"
+					],
+					[
+						"bo",
+						"bottom"
+					],
+					[
+						"fon",
+						"font"
+					],
+					[
+						"tra",
+						"translateX()"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"form",
+						"formAction"
+					],
+					[
+						"ci",
+						"configure"
+					],
+					[
+						"jys",
+						"jys_kysd"
+					],
+					[
+						"cha",
+						"changeSpeed"
+					],
+					[
+						"a",
+						"arguments"
+					],
+					[
+						"tras",
+						"transition"
 					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"file": "/D/workspace/common_simple_frame/vue-common-simple-frame/static/lInput.js",
-					"settings":
-					{
-						"buffer_size": 41,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -1454,149 +1597,168 @@
 			},
 			"expanded_folders":
 			[
-				"/D/workspace/common_simple_frame/vue-common-simple-frame",
-				"/D/workspace/common_simple_frame/vue-common-simple-frame/static"
 			],
 			"file_history":
 			[
-				"/G/FTP本地路径/芜湖/移动/articlecx.html",
-				"/G/FTP本地路径/芜湖/移动/footer.html",
-				"/G/FTP本地路径/芜湖/移动/ceshipindao.html",
-				"/G/FTP本地路径/芜湖/移动/footer2.html",
-				"/G/FTP本地路径/芜湖/移动/header.html",
-				"/G/FTP本地路径/芜湖/移动/cs.php",
-				"/D/workspace/vue-element-admin-master/src/router/_import_development.js",
-				"/D/workspace/vote_jys/test.html",
-				"/D/workspace/vue-element-admin-master/node_modules/nprogress/test/index.html",
-				"/D/workspace/vue-element-admin-master/node_modules/nprogress/connect.js",
-				"/D/workspace/vue-element-admin-master/node_modules/nprogress/lProgress.js",
-				"/D/workspace/vue-element-admin-master/node_modules/nprogress/test/index2.html",
-				"/D/workspace/vue-code-review/vue-devtools-master/常用正则表达式.MD",
-				"/D/workspace/vue-element-admin-master/node_modules/nprogress/nprogress.js",
-				"/D/workspace/vue-element-admin-master/node_modules/nprogress/nprogress_copy.js",
-				"/D/workspace/vue-code-review/js基础常用.MD",
-				"/G/FTP本地路径/合肥/移动/xxllfzxbj2.html",
-				"/G/FTP本地路径/合肥/移动/weibo.js",
+				"/D/workspace/myPromise/karma.conf.js",
+				"/D/workspace/tdhyd/cailiao.html",
+				"/D/workspace/tdhyd/cases.html",
+				"/D/workspace/myPromise/test/myPromise.spec.js",
+				"/D/workspace/myPromise/README.md",
+				"/G/FTP本地路径/无锡/移动/index.html",
+				"/G/FTP本地路径/无锡/移动/showarticle.html",
+				"/G/FTP本地路径/无锡/移动/jys_info_share.js",
 				"/G/FTP本地路径/无锡/移动/kysd.html",
-				"/G/FTP本地路径/无锡/移动/zxfgcs.html",
-				"/G/FTP本地路径/无锡/移动/footer.html",
-				"/G/FTP本地路径/无锡/移动/weibobj.js",
-				"/G/FTP本地路径/无锡/移动/zxfgcs.js",
-				"/G/FTP本地路径/无锡/移动/gaishu.html",
-				"/C/Users/Administrator/Desktop/Juneactivity/index.html",
-				"/C/Users/Administrator/Desktop/Juneactivity/js/index.js",
-				"/G/FTP本地路径/无锡/移动/.bash_history",
-				"/G/FTP本地路径/无锡/移动/passwd",
-				"/G/FTP本地路径/无锡/PC/kysd.html",
-				"/G/FTP本地路径/无锡/移动/articlecx.html",
-				"/D/workspace/vant-dev/packages/utils/clickoutside.js",
-				"/D/workspace/vue-code-review/ES6入坑之路.md",
-				"/D/workspace/vue-dev/src/core/vdom/create-component.js",
-				"/D/workspace/vue-dev/src/platforms/web/entry-runtime-with-compiler.js",
-				"/D/workspace/vue-dev/src/core/instance/lifecycle.js",
-				"/D/workspace/vue-code-review/常见动画效果.MD",
-				"/D/workspace/vant-dev/.eslintrc.js",
-				"/D/workspace/vant-dev/build/bin/build-entry.js",
-				"/D/workspace/vant-dev/packages/index.js",
-				"/D/workspace/vant-dev/package.json",
-				"/D/workspace/vant-dev/build/webpack.dev.js",
-				"/D/workspace/vant-dev/docs/src/mobile.js",
-				"/D/workspace/vant-dev/docs/src/utils/iframe-router.js",
-				"/D/workspace/vue-dev/src/core/util/next-tick.js",
-				"/D/workspace/vue-dev/src/core/instance/render.js",
-				"/D/workspace/vant-dev/packages/actionsheet/index.vue",
-				"/D/workspace/vant-dev/packages/utils/create.js",
-				"/D/workspace/vant-dev/packages/utils/create-basic.js",
-				"/D/workspace/vue-dev/src/core/global-api/use.js",
-				"/D/workspace/vant-dev/node_modules/.bin/babel",
-				"/D/workspace/vant-dev/node_modules/.bin/babel-node",
-				"/D/workspace/vant-dev/docs/src/index.js",
-				"/G/FTP本地路径/合肥/PC/index.html",
-				"/G/FTP本地路径/合肥/PC/form.js",
-				"/D/workspace/vue-code-review/Vue.js入坑之路.MD",
-				"/D/workspace/vue-code-review/review1.MD",
-				"/D/workspace/vue-code-review/Node.js入坑之路.MD",
-				"/G/FTP本地路径/芜湖/移动/botttom_float_box.html",
-				"/G/FTP本地路径/芜湖/移动/youhui.html",
+				"/D/workspace/react-demo-test/README.md",
+				"/D/workspace/react-demo-test/.gitignore",
+				"/D/workspace/myPromise/src/myPromise.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test.html",
+				"/D/workspace/tdhyd/index.html",
+				"/D/workspace/vue-code-review/karma单元测试环境搭建的一次尝试.MD",
+				"/D/workspace/tdhyd/jzdkt.html",
+				"/D/workspace/tdhyd/sjs.html",
+				"/G/FTP本地路径/无锡/移动/ChannelAction.class.php",
+				"/D/workspace/tdhyd/hhqb.html",
+				"/D/workspace/myPromise/karma.conf2.js",
+				"/D/workspace/myPromise/.gitignore",
+				"/E/FileRecv/下载/clipboard.js-master/clipboard.js-master/demo/function-text.html",
+				"/E/FileRecv/下载/clipboard.js-master/clipboard.js-master/demo/target-div.html",
+				"/E/FileRecv/下载/clipboard.js-master/clipboard.js-master/demo/function-target.html",
+				"/D/workspace/tdhyd/cailiao/css/cssp_messgage.css",
+				"/D/workspace/tdhyd/bb_pk_qb/css/cssp_pk3.css",
+				"/D/workspace/tdhyd/bb_pk_qb.html",
+				"/D/workspace/tdhyd/public/footer.html",
+				"/D/workspace/tdhyd/zxbj/css/validate.css",
+				"/D/workspace/tdhyd/public/header.html",
+				"/D/workspace/tdhyd/jgqd.html",
+				"/D/workspace/tdhyd/hhqb/js/pinglun_sj.js",
+				"/D/workspace/tdhyd/hhqb/css/css_zt.css",
+				"/D/workspace/tdhyd/public/js/jquery.form.min.js",
+				"/D/workspace/tdhyd/public/js/jquery.pagination.js",
+				"/D/workspace/tdhyd/index/js/show.js",
+				"/D/workspace/tdhyd/public/js/common.js",
+				"/D/workspace/tdhyd/public/css/ui-dialog.css",
+				"/D/workspace/tdhyd/public/js/dialog-plus-min.js",
+				"/D/workspace/tdhyd/public/js/Validform_v5.3.2_min.js",
+				"/D/workspace/tdhyd/zxbj/css/zxbj.css",
+				"/D/workspace/tdhyd/index/js/default.js",
+				"/D/workspace/tdhyd/index/css/public.css",
+				"/D/workspace/tdhyd/index/css/index.css",
+				"/D/workspace/tdhyd/public/js/jquery-1.8.2.min.js",
 				"/G/FTP本地路径/无锡/移动/nginx.conf",
-				"/G/FTP本地路径/无锡/移动/denyip.conf",
-				"/D/workspace/vue-dev/src/core/index.js",
-				"/D/workspace/vant-dev/build/bin/get-components.js",
-				"/G/FTP本地路径/无锡/PC/ceshipindao.html",
-				"/G/FTP本地路径/无锡/PC/zxhdbj3.html",
-				"/D/workspace/vant-dev/package-lock.json",
-				"/D/workspace/vant-dev/build/bin/build-lib.js",
-				"/D/workspace/vant-dev/build/bin/build-components.js",
-				"/G/FTP本地路径/无锡/移动/cspdsj.html",
-				"/G/FTP本地路径/无锡/移动/kysd1.html",
-				"/D/workspace/vue-element-admin-master/node_modules/console-browserify/test/static/index.html",
-				"/D/workspace/vue-element-admin-master/node_modules/cuint/README.md",
-				"/D/workspace/vue-element-admin-master/node_modules/date-now/test/static/index.html",
-				"/D/workspace/vue-element-admin-master/node_modules/imurmurhash/README.md",
-				"/D/workspace/vue-element-admin-master/node_modules/inquirer/README.md",
-				"/D/workspace/vue-element-admin-master/node_modules/js-cookie/README.md",
-				"/D/workspace/vue-element-admin-master/node_modules/json3/README.md",
-				"/D/workspace/vue-element-admin-master/node_modules/showdown/test/cases/images.html",
-				"/D/workspace/vue-element-admin-master/node_modules/sockjs/examples/koa/index.html",
-				"/D/workspace/vue-element-admin-master/node_modules/sortablejs/README.md",
-				"/D/workspace/vue-element-admin-master/node_modules/spdy/README.md",
-				"/D/workspace/vue-element-admin-master/node_modules/vm-browserify/example/run/index.html",
-				"/D/workspace/vue-element-admin-master/node_modules/vm-browserify/readme.markdown",
-				"/D/workspace/vue-element-admin-master/node_modules/vuedraggable/README.md",
-				"/D/workspace/vue-element-admin-master/node_modules/webpack-bundle-analyzer/views/script.ejs",
-				"/D/workspace/vue-element-admin-master/node_modules/webpack-dev-server/client/live.html",
-				"/D/workspace/vue-element-admin-master/node_modules/webpack/node_modules/yargs/README.md",
-				"/D/workspace/vue-element-admin-master/node_modules/yargs/README.md",
-				"/D/workspace/vue-element-admin-master/node_modules/xxhashjs/README.md",
-				"/D/workspace/vue-element-admin-master/src/views/components-demo/tinymce.vue",
-				"/D/workspace/vant-dev/docs/src/WapApp.vue",
-				"/D/workspace/vue2-elm-master/src/router/router.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/src/components/HelloWorld.vue",
-				"/G/FTP本地路径/无锡/移动/nginx",
-				"/D/workspace/vue-element-admin-master/src/api/article.js",
-				"/G/FTP本地路径/无锡/移动/header.html",
-				"/D/workspace/vue-code-review/SSR服务端渲染学习.MD",
-				"/D/workspace/vue-dev/src/core/instance/init.js",
-				"/D/workspace/vue2-elm-master/src/page/home/home.vue",
-				"/D/workspace/vue-code-review/e2e-test.MD",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test/e2e/specs/test.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/specs/HelloWorld.spec.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/.eslintrc.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/index.js",
+				"/D/workspace/myPromise/webpack.test.conf.js",
+				"/D/workspace/myPromise/package.json",
 				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/karma.conf.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/coverage/lcov-report/index.html",
 				"/D/workspace/common_simple_frame/common-simple/common-simple/package.json",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/src/router/index.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.dev.conf.js",
+				"/D/workspace/myPromise/report/ut/result/index.html",
+				"/D/workspace/myPromise/report/ut/converage/index.html",
+				"/D/workspace/myPromise/report/ut/converage/test/index.html",
+				"/D/workspace/myPromise/report/ut/converage/sorter.js",
+				"/D/workspace/myPromise/report/ut/converage/prettify.css",
+				"/D/workspace/myPromise/report/ut/converage/prettify.js",
+				"/D/workspace/myPromise/report/ut/converage/sort-arrow-sprite.png",
+				"/D/workspace/myPromise/report/ut/converage/test/index.spec.js.html",
+				"/D/workspace/myPromise/test/index2.spec.js",
+				"/D/workspace/myPromise/src/index2.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/static/promise_demo.js",
+				"/D/workspace/myPromise/test/index.spec.js",
+				"/D/workspace/myPromise/src/index.js",
+				"/D/workspace/myPromise/Module",
+				"/D/workspace/react-demo-test/webpack.config.js",
 				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.test.conf.js",
-				"/D/workspace/vue-code-review/karma.config.MD",
-				"/G/FTP本地路径/无锡/移动/zxhdbj.html",
+				"/D/workspace/myPromise/.babelrc",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.base.conf.js",
+				"/D/workspace/myPromise/node_modules/_async-limiter@1.0.0@async-limiter/coverage/lcov-report/index.html",
+				"/G/FTP本地路径/无锡/移动/hdzxbj3.html",
+				"/G/FTP本地路径/无锡/移动/kysd_gd.html",
+				"/G/FTP本地路径/无锡/移动/jys_kysd_july.js",
+				"/G/FTP本地路径/无锡/移动/jys_kysd_gd.js",
+				"/G/FTP本地路径/无锡/移动/zxxgcs.html",
+				"/G/FTP本地路径/无锡/移动/zxxbjys.html",
 				"/G/FTP本地路径/无锡/移动/weibobj.html",
-				"/D/workspace/vue-code-review/vue-devtools-master/vue-cli-webpack-config-des.MD",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/.eslintignore",
-				"/D/workspace/whyd/Default/Channel/cspdsj.html",
-				"/G/FTP本地路径/无锡/移动/cspd2.html",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test/e2e/runner.js",
-				"/D/workspace/common_simple_frame/vue-demo/.eslintrc.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/src/main.js",
-				"/D/workspace/vue-code-review/代码规范.MD",
-				"/D/workspace/webgl/demo1/HelloCanvas.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-				"/D/workspace/common_simple_frame/vue-common-simple-frame/.editorconfig",
-				"/D/workspace/common_simple_frame/vue-common-simple-frame/.eslintrc.js",
-				"/D/workspace/vue-devtools-master/shells/chrome/manifest.json",
-				"/D/workspace/vue-dev/src/platforms/web/runtime/index.js",
-				"/D/workspace/vue-dev/src/compiler/index.js",
-				"/D/workspace/vue-dev/src/compiler/codegen/index.js"
+				"/G/FTP本地路径/无锡/移动/lbrz.html",
+				"/D/workspace/react-demo-test/.babelrc",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/.babelrc",
+				"/D/workspace/myPromise/src/index.test.js",
+				"/D/workspace/myPromise/test/index.test.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/specs/HelloWorld.spec.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/.eslintrc",
+				"/D/workspace/vue-code-review/karma.config.MD",
+				"/G/FTP本地路径/无锡/移动/form.js",
+				"/G/FTP本地路径/无锡/移动/zxxbjys_new.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/static/Promise.js",
+				"/G/FTP本地路径/无锡/移动/footer.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/static/pinkie.min.js",
+				"/G/FTP本地路径/无锡/移动/mfhqbj.html",
+				"/G/FTP本地路径/无锡/移动/m_2018.css",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/static/map.html",
+				"/G/FTP本地路径/无锡/移动/header.html",
+				"/G/FTP本地路径/无锡/移动/zxfgcs.html",
+				"/G/FTP本地路径/无锡/移动/weibobj2.html",
+				"/G/FTP本地路径/无锡/移动/result_style.html",
+				"/D/workspace/vue-code-review/linux常用操作指令.MD",
+				"/G/FTP本地路径/合肥/PC/footer.html",
+				"/D/workspace/myexpress/myapp/routes/index.js",
+				"/D/workspace/vote_jys/map2.html",
+				"/D/workspace/vote_jys/test_2.html",
+				"/G/FTP本地路径/芜湖/PC/baiwen1.html",
+				"/G/FTP本地路径/合肥/PC/bottom_quote.html",
+				"/G/FTP本地路径/合肥/PC/header.html",
+				"/G/FTP本地路径/无锡/PC/footer.html",
+				"/D/workspace/myexpress/myapp/public/index.html",
+				"/D/workspace/vant-dev2/vant-dev/build/bin/build-entry.js",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/demo-entry.js",
+				"/D/workspace/myexpress/myapp/package.json",
+				"/G/FTP本地路径/合肥/PC/index.html",
+				"/D/workspace/抄/index1/mfhqbj.html",
+				"/D/workspace/抄/index1/index.html",
+				"/D/workspace/抄/index1/css/index.css",
+				"/G/FTP本地路径/无锡/移动/GuestbookModel.class.php",
+				"/D/workspace/抄/index1/js",
+				"/D/workspace/vote_jys/css/swiper.css",
+				"/D/workspace/vote_jys/test2.html",
+				"/D/workspace/vote_jys/test_3.html",
+				"/D/workspace/myexpress/myapp/public/data_site_now_lat.js",
+				"/D/workspace/myexpress/myapp/public/data_site_now_lng.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/.gitignore",
+				"/D/workspace/myexpress/myapp/.gitignore",
+				"/D/workspace/myexpress/myapp/public/data_site_now.js",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/docs-entry.js",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/DocsApp.vue",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/index.js"
 			],
 			"find":
 			{
-				"height": 37.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
-				"height": 109.0,
+				"height": 124.0,
 				"where_history":
 				[
+					"D:\\workspace\\vant-dev2\\vant-dev",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\vant-dev2\\vant-dev",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\vant-dev2\\vant-dev\\build",
+					"D:\\workspace\\vant-dev2\\vant-dev\\docs",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\vant-dev\\packages",
+					"D:\\workspace\\vue-dev\\src",
+					"D:\\workspace\\vue-code-review\\*.MD",
+					"D:\\workspace\\vue-code-review",
+					"D:\\workspace\\vue-dev\\src",
+					"D:\\workspace\\vue-dev\\src\\platforms\\web\\util",
+					"D:\\workspace\\vue-dev\\src",
+					"D:\\workspace\\vue-dev\\src\\platforms\\web\\util",
+					"D:\\workspace\\vue-dev\\src",
+					"D:\\workspace\\vue-2.0.0\\src",
+					"D:\\workspace\\vue-dev\\src",
+					"D:\\workspace\\vue-dev\\src\\compiler",
+					"D:\\workspace\\vue-dev\\src\\platforms\\web",
+					"D:\\workspace\\vue-dev\\src\\core",
 					"D:\\workspace\\vue-code-review",
 					"D:\\workspace\\vant-dev\\packages",
 					"D:\\workspace\\vue-dev\\src",
@@ -1613,111 +1775,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"js",
-					"quote_btn",
-					"progress.offsetWidth",
-					"render",
-					"set",
-					"if",
-					"set",
-					"render",
-					"set",
-					"bar",
-					"inc",
-					"barPositionCss",
-					"set",
-					"setTimeout",
-					"set",
-					"true",
-					"queue",
-					"barPositionCss",
-					"positionUsing",
-					"method_name",
-					"first_argument",
-					"quote_btn",
-					"argument",
-					"queue",
-					"barPositionCSS",
-					"render",
-					"assign",
-					"hasClass",
-					"promise",
+					"raceResolve",
+					"endFlag",
+					"p",
+					"resolvedPromisesArray",
 					"done",
-					"clamp",
-					"trickle",
-					"barPositionCSS",
-					"css",
-					"barPositionCss",
-					"getVendorProp",
-					"lazyload",
-					"echo",
-					"data-original",
-					"css",
-					"getPositioningCSS",
-					"Repaint",
-					"offsetWidth",
-					"clamp",
-					"directive",
-					"routes",
-					"router",
-					"render",
-					"render: function",
-					"prototype.render",
-					"Vue.render",
-					"render",
-					"character",
-					"bad",
-					"babel",
-					"data-original",
-					"img",
-					"lazyload",
-					"less_day",
-					"daojishi_font",
-					"lazy",
-					"bg_5",
-					"syncPath",
-					"nextTick",
-					"Vue.use",
-					"Vue.prototype.use",
-					"use",
-					"lazyload",
-					"swiper-container",
-					"lunbo1",
-					"glob",
-					"data-original",
-					"jysjzjt",
-					"img",
-					"close",
-					"data-original=\"/",
-					" src=\"/",
-					"src=\"/",
-					"=\"/",
-					"src=\"/",
-					"jysjzjt",
+					"天地和",
+					"throw",
+					" console",
+					"/templates/mobilemains/img_zt/",
+					"/templates/mobilemains/images/",
+					"ver",
+					"http://tdhjz.com/templates/mobilemains/images/",
+					"/templates/mobilemains/img_zt/",
+					"/templates/mobilemains/images/",
+					"default",
+					"http://m.tdhjt.com/templates/mobilebj/images/",
+					"/scripts/artdialog/",
+					"f_words",
+					"/templates/mobilemains/js/",
+					"/templates/mobilemains/images/",
+					"/App/Tpl/Wap/Default/Public/kysd/july_wx/",
+					".bgf8",
+					"handlePromiseRace",
+					"race",
 					"argument",
-					"newline",
-					"new-line",
-					"portfinder",
-					"global-require",
-					"require",
-					"global",
-					"require",
-					"global",
-					"import",
-					"no-unus",
-					"key-spacing",
-					"one-var",
-					"no-unused",
-					"no-use",
-					"new",
-					"indent",
-					"ident",
-					"semi",
-					"分号",
-					"space-return",
-					"no-empty-label",
-					"嵌套",
-					"label"
+					"setTimeoutPromise",
+					"arr_promise",
+					"setTimeoutPromise",
+					"_rejectedStack",
+					"setTimeoutPromise",
+					"makeRejectedfunc",
+					"setTimeoutPromise",
+					"makeRejectedfunc",
+					"setTimeoutPromise",
+					"makeFulfilledfunc",
+					"\t\t\t\n",
+					"setTimeoutPromise",
+					"resolve",
+					"handlePromiseRace",
+					"that",
+					"makeFulfilledfunc",
+					"_fulfilledStack",
+					"setTimeoutPromise",
+					"makeFulfilledfunc",
+					"setTimeoutPromise",
+					"catch",
+					"setTimeoutPromise",
+					"argument",
+					"catch",
+					"makeFulfilledfunc",
+					"setTimeoutPromise",
+					"reject",
+					"catch",
+					"_rejectedStack",
+					"setTimeoutPromise",
+					"argument",
+					"catch",
+					"reject",
+					"throw",
+					"console.log",
+					"then",
+					"resolve",
+					"argument",
+					"#open_xs_yx, ins, iframe, #iframeHat, #__S3A2111_DEF2__",
+					"error_1",
+					"alert",
+					"chenghu",
+					"您的称呼",
+					"images/",
+					"css/",
+					"js/",
+					"checked",
+					"mui",
+					"选择房屋所在城市:",
+					"linkageSel17",
+					"data_city",
+					"/Public/wap/zxbj/images/",
+					"删除",
+					"/Public/wap/zxbj/css/",
+					"/Public/wap/zxbj/js",
+					".js",
+					".css",
+					"css",
+					"argument",
+					"var LnglatNow = require('../models/LnglatdataNow.js')",
+					"LnglatNow",
+					"argument",
+					"layer-huxing",
+					"18961861926",
+					"guestbook",
+					".daojishi",
+					"daojishi",
+					"/App/Tpl/Home/Default/Public/kysd1/images_June/",
+					"_sendmessageCr",
+					"_sendmessageCr2",
+					"Cs_site",
+					"select",
+					"guestbook",
+					"D(",
+					"D",
+					"views",
+					"ph_id",
+					"argument",
+					"june_wx",
+					"argument",
+					"construct_name",
+					",",
+					"argument",
+					",",
+					"]",
+					"aa2[",
+					",",
+					"Engineering_supervision",
+					"UserSchema",
+					"argument",
+					"域",
+					"field",
+					"column",
+					"field",
+					"column",
+					"数据字段",
+					"field",
+					"tbody",
+					"</",
+					"数据记录行",
+					"document",
+					"row",
+					"数据库表"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1725,6 +1910,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"金钥匙",
 					"\nsrc=\"/http://img.jysjzjt.com/"
 				],
 				"reverse": false,
@@ -1736,10 +1922,16 @@
 			"folders":
 			[
 				{
+					"path": "D:\\workspace\\myPromise"
+				},
+				{
 					"path": "D:\\workspace\\common_simple_frame\\common-simple\\common-simple"
 				},
 				{
 					"path": "D:\\workspace\\vue-code-review"
+				},
+				{
+					"path": "D:\\workspace\\react-demo-test"
 				},
 				{
 					"path": "D:\\workspace\\webgl"
@@ -1769,9 +1961,6 @@
 					"path": "D:\\workspace\\vote_jys"
 				},
 				{
-					"path": "D:\\workspace\\react-demo-test"
-				},
-				{
 					"path": "D:\\workspace\\express"
 				},
 				{
@@ -1787,9 +1976,6 @@
 					"path": "D:\\workspace\\vue-dev"
 				},
 				{
-					"path": "D:\\workspace\\vant-dev"
-				},
-				{
 					"path": "E:\\FileRecv\\下载\\es6-promise-always-master\\es6-promise-always-master"
 				},
 				{
@@ -1797,152 +1983,56 @@
 				},
 				{
 					"path": "D:\\workspace\\mocha-demos-master"
+				},
+				{
+					"path": "D:\\workspace\\vue-1.0.20"
+				},
+				{
+					"path": "D:\\workspace\\LInput"
+				},
+				{
+					"path": "D:\\workspace\\vue-2.0.0"
+				},
+				{
+					"path": "D:\\workspace\\vuetest"
+				},
+				{
+					"path": "D:\\workspace\\vant-dev\\node_modules\\vant-doc"
+				},
+				{
+					"path": "D:\\workspace\\vant-dev2\\vant-dev"
+				},
+				{
+					"path": "E:\\FileRecv\\下载\\Promise-master\\Promise-master"
+				},
+				{
+					"path": "D:\\workspace\\node"
+				},
+				{
+					"path": "D:\\workspace\\myexpress"
+				},
+				{
+					"path": "D:\\workspace\\抄"
+				},
+				{
+					"path": "D:\\workspace\\tdhyd"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/D/workspace/common_simple_frame/vue-common-simple-frame/static/lInput.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 41,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										41,
-										41
-									]
-								],
-								"settings":
-								{
-									"SL.432.region_keys":
-									[
-										"SL.eslint.Highlights.|153933a6d52b7c03add472571ec54239ae410d30c8aac639d6de8a4f8fba7aed|region.yellowish markup.error.sublime_linter|32",
-										"SL.eslint.Highlights.|3d4e8be642c2e445e02b961460e1066a4275caac36a04bf155207d333fd8f630|region.yellowish markup.error.sublime_linter|32",
-										"SL.eslint.Gutter.|region.yellowish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Blueberry Cross/error.png",
-										"SL.eslint.Highlights.|c41bc301610be1c341ae2e6c3729c0cae0db65535e4de2d10f21e088624e8626|region.yellowish markup.error.sublime_linter|32",
-										"SL.eslint.Highlights.|0c0928421abe45e2416130730477bdb01b89a166b994e4d9e7b604ae9a70b3c0|region.yellowish markup.error.sublime_linter|32",
-										"SL.eslint.Highlights.|3ffa8ff62dc6067ba6afc5b3b57202885b79a7a129b7a2da769cf84cc443baa1|region.yellowish markup.error.sublime_linter|32",
-										"sublime_linter.protected_regions"
-									],
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												40,
-												41
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"region.purplish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												26,
-												27
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content"
-									],
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 28.0
 			},
 			"input":
 			{
-				"height": 37.0
+				"height": 44.0
 			},
 			"layout":
 			{
@@ -1988,11 +2078,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,1252,-155,342,1718",
+			"position": "0,2,3,-32000,-32000,-1,-1,886,-66,0,1836",
 			"project": "",
 			"replace":
 			{
-				"height": 50.0
+				"height": 72.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2030,7 +2120,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 318.0,
+			"side_bar_width": 263.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

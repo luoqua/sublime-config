@@ -6,5 +6,6 @@
 		"Markdown",
 		"Vintage"
 	],
+	"preview_on_click": false,
 	"theme": "Flatland Dark.sublime-theme"
 }

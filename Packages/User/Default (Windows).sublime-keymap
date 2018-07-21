@@ -2,6 +2,10 @@
 	{
 		"keys":["ctrl+alt+f"],"command":"alignment"
 	},
+  {
+    "keys": ["ctrl+alt+h"],
+    "command": "format_eslint"
+  },
 	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
 	{
       "keys": [
