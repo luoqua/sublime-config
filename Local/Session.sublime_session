@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/E/FileRecv/下载/vue-baidu-map-master/vue-baidu-map-master",
 		"/E/FileRecv/下载/clipboard.js-master/clipboard.js-master",
 		"/D/workspace/tdhyd",
 		"/D/workspace/myPromise",
@@ -65,11 +66,11 @@
 		"/E/FileRecv/下载/weapp-adapter"
 	],
 	"last_version": 3143,
-	"last_window_id": 45,
+	"last_window_id": 49,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 828.0,
+		"new_window_height": 837.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -77,20 +78,136 @@
 				"selected_items":
 				[
 					[
+						"pad",
+						"padding"
+					],
+					[
+						"menu",
+						"menu2"
+					],
+					[
+						"nav",
+						"nav_index"
+					],
+					[
+						"c",
+						"children"
+					],
+					[
+						"se",
+						"selectArea"
+					],
+					[
+						"ie",
+						"items"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"nva",
+						"nav_index"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"b",
+						"block"
+					],
+					[
+						"bo",
+						"border-top"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"trf-t",
+						"trf-tx\ttransform: translateX(${1:x});"
+					],
+					[
+						"trf-",
+						"trf-ty\ttransform: translateY(${1:y});"
+					],
+					[
+						"trf",
+						"trf\ttransform"
+					],
+					[
+						"border-radius",
+						"border-radius"
+					],
+					[
+						"pack",
+						"packages/"
+					],
+					[
+						"re",
+						"resizeEvent"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"daa",
+						"data_p"
+					],
+					[
+						"data",
+						"data_p"
+					],
+					[
+						"RES",
+						"result_p"
+					],
+					[
+						"res",
+						"result_v"
+					],
+					[
+						"my",
+						"myRequest"
+					],
+					[
+						"fin",
+						"finally"
+					],
+					[
+						"rt",
+						"return"
+					],
+					[
+						"to",
+						"toBe"
+					],
+					[
 						"s",
 						"string"
 					],
 					[
-						"my",
-						"myFirstPromise"
-					],
-					[
 						"web",
 						"webpackConfig"
-					],
-					[
-						"fin",
-						"function"
 					],
 					[
 						"RE",
@@ -102,14 +219,6 @@
 					],
 					[
 						"rr",
-						"return"
-					],
-					[
-						"se",
-						"setTimeout"
-					],
-					[
-						"re",
 						"return"
 					],
 					[
@@ -147,10 +256,6 @@
 					[
 						"FUN",
 						"function"
-					],
-					[
-						"res",
-						"resolve"
 					],
 					[
 						"hand",
@@ -211,14 +316,6 @@
 					[
 						"prin",
 						"print_r"
-					],
-					[
-						"ma",
-						"margin"
-					],
-					[
-						"ba",
-						"background-size"
 					],
 					[
 						"PO",
@@ -393,16 +490,8 @@
 						"next"
 					],
 					[
-						"pad",
-						"padding-left"
-					],
-					[
 						"border-ra",
 						"border-bottom-right-radius"
-					],
-					[
-						"in",
-						"initial"
 					],
 					[
 						"reje",
@@ -499,94 +588,6 @@
 					[
 						"pre",
 						"person2"
-					],
-					[
-						"cla",
-						"call"
-					],
-					[
-						"call",
-						"callHook"
-					],
-					[
-						"ca",
-						"catch"
-					],
-					[
-						"k",
-						"key"
-					],
-					[
-						"ke",
-						"keys"
-					],
-					[
-						"selec",
-						"selectDom"
-					],
-					[
-						"fomr",
-						"formsubimit"
-					],
-					[
-						"bac",
-						"background-size"
-					],
-					[
-						"background-c",
-						"background-color"
-					],
-					[
-						"bo",
-						"bottom"
-					],
-					[
-						"fon",
-						"font"
-					],
-					[
-						"tra",
-						"translateX()"
-					],
-					[
-						"font-s",
-						"font-size"
-					],
-					[
-						"form",
-						"formAction"
-					],
-					[
-						"ci",
-						"configure"
-					],
-					[
-						"jys",
-						"jys_kysd"
-					],
-					[
-						"cha",
-						"changeSpeed"
-					],
-					[
-						"a",
-						"arguments"
-					],
-					[
-						"tras",
-						"transition"
-					],
-					[
-						"bar",
-						"barCss"
-					],
-					[
-						"trans",
-						"transform"
-					],
-					[
-						"sty",
-						"style"
 					]
 				]
 			},
@@ -635,134 +636,134 @@
 			},
 			"file_history":
 			[
-				"/D/workspace/tdhyd/public/js/jquery.form.min.js",
-				"/D/workspace/tdhyd/public/js/jquery.pagination.js",
-				"/D/workspace/tdhyd/index/js/show.js",
-				"/D/workspace/tdhyd/public/js/common.js",
-				"/D/workspace/tdhyd/public/css/ui-dialog.css",
-				"/D/workspace/tdhyd/public/js/dialog-plus-min.js",
-				"/D/workspace/tdhyd/public/js/Validform_v5.3.2_min.js",
-				"/D/workspace/tdhyd/zxbj/css/zxbj.css",
-				"/D/workspace/tdhyd/zxbj/css/validate.css",
-				"/D/workspace/tdhyd/index/js/default.js",
-				"/D/workspace/tdhyd/index/css/public.css",
-				"/D/workspace/tdhyd/index/css/index.css",
-				"/D/workspace/tdhyd/public/js/jquery-1.8.2.min.js",
-				"/G/FTP本地路径/无锡/移动/nginx.conf",
-				"/D/workspace/myPromise/test/myPromise.spec.js",
-				"/D/workspace/vue-code-review/karma单元测试环境搭建的一次尝试.MD",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test.html",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/index.js",
-				"/D/workspace/myPromise/webpack.test.conf.js",
-				"/D/workspace/myPromise/karma.conf.js",
-				"/D/workspace/myPromise/package.json",
-				"/D/workspace/myPromise/src/myPromise.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/karma.conf.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/coverage/lcov-report/index.html",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/package.json",
-				"/D/workspace/myPromise/report/ut/result/index.html",
-				"/D/workspace/myPromise/report/ut/converage/index.html",
-				"/D/workspace/myPromise/report/ut/converage/test/index.html",
-				"/D/workspace/myPromise/report/ut/converage/sorter.js",
-				"/D/workspace/myPromise/report/ut/converage/prettify.css",
-				"/D/workspace/myPromise/report/ut/converage/prettify.js",
-				"/D/workspace/myPromise/report/ut/converage/sort-arrow-sprite.png",
-				"/D/workspace/myPromise/report/ut/converage/test/index.spec.js.html",
-				"/D/workspace/myPromise/test/index2.spec.js",
-				"/D/workspace/myPromise/src/index2.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/static/promise_demo.js",
-				"/D/workspace/myPromise/test/index.spec.js",
-				"/D/workspace/myPromise/src/index.js",
-				"/D/workspace/myPromise/Module",
-				"/D/workspace/react-demo-test/webpack.config.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.test.conf.js",
-				"/D/workspace/myPromise/karma.conf2.js",
-				"/D/workspace/myPromise/.babelrc",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.base.conf.js",
-				"/D/workspace/myPromise/node_modules/_async-limiter@1.0.0@async-limiter/coverage/lcov-report/index.html",
-				"/G/FTP本地路径/无锡/移动/hdzxbj3.html",
-				"/G/FTP本地路径/无锡/移动/kysd.html",
-				"/G/FTP本地路径/无锡/移动/kysd_gd.html",
-				"/G/FTP本地路径/无锡/移动/jys_kysd_july.js",
-				"/G/FTP本地路径/无锡/移动/jys_kysd_gd.js",
-				"/G/FTP本地路径/无锡/移动/zxxgcs.html",
-				"/G/FTP本地路径/无锡/移动/zxxbjys.html",
-				"/G/FTP本地路径/无锡/移动/weibobj.html",
-				"/G/FTP本地路径/无锡/移动/lbrz.html",
-				"/D/workspace/react-demo-test/.babelrc",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/.babelrc",
-				"/D/workspace/myPromise/src/index.test.js",
-				"/D/workspace/myPromise/test/index.test.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/specs/HelloWorld.spec.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/.eslintrc",
-				"/D/workspace/vue-code-review/karma.config.MD",
-				"/G/FTP本地路径/无锡/移动/form.js",
-				"/G/FTP本地路径/无锡/移动/zxxbjys_new.html",
-				"/G/FTP本地路径/无锡/移动/ChannelAction.class.php",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/static/Promise.js",
-				"/G/FTP本地路径/无锡/移动/footer.html",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/static/pinkie.min.js",
-				"/G/FTP本地路径/无锡/移动/mfhqbj.html",
-				"/G/FTP本地路径/无锡/移动/m_2018.css",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/static/map.html",
-				"/G/FTP本地路径/无锡/移动/header.html",
-				"/G/FTP本地路径/无锡/移动/zxfgcs.html",
-				"/G/FTP本地路径/无锡/移动/weibobj2.html",
-				"/G/FTP本地路径/无锡/移动/result_style.html",
-				"/D/workspace/vue-code-review/linux常用操作指令.MD",
-				"/G/FTP本地路径/合肥/PC/footer.html",
-				"/D/workspace/myexpress/myapp/routes/index.js",
-				"/D/workspace/vote_jys/map2.html",
-				"/D/workspace/vote_jys/test_2.html",
-				"/G/FTP本地路径/芜湖/PC/baiwen1.html",
-				"/G/FTP本地路径/合肥/PC/bottom_quote.html",
-				"/G/FTP本地路径/合肥/PC/header.html",
-				"/G/FTP本地路径/无锡/PC/footer.html",
-				"/D/workspace/myexpress/myapp/public/index.html",
-				"/D/workspace/vant-dev2/vant-dev/build/bin/build-entry.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/demo-entry.js",
-				"/D/workspace/myexpress/myapp/package.json",
-				"/G/FTP本地路径/合肥/PC/index.html",
-				"/D/workspace/抄/index1/mfhqbj.html",
-				"/D/workspace/抄/index1/index.html",
-				"/D/workspace/抄/index1/css/index.css",
-				"/G/FTP本地路径/无锡/移动/GuestbookModel.class.php",
-				"/G/FTP本地路径/无锡/移动/index.html",
-				"/D/workspace/抄/index1/js",
-				"/D/workspace/vote_jys/css/swiper.css",
-				"/D/workspace/vote_jys/test2.html",
 				"/D/workspace/vote_jys/test_3.html",
-				"/D/workspace/myexpress/myapp/public/data_site_now_lat.js",
-				"/D/workspace/myexpress/myapp/public/data_site_now_lng.js",
+				"/D/workspace/vote_jys/test_vue.html",
+				"/D/workspace/vote_jys/test_2.html",
+				"/D/workspace/vote_jys/test2.html",
+				"/D/workspace/vote_jys/map2.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/tree_select/index.vue",
+				"/D/workspace/tdhyd/yzpl.html",
+				"/D/workspace/tdhyd/zjgd.html",
+				"/D/workspace/tdhyd/gydjt.html",
+				"/D/workspace/tdhyd/contact.html",
+				"/D/workspace/tdhyd/sjs.html",
+				"/D/workspace/tdhyd/jzdkt.html",
+				"/D/workspace/tdhyd/cases.html",
+				"/G/FTP本地路径/无锡/移动/cases.html",
+				"/D/workspace/tdhyd/index.html",
+				"/D/workspace/tdhyd/cailiao.html",
+				"/D/workspace/tdhyd/bb_pk_qb.html",
+				"/D/workspace/tdhyd/public/header.html",
+				"/D/workspace/tdhyd/public/footer.html",
+				"/D/workspace/tdhyd/jgqd.html",
+				"/D/workspace/tdhyd/hhqb.html",
+				"/G/FTP本地路径/无锡/移动/kysd.html",
+				"/G/FTP本地路径/无锡/移动/nginx.conf",
+				"/G/FTP本地路径/无锡/移动/.viminfo",
+				"/D/workspace/tdhyd/hhqb/css/css_zt.css",
+				"/D/workspace/tdhyd/yhhd.html",
+				"/D/workspace/tdhyd/path",
+				"/D/workspace/tdhyd/flag_list.html",
+				"/D/workspace/tdhyd/ts_jy.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/common.scss",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/index/index.vue",
+				"/D/workspace/vant-dev2/vant-dev/README.md",
+				"/D/workspace/vant-dev2/vant-dev/README.zh-CN.md",
+				"/D/workspace/vant-dev2/vant-dev/packages/tree-select/demo/index.vue",
+				"/D/workspace/vant-dev2/vant-dev/packages/tree-select/index.vue",
+				"/G/FTP本地路径/无锡/移动/kysd_gd.html",
+				"/D/workspace/vue2-elm-master/src/style/common.scss",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/main.scss",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/index_phone.html",
+				"/D/workspace/vant-dev2/vant-dev/packages/area/index.vue",
+				"/D/workspace/vue-code-review/sass.MD",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/package.json",
+				"/D/workspace/vant-dev2/vant-dev/packages/actionsheet/index.vue",
+				"/D/workspace/vue-code-review/git命令大全.MD",
+				"/D/workspace/vant-dev2/vant-dev/packages/utils/scroll.js",
+				"/D/workspace/vant-dev2/vant-dev/packages/utils/create.js",
+				"/D/workspace/vant-dev2/vant-dev/packages/utils/deep-assign.js",
+				"/D/workspace/vant-dev2/vant-dev/packages/utils/deep-clone.js",
+				"/D/workspace/vant-dev2/vant-dev/packages/utils/event.js",
+				"/D/workspace/vant-dev2/vant-dev/packages/utils/index.js",
+				"/D/workspace/vant-dev2/vant-dev/packages/utils/node.js",
+				"/D/workspace/vant-dev2/vant-dev/packages/utils/raf.js",
+				"/D/workspace/vant-dev2/vant-dev/packages/mixins/bem.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/config/index.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/main.js",
+				"/D/workspace/vue2-elm-master/src/style/mixin.scss",
+				"/D/workspace/vant-dev2/vant-dev/packages/index.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/App.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.dev.conf.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/utils/flexible.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/utils.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.base.conf.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.devme.conf.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.prod.conf.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/vue-loader.conf.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/config/dev.env.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/config/prod.env.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/config/test.env.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src/assets/logo.png",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/index.html",
+				"/D/workspace/vote_jys/rem.html",
+				"/D/workspace/vue2-elm-master/src/App.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/.eslintrc.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/eslint-fix.sublime-build",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/ESLint-Formatter/Default (Windows).sublime-keymap",
+				"/D/workspace/vote_jys/new_footer.html",
+				"/G/FTP本地路径/芜湖/移动/footer.html",
+				"/G/FTP本地路径/无锡/移动/form.js",
+				"/D/workspace/vote_jys/cczxys.html",
+				"/G/FTP本地路径/芜湖/移动/header.html",
+				"/D/workspace/vant-dev2/vant-dev/packages/vant-css/demo/index.vue",
+				"/D/workspace/vant-dev2/vant-dev/packages/vant-css/src/common/clearfix.css",
+				"/D/workspace/vant-dev2/vant-dev/packages/vant-css/src/actionsheet.css",
+				"/D/workspace/vant-dev2/vant-dev/packages/vant-css/src/common/animation.css",
+				"/D/workspace/vant-dev2/vant-dev/packages/vant-css/src/common/ellipsis.css",
+				"/D/workspace/vant-dev2/vant-dev/packages/vant-css/src/common/hairline.css",
+				"/D/workspace/vant-dev2/vant-dev/packages/vant-css/src/common/normalize.css",
+				"/D/workspace/vant-dev2/vant-dev/packages/vant-css/src/common/var.css",
+				"/D/workspace/vue-code-review/scss结合rem实现移动端尺寸适配.MD",
+				"/D/workspace/vant-dev2/vant-dev/packages/address-edit/Detail.vue",
+				"/G/FTP本地路径/无锡/移动/header.html",
+				"/G/FTP本地路径/无锡/移动/cnzz_tui.html",
+				"/D/workspace/vote_jys/cczxys/js/componentsh5.js",
+				"/G/FTP本地路径/无锡/移动/passwd",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src/App.vue",
 				"/D/workspace/common_simple_frame/common-simple/common-simple/.gitignore",
-				"/D/workspace/myexpress/myapp/.gitignore",
-				"/D/workspace/myexpress/myapp/public/data_site_now.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/docs-entry.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/DocsApp.vue",
+				"/D/workspace/react-demo-test/package.json",
+				"/D/workspace/vue2-elm-master/src/components/common/alertTip.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/cascadingMenu.vue",
+				"/D/workspace/vant-dev2/vant-dev/build/webpack.dev.js",
+				"/D/workspace/tdhyd/index/js/default.js",
+				"/D/workspace/tdhyd/index/images/ban003.jpg",
+				"/D/workspace/tdhyd/index/images/i_icon_03.png",
+				"/D/workspace/tdhyd/sjs/images/sjs_img_06.jpg",
+				"/D/workspace/tdhyd/jzdkt/images/kt_img_04.jpg",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/router/index.js",
 				"/D/workspace/vant-dev2/vant-dev/docs/src/index.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/mobile.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/router.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/doc.config.js",
 				"/D/workspace/vant-dev2/vant-dev/docs/src/index.tpl",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/demo-common.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/utils/index.js",
-				"/D/workspace/myexpress/myapp/schemas/LnglatdataSchema.js",
-				"/D/workspace/myexpress/myapp/models/Lnglatdata.js",
-				"/D/workspace/myexpress/myapp/models/ConstructSite.js",
-				"/D/workspace/myexpress/myapp/models/User.js",
-				"/D/workspace/myexpress/myapp/schemas/ConstructSiteSchema.js",
-				"/D/workspace/myexpress/myapp/schemas/LnglatdataNowSchema.js",
-				"/D/workspace/myexpress/myapp/models/LnglatdataNow.js",
-				"/D/workspace/myexpress/myapp/app.js",
-				"/D/workspace/myexpress/myapp/schemas/UserSchema.js",
-				"/G/FTP本地路径/无锡/移动/weibobj.js",
-				"/G/FTP本地路径/无锡/PC/kysd.html",
-				"/G/FTP本地路径/马鞍山/移动/ChannelAction.class.php",
-				"/D/workspace/leetcode/three_sum/leetcode.js",
-				"/D/workspace/leetcode/threeSumClosest/index.html",
-				"/D/workspace/leetcode/threeSumClosest/leetcode.js",
-				"/G/FTP本地路径/无锡/移动/cspdsj.html",
-				"/D/workspace/leetcode/two_sum/leetcode.js"
+				"/D/workspace/react-demo-test/webpack.config.js",
+				"/D/workspace/react-demo-test/src_demo/index.js",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/DocsApp.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src/main.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src/components/HelloWorld.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/src/router/index.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/router/router.js",
+				"/D/workspace/vue-code-review/webpack学习.md",
+				"/D/workspace/vue2-elm-master/src/router/router.js",
+				"/D/workspace/vant-dev2/vant-dev/docs/src/demo-entry.js",
+				"/D/workspace/vue-code-review/vue.js 异步组件的实现原理.MD",
+				"/D/workspace/vote_jys/index2.html",
+				"/D/workspace/vant-dev2/vant-dev/build/webpack.doc.js",
+				"/D/workspace/vant-dev2/vant-dev/build/webpack.build.js",
+				"/D/workspace/vue-code-review/js常用基础对象属性方法(二).MD",
+				"/D/workspace/vue-code-review/Vue.js入坑之路.MD",
+				"/D/workspace/vue-code-review/vue-code-review2.MD",
+				"/D/workspace/vue-code-review/Node.js入坑之路.MD",
+				"/D/workspace/vant-dev2/vant-dev/.eslintignore"
 			],
 			"find":
 			{
@@ -773,6 +774,12 @@
 				"height": 124.0,
 				"where_history":
 				[
+					"D:\\workspace\\tdhyd",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\common_simple_frame\\common-simple\\common-simple\\build",
+					"D:\\workspace\\common_simple_frame\\common-simple\\common-simple\\config",
+					"D:\\workspace\\tdhyd",
+					"D:\\workspace\\vue-code-review",
 					"D:\\workspace\\vant-dev2\\vant-dev",
 					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
 					"D:\\workspace\\vant-dev2\\vant-dev",
@@ -810,148 +817,152 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"http://m.tdhjt.com/templates/mobilebj/images/",
-					"/scripts/artdialog/",
-					"f_words",
-					"/templates/mobilemains/js/",
-					"/templates/mobilemains/images/",
-					"/App/Tpl/Wap/Default/Public/kysd/july_wx/",
-					".bgf8",
-					"handlePromiseRace",
-					"race",
-					"argument",
-					"setTimeoutPromise",
-					"arr_promise",
-					"setTimeoutPromise",
-					"_rejectedStack",
-					"setTimeoutPromise",
-					"makeRejectedfunc",
-					"setTimeoutPromise",
-					"makeRejectedfunc",
-					"setTimeoutPromise",
-					"makeFulfilledfunc",
-					"\t\t\t\n",
-					"setTimeoutPromise",
-					"resolve",
-					"handlePromiseRace",
-					"that",
-					"makeFulfilledfunc",
-					"_fulfilledStack",
-					"setTimeoutPromise",
-					"makeFulfilledfunc",
-					"setTimeoutPromise",
-					"catch",
-					"setTimeoutPromise",
-					"argument",
-					"catch",
-					"makeFulfilledfunc",
-					"setTimeoutPromise",
-					"reject",
-					"catch",
-					"_rejectedStack",
-					"setTimeoutPromise",
-					"argument",
-					"catch",
-					"reject",
-					"throw",
-					"console.log",
-					"then",
-					"resolve",
-					"argument",
-					"#open_xs_yx, ins, iframe, #iframeHat, #__S3A2111_DEF2__",
-					"error_1",
-					"alert",
-					"chenghu",
-					"您的称呼",
-					"images/",
-					"css/",
-					"js/",
-					"checked",
-					"mui",
-					"选择房屋所在城市:",
-					"linkageSel17",
-					"data_city",
-					"/Public/wap/zxbj/images/",
-					"删除",
-					"/Public/wap/zxbj/css/",
-					"/Public/wap/zxbj/js",
-					".js",
+					"menu_index",
+					"pl_icon_t.png",
+					"public.css",
+					"index/images/",
+					"index/css/",
+					"public/js/",
+					"msg_t1",
 					".css",
+					"gydjt/images/",
+					"public/js/",
+					"zjgd/images/",
+					"index/images/",
+					"common",
+					"sjs/images/",
+					"index/images/",
+					"public/js/",
+					"jzdkt/images/",
+					"index/images/",
+					"public.css",
+					"public",
+					"cases/images/",
+					"index/images/",
+					"msg_jinqi_01",
+					"cailiao/images/",
+					"index/images/",
+					"bb_pk_qb/images/",
+					"public/js/",
+					"ajax",
+					"hhqb/images/",
+					"index/images/",
+					"public/js/",
+					"zxbj/images/",
+					"ban_gy",
+					"index/images/",
+					"tdh",
+					"wxjysgcd.com",
+					"about_title_bg",
+					"天地和",
+					"city_map",
+					"/templates/mobilemains/img_zt/",
+					"/templates/mobilemains/images/",
+					"http://tdhjz.com/templates/mobilemains/images/",
+					"changeSubNav",
+					"area_menu",
+					"menu_index",
+					"isActive",
+					"subItems",
+					"onNavClick",
+					"sc",
+					"bem",
+					"b()",
+					"b(",
+					"50% 50%;",
+					"bs",
+					">",
+					"assetsSubDirectory",
+					"static",
+					"Paths",
+					"static",
+					"f2",
+					"house",
+					"isIos",
+					".describe1",
+					"housetype",
+					"type",
+					"({\n",
+					"type",
+					"zhuangxiuType",
+					"houseType",
+					"housetype",
+					"image/4",
+					"image/3",
+					"image/2",
+					"image/1",
+					"swiper-content1",
+					"swiper",
+					"sendData",
+					"uuid",
+					"$.md5",
+					"rsaNewEncryptPhoneGuid",
+					"$.md5",
+					"cczxys/js/",
+					"cczxys/css/",
+					"cczxys/image/",
+					"area",
+					"uploadInfo",
+					"data_p",
+					"rsaNewEncryptPhoneGuid",
+					"setAPPCode",
+					"addArr",
+					"checkForm",
+					"//static.to8to.com/wap/static/images/budget_csfb/",
+					"seo",
+					"index/count",
 					"css",
-					"argument",
-					"var LnglatNow = require('../models/LnglatdataNow.js')",
-					"LnglatNow",
-					"argument",
-					"layer-huxing",
-					"18961861926",
-					"guestbook",
-					".daojishi",
-					"daojishi",
-					"/App/Tpl/Home/Default/Public/kysd1/images_June/",
-					"_sendmessageCr",
-					"_sendmessageCr2",
-					"Cs_site",
-					"select",
-					"guestbook",
-					"D(",
-					"D",
-					"views",
-					"ph_id",
-					"argument",
-					"june_wx",
-					"argument",
-					"construct_name",
-					",",
-					"argument",
-					",",
-					"]",
-					"aa2[",
-					",",
-					"Engineering_supervision",
-					"UserSchema",
-					"argument",
-					"域",
-					"field",
-					"column",
-					"field",
-					"column",
-					"数据字段",
-					"field",
-					"tbody",
-					"</",
-					"数据记录行",
-					"document",
-					"row",
-					"数据库表",
-					"collection",
-					"table",
-					"database",
-					"\t\t\n",
-					"view",
-					"listen 80",
-					"argument",
-					"菜鸟工具",
-					"name",
-					"finally",
-					"makeRejectedfunc",
-					"REJECTED",
-					"reject",
-					"_sendmessageCr",
-					"setTimeoutPromise"
+					"/templates/mobilemains/images/",
+					".js",
+					"pl_icon",
+					"pl",
+					"pl_icon_star",
+					"pl_icon_star.png",
+					"http://m.tdhjz.com/templates/mobilemains/images/",
+					".js",
+					"css/jt_img_36.jpg",
+					"gydjt/images/cq/",
+					"msg_t1.png",
+					"msg_t1.png ",
+					"gydjt/images/taiz/",
+					"taiz",
+					"show",
+					"ashx",
+					"gydjt",
+					"http://tdhjz.com/templates/main/img_zt/",
+					"/templates/mobilemains/",
+					"/templates/mobilemains",
+					"http://tdhjz.com/templates/main/img_zt/",
+					"天地和",
+					"天地合",
+					"/templates/mobilemains/img_zt/",
+					"/templates/mobilemains",
+					"108",
+					"106",
+					"176",
+					"天地和",
+					"/templates/mobilemains/img_zt/",
+					"/templates/mobilemains/images/",
+					"HelloWorld",
+					"@"
 				],
-				"highlight": true,
+				"highlight": false,
 				"in_selection": false,
-				"preserve_case": false,
+				"preserve_case": true,
 				"regex": false,
 				"replace_history":
 				[
+					"金钥匙",
+					"108",
+					"178",
+					"金钥匙",
 					"\nsrc=\"/http://img.jysjzjt.com/"
 				],
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
-				"wrap": true
+				"wrap": false
 			},
 			"incremental_find":
 			{
@@ -970,6 +981,10 @@
 			{
 				"height": 494.0
 			},
+			"output.exec":
+			{
+				"height": 496.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -982,10 +997,10 @@
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "",
+			"pinned_build_system": "Packages/User/eslint-fix.sublime-build",
 			"replace":
 			{
-				"height": 52.0
+				"height": 72.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1035,12 +1050,268 @@
 				"selected_items":
 				[
 					[
-						"RES",
-						"result_p"
+						"B",
+						"BMap"
+					],
+					[
+						"bo",
+						"bounds"
+					],
+					[
+						"ge",
+						"getBounds"
+					],
+					[
+						"re",
+						"resultLatLng"
+					],
+					[
+						"ma",
+						"map"
+					],
+					[
+						"ce",
+						"centerPoint"
+					],
+					[
+						"ini",
+						"initPoint"
+					],
+					[
+						"ic",
+						"icon-gps.png\tw:46 h:46"
+					],
+					[
+						"th",
+						"this"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"pad",
+						"padding-top"
+					],
+					[
+						"in",
+						"initial"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"se",
+						"selectArea"
+					],
+					[
+						"item",
+						"items"
+					],
+					[
+						"ite",
+						"itemsData"
+					],
+					[
+						"gr",
+						"group2"
+					],
+					[
+						"me",
+						"menu_index"
+					],
+					[
+						"gro",
+						"group2"
 					],
 					[
 						"res",
-						"result_v"
+						"result"
+					],
+					[
+						"promise",
+						"promise_result"
+					],
+					[
+						"oB",
+						"Object"
+					],
+					[
+						"SET",
+						"setTimeout"
+					],
+					[
+						"FU",
+						"FULLFILLED"
+					],
+					[
+						"P",
+						"PENDING"
+					],
+					[
+						"add",
+						"address_info"
+					],
+					[
+						"lo",
+						"log"
+					],
+					[
+						"po",
+						"point"
+					],
+					[
+						"pr",
+						"point_address"
+					],
+					[
+						"tim",
+						"timer"
+					],
+					[
+						"toa",
+						"toast"
+					],
+					[
+						"BA",
+						"backgroundColor"
+					],
+					[
+						"ST",
+						"style"
+					],
+					[
+						"file",
+						"filter_options"
+					],
+					[
+						"fi",
+						"filter_options"
+					],
+					[
+						"VA",
+						"value"
+					],
+					[
+						"SE",
+						"search_options"
+					],
+					[
+						"sub",
+						"sub_text"
+					],
+					[
+						"r",
+						"res"
+					],
+					[
+						"POINT",
+						"point"
+					],
+					[
+						"c",
+						"comment"
+					],
+					[
+						"S",
+						"stringify"
+					],
+					[
+						"pa",
+						"parse"
+					],
+					[
+						"s",
+						"stringify"
+					],
+					[
+						"req",
+						"req"
+					],
+					[
+						"o",
+						"oMask"
+					],
+					[
+						"wi",
+						"window"
+					],
+					[
+						"z-",
+						"z-index"
+					],
+					[
+						"menu",
+						"menu2"
+					],
+					[
+						"nav",
+						"nav_index"
+					],
+					[
+						"ie",
+						"items"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"nva",
+						"nav_index"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"b",
+						"block"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"trf-t",
+						"trf-tx\ttransform: translateX(${1:x});"
+					],
+					[
+						"trf-",
+						"trf-ty\ttransform: translateY(${1:y});"
+					],
+					[
+						"trf",
+						"trf\ttransform"
+					],
+					[
+						"border-radius",
+						"border-radius"
+					],
+					[
+						"pack",
+						"packages/"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"daa",
+						"data_p"
+					],
+					[
+						"data",
+						"data_p"
+					],
+					[
+						"RES",
+						"result_p"
 					],
 					[
 						"my",
@@ -1059,10 +1330,6 @@
 						"toBe"
 					],
 					[
-						"s",
-						"string"
-					],
-					[
 						"web",
 						"webpackConfig"
 					],
@@ -1071,19 +1338,7 @@
 						"reject"
 					],
 					[
-						"P",
-						"Promise"
-					],
-					[
 						"rr",
-						"return"
-					],
-					[
-						"se",
-						"setTimeout"
-					],
-					[
-						"re",
 						"return"
 					],
 					[
@@ -1091,20 +1346,8 @@
 						"print_r"
 					],
 					[
-						"S",
-						"Status"
-					],
-					[
-						"ST",
-						"stack"
-					],
-					[
 						"_",
 						"_status"
-					],
-					[
-						"th",
-						"that"
 					],
 					[
 						"sta",
@@ -1135,24 +1378,12 @@
 						"length"
 					],
 					[
-						"ite",
-						"iterable"
-					],
-					[
-						"o",
-						"object_arr"
-					],
-					[
 						"fo",
 						"forEach"
 					],
 					[
 						"l",
 						"data_site_now_lat.js"
-					],
-					[
-						"req",
-						"require"
 					],
 					[
 						"Lng",
@@ -1183,14 +1414,6 @@
 						"print_r"
 					],
 					[
-						"ma",
-						"margin"
-					],
-					[
-						"ba",
-						"background-size"
-					],
-					[
 						"PO",
 						"point"
 					],
@@ -1201,10 +1424,6 @@
 					[
 						"ex",
 						"exit"
-					],
-					[
-						"co",
-						"construct_status"
 					],
 					[
 						"C",
@@ -1283,10 +1502,6 @@
 						"close"
 					],
 					[
-						"fi",
-						"function"
-					],
-					[
 						"m",
 						"MongoClient"
 					],
@@ -1301,10 +1516,6 @@
 					[
 						"up",
 						"updateStr"
-					],
-					[
-						"pr",
-						"proxyServer"
 					],
 					[
 						"is",
@@ -1349,202 +1560,6 @@
 					[
 						"ret",
 						"return_result"
-					],
-					[
-						"set",
-						"setTimeout"
-					],
-					[
-						"ar",
-						"args"
-					],
-					[
-						"ne",
-						"next"
-					],
-					[
-						"pad",
-						"padding-left"
-					],
-					[
-						"border-ra",
-						"border-bottom-right-radius"
-					],
-					[
-						"in",
-						"initial"
-					],
-					[
-						"reje",
-						"reject"
-					],
-					[
-						"DE",
-						"devFlagPlugin"
-					],
-					[
-						"pa",
-						"packages/"
-					],
-					[
-						"com",
-						"components"
-					],
-					[
-						"wat",
-						"watcherOb"
-					],
-					[
-						"cons",
-						"console"
-					],
-					[
-						"OBJ",
-						"obj"
-					],
-					[
-						"cal",
-						"class"
-					],
-					[
-						"new",
-						"newVal"
-					],
-					[
-						"dep",
-						"depend"
-					],
-					[
-						"DEF",
-						"defineReactive"
-					],
-					[
-						"key",
-						"key"
-					],
-					[
-						"def",
-						"defineReactive"
-					],
-					[
-						"O",
-						"Object"
-					],
-					[
-						"he",
-						"health"
-					],
-					[
-						"hr",
-						"hero"
-					],
-					[
-						"de",
-						"defineProperty"
-					],
-					[
-						"wi",
-						"width"
-					],
-					[
-						"tex",
-						"textEnd"
-					],
-					[
-						"tr",
-						"transform"
-					],
-					[
-						"peo",
-						"person1"
-					],
-					[
-						"arr",
-						"arrToObj"
-					],
-					[
-						"see",
-						"selectDom"
-					],
-					[
-						"pre",
-						"person2"
-					],
-					[
-						"cla",
-						"call"
-					],
-					[
-						"call",
-						"callHook"
-					],
-					[
-						"ca",
-						"catch"
-					],
-					[
-						"k",
-						"key"
-					],
-					[
-						"ke",
-						"keys"
-					],
-					[
-						"selec",
-						"selectDom"
-					],
-					[
-						"fomr",
-						"formsubimit"
-					],
-					[
-						"bac",
-						"background-size"
-					],
-					[
-						"background-c",
-						"background-color"
-					],
-					[
-						"bo",
-						"bottom"
-					],
-					[
-						"fon",
-						"font"
-					],
-					[
-						"tra",
-						"translateX()"
-					],
-					[
-						"font-s",
-						"font-size"
-					],
-					[
-						"form",
-						"formAction"
-					],
-					[
-						"ci",
-						"configure"
-					],
-					[
-						"jys",
-						"jys_kysd"
-					],
-					[
-						"cha",
-						"changeSpeed"
-					],
-					[
-						"a",
-						"arguments"
-					],
-					[
-						"tras",
-						"transition"
 					]
 				]
 			},
@@ -1597,147 +1612,163 @@
 			},
 			"expanded_folders":
 			[
+				"/D/workspace/common_simple_frame/common-simple/common-simple",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/loading",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/toast",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/toast/demo",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/router",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/store",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/utils"
 			],
 			"file_history":
 			[
-				"/D/workspace/myPromise/karma.conf.js",
-				"/D/workspace/tdhyd/cailiao.html",
-				"/D/workspace/tdhyd/cases.html",
-				"/D/workspace/myPromise/test/myPromise.spec.js",
-				"/D/workspace/myPromise/README.md",
-				"/G/FTP本地路径/无锡/移动/index.html",
-				"/G/FTP本地路径/无锡/移动/showarticle.html",
-				"/G/FTP本地路径/无锡/移动/jys_info_share.js",
-				"/G/FTP本地路径/无锡/移动/kysd.html",
-				"/D/workspace/react-demo-test/README.md",
-				"/D/workspace/react-demo-test/.gitignore",
-				"/D/workspace/myPromise/src/myPromise.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test.html",
-				"/D/workspace/tdhyd/index.html",
-				"/D/workspace/vue-code-review/karma单元测试环境搭建的一次尝试.MD",
-				"/D/workspace/tdhyd/jzdkt.html",
-				"/D/workspace/tdhyd/sjs.html",
-				"/G/FTP本地路径/无锡/移动/ChannelAction.class.php",
-				"/D/workspace/tdhyd/hhqb.html",
-				"/D/workspace/myPromise/karma.conf2.js",
-				"/D/workspace/myPromise/.gitignore",
-				"/E/FileRecv/下载/clipboard.js-master/clipboard.js-master/demo/function-text.html",
-				"/E/FileRecv/下载/clipboard.js-master/clipboard.js-master/demo/target-div.html",
-				"/E/FileRecv/下载/clipboard.js-master/clipboard.js-master/demo/function-target.html",
-				"/D/workspace/tdhyd/cailiao/css/cssp_messgage.css",
-				"/D/workspace/tdhyd/bb_pk_qb/css/cssp_pk3.css",
-				"/D/workspace/tdhyd/bb_pk_qb.html",
-				"/D/workspace/tdhyd/public/footer.html",
-				"/D/workspace/tdhyd/zxbj/css/validate.css",
-				"/D/workspace/tdhyd/public/header.html",
-				"/D/workspace/tdhyd/jgqd.html",
-				"/D/workspace/tdhyd/hhqb/js/pinglun_sj.js",
-				"/D/workspace/tdhyd/hhqb/css/css_zt.css",
-				"/D/workspace/tdhyd/public/js/jquery.form.min.js",
-				"/D/workspace/tdhyd/public/js/jquery.pagination.js",
-				"/D/workspace/tdhyd/index/js/show.js",
-				"/D/workspace/tdhyd/public/js/common.js",
-				"/D/workspace/tdhyd/public/css/ui-dialog.css",
-				"/D/workspace/tdhyd/public/js/dialog-plus-min.js",
-				"/D/workspace/tdhyd/public/js/Validform_v5.3.2_min.js",
-				"/D/workspace/tdhyd/zxbj/css/zxbj.css",
-				"/D/workspace/tdhyd/index/js/default.js",
-				"/D/workspace/tdhyd/index/css/public.css",
-				"/D/workspace/tdhyd/index/css/index.css",
-				"/D/workspace/tdhyd/public/js/jquery-1.8.2.min.js",
-				"/G/FTP本地路径/无锡/移动/nginx.conf",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/index.js",
-				"/D/workspace/myPromise/webpack.test.conf.js",
-				"/D/workspace/myPromise/package.json",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/karma.conf.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/coverage/lcov-report/index.html",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/package.json",
-				"/D/workspace/myPromise/report/ut/result/index.html",
-				"/D/workspace/myPromise/report/ut/converage/index.html",
-				"/D/workspace/myPromise/report/ut/converage/test/index.html",
-				"/D/workspace/myPromise/report/ut/converage/sorter.js",
-				"/D/workspace/myPromise/report/ut/converage/prettify.css",
-				"/D/workspace/myPromise/report/ut/converage/prettify.js",
-				"/D/workspace/myPromise/report/ut/converage/sort-arrow-sprite.png",
-				"/D/workspace/myPromise/report/ut/converage/test/index.spec.js.html",
-				"/D/workspace/myPromise/test/index2.spec.js",
-				"/D/workspace/myPromise/src/index2.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/static/promise_demo.js",
-				"/D/workspace/myPromise/test/index.spec.js",
-				"/D/workspace/myPromise/src/index.js",
-				"/D/workspace/myPromise/Module",
-				"/D/workspace/react-demo-test/webpack.config.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.test.conf.js",
-				"/D/workspace/myPromise/.babelrc",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.base.conf.js",
-				"/D/workspace/myPromise/node_modules/_async-limiter@1.0.0@async-limiter/coverage/lcov-report/index.html",
-				"/G/FTP本地路径/无锡/移动/hdzxbj3.html",
-				"/G/FTP本地路径/无锡/移动/kysd_gd.html",
-				"/G/FTP本地路径/无锡/移动/jys_kysd_july.js",
-				"/G/FTP本地路径/无锡/移动/jys_kysd_gd.js",
-				"/G/FTP本地路径/无锡/移动/zxxgcs.html",
-				"/G/FTP本地路径/无锡/移动/zxxbjys.html",
-				"/G/FTP本地路径/无锡/移动/weibobj.html",
-				"/G/FTP本地路径/无锡/移动/lbrz.html",
-				"/D/workspace/react-demo-test/.babelrc",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/.babelrc",
-				"/D/workspace/myPromise/src/index.test.js",
-				"/D/workspace/myPromise/test/index.test.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/specs/HelloWorld.spec.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/test/unit/.eslintrc",
-				"/D/workspace/vue-code-review/karma.config.MD",
-				"/G/FTP本地路径/无锡/移动/form.js",
-				"/G/FTP本地路径/无锡/移动/zxxbjys_new.html",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/static/Promise.js",
-				"/G/FTP本地路径/无锡/移动/footer.html",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/static/pinkie.min.js",
-				"/G/FTP本地路径/无锡/移动/mfhqbj.html",
-				"/G/FTP本地路径/无锡/移动/m_2018.css",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/static/map.html",
-				"/G/FTP本地路径/无锡/移动/header.html",
-				"/G/FTP本地路径/无锡/移动/zxfgcs.html",
-				"/G/FTP本地路径/无锡/移动/weibobj2.html",
-				"/G/FTP本地路径/无锡/移动/result_style.html",
-				"/D/workspace/vue-code-review/linux常用操作指令.MD",
-				"/G/FTP本地路径/合肥/PC/footer.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/loading/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/utils/bmap.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/html.tmpl",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/vue.tmpl",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/templates/css.tmpl",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Main.sublime-menu",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeTmpl/Default.sublime-commands",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeTmpl/Default.sublime-commands",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/toast/demo/demo.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/router/index.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/toast/index.vue",
 				"/D/workspace/myexpress/myapp/routes/index.js",
-				"/D/workspace/vote_jys/map2.html",
-				"/D/workspace/vote_jys/test_2.html",
-				"/G/FTP本地路径/芜湖/PC/baiwen1.html",
-				"/G/FTP本地路径/合肥/PC/bottom_quote.html",
-				"/G/FTP本地路径/合肥/PC/header.html",
-				"/G/FTP本地路径/无锡/PC/footer.html",
-				"/D/workspace/myexpress/myapp/public/index.html",
-				"/D/workspace/vant-dev2/vant-dev/build/bin/build-entry.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/demo-entry.js",
-				"/D/workspace/myexpress/myapp/package.json",
-				"/G/FTP本地路径/合肥/PC/index.html",
-				"/D/workspace/抄/index1/mfhqbj.html",
-				"/D/workspace/抄/index1/index.html",
-				"/D/workspace/抄/index1/css/index.css",
-				"/G/FTP本地路径/无锡/移动/GuestbookModel.class.php",
-				"/D/workspace/抄/index1/js",
-				"/D/workspace/vote_jys/css/swiper.css",
-				"/D/workspace/vote_jys/test2.html",
-				"/D/workspace/vote_jys/test_3.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/baidu_map/demo/demo.vue",
+				"/D/workspace/myexpress/myapp/app.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/utils/common.js",
+				"/G/FTP本地路径/无锡/移动/tjybf.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/baidu_map/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/dist/index.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/index_phone.html",
+				"/D/workspace/myexpress/myapp/public/map.html",
+				"/G/FTP本地路径/无锡/移动/hdsp.html",
+				"/G/FTP本地路径/无锡/移动/dybj.html",
+				"/G/FTP本地路径/无锡/移动/form.js",
+				"/D/workspace/vote_jys/dybj.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/loading/demo/demo.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/index/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/loading.scss",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/map.html",
+				"/D/workspace/myexpress/myapp/index.html",
 				"/D/workspace/myexpress/myapp/public/data_site_now_lat.js",
-				"/D/workspace/myexpress/myapp/public/data_site_now_lng.js",
+				"/D/workspace/myexpress/myapp/config/config.js",
+				"/D/workspace/myexpress/myapp/config/mongoose.js",
+				"/D/workspace/myexpress/myapp/bin/www",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/tree_select/demo/demo.vue",
+				"/G/FTP本地路径/无锡/移动/qhdme.html",
+				"/G/FTP本地路径/无锡/移动/jys_kysd_tjybf.js",
+				"/G/FTP本地路径/无锡/移动/showarticle.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/tree_select/index.vue",
+				"/G/FTP本地路径/无锡/移动/jys_kysd_gd.js",
+				"/G/FTP本地路径/无锡/移动/jys_info_share.js",
+				"/G/FTP本地路径/无锡/移动/jys_kysd_hdsp.js",
+				"/G/FTP本地路径/无锡/移动/hdzxbj.html",
+				"/D/workspace/vant-dev2/vant-dev/packages/tree-select/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/icons/icon-arrow.png",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/App.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/main.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.base.conf.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/config/index.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.dev.conf.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/package.json",
+				"/D/workspace/vue-code-review/MongoDB的学习.MD",
+				"/G/FTP本地路径/芜湖/移动/article1.html",
+				"/G/FTP本地路径/无锡/移动/new_footer.html",
+				"/G/FTP本地路径/无锡/移动/footer.html",
+				"/G/FTP本地路径/无锡/PC/kysd.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/cascadingMenu.vue",
+				"/D/workspace/myPromise/karma.conf.js",
+				"/G/FTP本地路径/合肥/移动/zxhd2.html",
+				"/D/workspace/vote_jys/test33.html",
+				"/D/workspace/vote_jys/test_vue.html",
+				"/D/workspace/vote_jys/test_map.html",
+				"/D/workspace/vote_jys/test_3.html",
+				"/D/workspace/vote_jys/test_2.html",
+				"/D/workspace/vote_jys/test.html",
+				"/D/workspace/vote_jys/vote_2.html",
+				"/D/workspace/vote_jys/test2.html",
+				"/G/FTP本地路径/芜湖/PC/youhui.html",
+				"/G/FTP本地路径/芜湖/PC/articlelx.html",
+				"/G/FTP本地路径/芜湖/移动/jianjie.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/index.rar",
+				"/G/FTP本地路径/无锡/移动/kysd.html",
+				"/G/FTP本地路径/无锡/移动/kysd_gd.html",
+				"/G/FTP本地路径/无锡/PC/315.css",
+				"/G/FTP本地路径/无锡/PC/后台接口/kysd3.html",
 				"/D/workspace/common_simple_frame/common-simple/common-simple/.gitignore",
-				"/D/workspace/myexpress/myapp/.gitignore",
-				"/D/workspace/myexpress/myapp/public/data_site_now.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/docs-entry.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/DocsApp.vue",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/index.js"
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/index/demo/index.vue",
+				"/D/workspace/vant-dev2/vant-dev/packages/address-edit/Detail.vue",
+				"/D/workspace/vant-dev2/vant-dev/packages/actionsheet/index.vue",
+				"/D/workspace/vue2-elm-master/src/page/balance/balance.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/.eslintignore",
+				"/D/workspace/vant-dev2/vant-dev/packages/tree-select/demo/index.vue",
+				"/D/workspace/vant-dev2/vant-dev/packages/switch-cell/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/.eslintrc.js",
+				"/D/workspace/vue2-elm-master/src/components/header/head.vue",
+				"/D/workspace/vant-dev2/vant-dev/packages/switch-cell/demo/index.vue",
+				"/D/workspace/myexpress/myapp/public/myPromise.js",
+				"/D/workspace/myPromise/src/myPromise.js",
+				"/D/workspace/myexpress/myapp/public/index.html",
+				"/D/workspace/myexpress/myapp/public/data_site_lat.js",
+				"/D/workspace/myPromise/test/myPromise.spec.js",
+				"/D/workspace/myPromise/package.json",
+				"/D/workspace/myPromise/README.md",
+				"/D/workspace/myexpress/myapp/models/Lnglatdata.js",
+				"/D/workspace/myexpress/myapp/schemas/LnglatdataSchema.js",
+				"/D/workspace/myexpress/myapp/schemas/LnglatdataNowSchema.js",
+				"/D/workspace/vue-code-review/js常用基础对象属性方法(二).MD",
+				"/D/workspace/vue-code-review/js基础常用.MD",
+				"/D/workspace/react-demo-test/node_modules/_jscodeshift@0.4.1@jscodeshift/docs/styles/prettify-tomorrow.css",
+				"/D/workspace/myexpress/myapp/models/LnglatdataNow.js",
+				"/D/workspace/myexpress/myapp/public/data_site_now_lng.js",
+				"/D/workspace/react-demo-test/public/scss/loading.scss",
+				"/D/workspace/react-demo-test/src_demo/components/loading.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/common.scss",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/node_modules/_vue-baidu-map@0.21.10@vue-baidu-map/node_modules/markdown-it/CHANGELOG.md",
+				"/D/workspace/tdhyd/path",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/main.scss",
+				"/D/workspace/tdhyd/hhqb.html",
+				"/D/workspace/react-demo-test/src_demo/reducers/index.js",
+				"/D/workspace/react-demo-test/src_demo/actions/index.js",
+				"/D/workspace/react-demo-test/src_demo/reducers/todos.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/utils/flexible.js",
+				"/D/workspace/vote_jys/rem.html",
+				"/D/workspace/myexpress/myapp/public/data.js",
+				"/D/workspace/myexpress/myapp/schemas/UserSchema.js",
+				"/D/workspace/myexpress/myapp/schemas/RoleSchema.js",
+				"/D/workspace/myexpress/myapp/models/ConstructSite.js",
+				"/D/workspace/myexpress/myapp/models/User.js",
+				"/D/workspace/myexpress/myapp/models/Role.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/vue-loader.conf.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.prod.conf.js",
+				"/D/workspace/myexpress/myapp/public/aa/index.html",
+				"/D/workspace/myexpress/app.js",
+				"/D/workspace/myexpress/myapp/routes/users.js",
+				"/D/workspace/react-demo-test/src_demo/function/common.js"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 37.0
 			},
 			"find_in_files":
 			{
 				"height": 124.0,
 				"where_history":
 				[
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\tdhyd",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\common_simple_frame\\common-simple\\common-simple\\build",
+					"D:\\workspace\\common_simple_frame\\common-simple\\common-simple\\config",
+					"D:\\workspace\\tdhyd",
+					"D:\\workspace\\vue-code-review",
 					"D:\\workspace\\vant-dev2\\vant-dev",
 					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
 					"D:\\workspace\\vant-dev2\\vant-dev",
@@ -1775,141 +1806,144 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"raceResolve",
-					"endFlag",
-					"p",
-					"resolvedPromisesArray",
-					"done",
-					"天地和",
-					"throw",
-					" console",
-					"/templates/mobilemains/img_zt/",
-					"/templates/mobilemains/images/",
-					"ver",
-					"http://tdhjz.com/templates/mobilemains/images/",
-					"/templates/mobilemains/img_zt/",
-					"/templates/mobilemains/images/",
-					"default",
-					"http://m.tdhjt.com/templates/mobilebj/images/",
-					"/scripts/artdialog/",
-					"f_words",
-					"/templates/mobilemains/js/",
-					"/templates/mobilemains/images/",
-					"/App/Tpl/Wap/Default/Public/kysd/july_wx/",
-					".bgf8",
-					"handlePromiseRace",
-					"race",
-					"argument",
-					"setTimeoutPromise",
-					"arr_promise",
-					"setTimeoutPromise",
-					"_rejectedStack",
-					"setTimeoutPromise",
-					"makeRejectedfunc",
-					"setTimeoutPromise",
-					"makeRejectedfunc",
-					"setTimeoutPromise",
-					"makeFulfilledfunc",
-					"\t\t\t\n",
-					"setTimeoutPromise",
-					"resolve",
-					"handlePromiseRace",
-					"that",
-					"makeFulfilledfunc",
-					"_fulfilledStack",
-					"setTimeoutPromise",
-					"makeFulfilledfunc",
-					"setTimeoutPromise",
-					"catch",
-					"setTimeoutPromise",
-					"argument",
-					"catch",
-					"makeFulfilledfunc",
-					"setTimeoutPromise",
-					"reject",
-					"catch",
-					"_rejectedStack",
-					"setTimeoutPromise",
-					"argument",
-					"catch",
-					"reject",
-					"throw",
-					"console.log",
-					"then",
-					"resolve",
-					"argument",
-					"#open_xs_yx, ins, iframe, #iframeHat, #__S3A2111_DEF2__",
-					"error_1",
-					"alert",
-					"chenghu",
-					"您的称呼",
-					"images/",
-					"css/",
-					"js/",
-					"checked",
-					"mui",
-					"选择房屋所在城市:",
-					"linkageSel17",
-					"data_city",
-					"/Public/wap/zxbj/images/",
-					"删除",
-					"/Public/wap/zxbj/css/",
-					"/Public/wap/zxbj/js",
-					".js",
-					".css",
+					"padding-top",
+					"images/dyrs/",
+					"js/dyrs/",
+					"css/dyrs/",
 					"css",
-					"argument",
-					"var LnglatNow = require('../models/LnglatdataNow.js')",
-					"LnglatNow",
-					"argument",
-					"layer-huxing",
-					"18961861926",
-					"guestbook",
-					".daojishi",
+					"din",
+					"alert",
+					"this.initMapData",
+					"initData",
+					"mapaddOverlay",
+					"get_site_now_lat",
+					"session",
+					"mapHeight",
+					"02.jpg",
+					"02.png",
+					"rname",
+					"rbname",
+					"source",
+					"dyrh",
+					"common",
+					"cnzz",
+					"data-echo",
+					"get_site_data_lat",
+					"itemclick",
+					"BMap",
+					"resizeMapHeight",
+					"}\n",
+					"july_hd7",
+					"emitSearchOptions",
+					"include",
+					"image_down",
+					"july_wx",
+					"/App/Tpl/Wap/Default/Public/kysd/image_gd/",
+					"form1_315",
+					"class",
+					".form1_315",
+					".form1_an",
+					"bmyz",
+					".shuzidw_d",
+					"zz_video",
 					"daojishi",
-					"/App/Tpl/Home/Default/Public/kysd1/images_June/",
-					"_sendmessageCr",
-					"_sendmessageCr2",
-					"Cs_site",
-					"select",
-					"guestbook",
-					"D(",
-					"D",
-					"views",
-					"ph_id",
-					"argument",
-					"june_wx",
-					"argument",
-					"construct_name",
-					",",
-					"argument",
-					",",
-					"]",
-					"aa2[",
-					",",
-					"Engineering_supervision",
-					"UserSchema",
-					"argument",
-					"域",
-					"field",
-					"column",
-					"field",
-					"column",
-					"数据字段",
-					"field",
-					"tbody",
-					"</",
-					"数据记录行",
-					"document",
-					"row",
-					"数据库表"
+					"bg_1",
+					"daojishi",
+					"change_mask",
+					"this.change_mask",
+					"changeActive",
+					"index",
+					"Ishave",
+					"get_site_data_lat",
+					"鹅湖尚书苑",
+					"result",
+					"getData",
+					"saveData",
+					"splice",
+					"FULLFILLED",
+					"all",
+					"小天鹅",
+					"31.579985",
+					"小天鹅",
+					"toast",
+					"className",
+					"div",
+					"addMarker",
+					"initMap",
+					"var",
+					"no-underscore-dangle",
+					"no-under",
+					"no-unused-expressions",
+					"no-unused",
+					"search_options",
+					"this.bs",
+					"bs",
+					"get_site_data_lat",
+					"filter_options",
+					"filterData",
+					"box_mask",
+					"sub_text",
+					"changeNav",
+					"area_submenu",
+					"menu_select",
+					"Object.key",
+					"body",
+					"saveData",
+					"body",
+					"no-mixed",
+					"query",
+					"quers",
+					"scrollTop",
+					"documentElement",
+					"menu_select",
+					"allmap",
+					"vue-bmap",
+					"config",
+					"import/no-dynamic-require",
+					"require",
+					"no",
+					"no-dyna",
+					"created",
+					"menu_index",
+					"pl_icon_t.png",
+					"public.css",
+					"index/images/",
+					"index/css/",
+					"public/js/",
+					"msg_t1",
+					".css",
+					"gydjt/images/",
+					"public/js/",
+					"zjgd/images/",
+					"index/images/",
+					"common",
+					"sjs/images/",
+					"index/images/",
+					"public/js/",
+					"jzdkt/images/",
+					"index/images/",
+					"public.css",
+					"public",
+					"cases/images/",
+					"index/images/",
+					"msg_jinqi_01",
+					"cailiao/images/",
+					"index/images/",
+					"bb_pk_qb/images/",
+					"public/js/",
+					"ajax",
+					"hhqb/images/",
+					"index/images/"
 				],
-				"highlight": true,
+				"highlight": false,
 				"in_selection": false,
-				"preserve_case": false,
+				"preserve_case": true,
 				"regex": false,
 				"replace_history":
 				[
+					"金钥匙",
+					"108",
+					"178",
 					"金钥匙",
 					"\nsrc=\"/http://img.jysjzjt.com/"
 				],
@@ -1917,7 +1951,7 @@
 				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
-				"wrap": true
+				"wrap": false
 			},
 			"folders":
 			[
@@ -2016,6 +2050,9 @@
 				},
 				{
 					"path": "D:\\workspace\\tdhyd"
+				},
+				{
+					"path": "E:\\FileRecv\\下载\\vue-baidu-map-master\\vue-baidu-map-master"
 				}
 			],
 			"groups":
@@ -2024,11 +2061,16 @@
 					"sheets":
 					[
 					]
+				},
+				{
+					"sheets":
+					[
+					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 28.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -2043,11 +2085,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.751511487304,
 					1.0
 				],
 				"rows":
@@ -2065,6 +2114,10 @@
 			{
 				"height": 494.0
 			},
+			"output.exec":
+			{
+				"height": 496.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -2077,12 +2130,12 @@
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,886,-66,0,1836",
+			"pinned_build_system": "Packages/User/eslint-fix.sublime-build",
+			"position": "0,2,3,-32000,-32000,-1,-1,1000,-82,105,1820",
 			"project": "",
 			"replace":
 			{
-				"height": 72.0
+				"height": 70.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2120,7 +2173,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 263.0,
+			"side_bar_width": 266.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

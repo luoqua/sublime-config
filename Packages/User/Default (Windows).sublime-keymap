@@ -6,6 +6,10 @@
     "keys": ["ctrl+alt+h"],
     "command": "format_eslint"
   },
+  {
+        "keys": ["ctrl+alt+v"], "command": "sublime_tmpl",
+        "args": {"type": "vue"}, "context": [{"key": "sublime_tmpl.vue"}]
+  },
 	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
 	{
       "keys": [

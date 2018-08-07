@@ -1,6 +1,6 @@
 [
 	{
-        "keys": ["ctrl+alt+h"], "command": "sublime_tmpl",
+        "keys": ["ctrl+alt+t"], "command": "sublime_tmpl",
         "args": {"type": "html"}, "context": [{"key": "sublime_tmpl.html"}]
     }
     ,{
