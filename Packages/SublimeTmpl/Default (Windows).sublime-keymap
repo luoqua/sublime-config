@@ -26,5 +26,10 @@
     ,{
         "keys": ["ctrl+alt++shift+j+s"], "command": "sublime_tmpl",
         "args": {"type": "json"}, "context": [{"key": "sublime_tmpl.json"}]
+    },
+
+    {
+        "keys": ["ctrl+alt+,"], "command": "sublime_tmpl",
+        "args": {"type": "vue"}, "context": [{"key": "sublime_tmpl.vue"}]
     }
 ]
