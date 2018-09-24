@@ -1,0 +1,36 @@
+
+<snippet>
+<content><![CDATA[
+<template>
+	${2:}
+</template>
+
+
+
+<script type="text/javascript">
+import create from '@/utils/create'
+
+export default create({
+	name: '${1:}',
+	props: [],
+	data() {
+		return {
+		}
+	},
+	methods: {
+
+	}
+})
+</script>
+
+
+<style type="text/css" lang="scss" scoped>
+
+</style>]]>
+</content>
+
+<tabTrigger>vue</tabTrigger>
+
+
+</snippet>
+

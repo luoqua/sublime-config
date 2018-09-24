@@ -20,6 +20,18 @@
       }]
     },
     {
+      "keys":  ["ctrl+e"],
+      "args": {
+        "action": "expand_abbreviation"
+      },
+      "command": "run_emmet_action",
+      "context": [{
+        "operand": "source.vue",
+        "match_all": true,
+        "key": "emmet_action_enabled.expand_abbreviation"
+      }]
+    },
+    {
       "keys": ["tab"],
       "command": "expand_abbreviation_by_tab",
       "context": [{
@@ -27,7 +39,8 @@
         "operator": "equal",
         "match_all": true,
         "key": "selector"
-      }, {
+      },
+       {
         "key": "preceding_text",
         "operator": "regex_contains",
         "operand": "(\\b(a\\b|div|span|p\\b|button)(\\.\\w*|>\\w*)?([^}]*?}$)?)",

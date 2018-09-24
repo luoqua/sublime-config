@@ -1,4 +1,6 @@
 {
+	"auto_complete": true,
+	"auto_match_enabled": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_size": 12,
 	"ignored_packages":
