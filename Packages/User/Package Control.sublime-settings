@@ -22,7 +22,6 @@
 		"Less2Css",
 		"LiveReload",
 		"MarkdownEditing",
-		"MarkdownPreview",
 		"Package Control",
 		"Sass",
 		"SublimeGit",
@@ -34,7 +33,6 @@
 		"Syntax Highlighting for PostCSS",
 		"Theme - Flatland",
 		"TortoiseSVN",
-		"View In Browser",
-		"Vue Syntax Highlight"
+		"View In Browser"
 	]
 }

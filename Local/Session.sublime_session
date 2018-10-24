@@ -1,6 +1,34 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Administrator/Documents/mobile",
+		"/C/Users/Administrator/Documents/conf",
+		"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei",
+		"/E/wamp25/www/web3",
+		"/E/wamp25/www/webtdh",
+		"/C/Users/Administrator/Desktop/Lib",
+		"/D/workspace/raunzhuan",
+		"/D/桌面/不用的文档/quickstart_合肥",
+		"/D/workspace/vant-dev2/vant-dev/node_modules/nprogress",
+		"/D/workspace/element-dev",
+		"/E/FileRecv/下载/nodercms-1.4.0/nodercms-1.4.0",
+		"/D/wamp30/www/bmhcaipiao",
+		"/D/wamp30/www/chaohong",
+		"/E/FLAXP/Tencent Files/1132228219/FileRecv/WWW(1)",
+		"/C/Users/Administrator/Desktop/oss-h5-upload-js-php",
+		"/D/workspace/myexpress/myapp",
+		"/D/workspace/vue-code-review",
+		"/D/桌面杂项2017年9月28日/quickstart",
+		"/D/workspace/vant-dev2/vant-dev/node_modules/vant-doc",
+		"/G/FTP本地路径/无锡/移动/备份 configaction/Default/public",
+		"/D/workspace/vote_jys",
+		"/D/workspace/element-dev/element",
+		"/D/workspace/vote_jys/soft_design",
+		"/D/workspace/study-code",
+		"/D/workspace/webpack_test",
+		"/E/FileRecv/下载/myPromise-master/myPromise-master",
+		"/D/workspace/myPromise",
+		"/D/workspace/vue-permission-control",
 		"/D/workspace/vant-dev2/vant-dev",
 		"/E/FileRecv/下载/download/font_750wk843m3a",
 		"/E/FileRecv/下载/icomoon",
@@ -8,18 +36,13 @@
 		"/D/workspace/common_simple_frame/common-simple/common-simple",
 		"/D/workspace/common_simple_frame/common-simple",
 		"/D/workspace",
-		"/D/workspace/vue-code-review",
 		"/D/workspace/vant-dev",
 		"/D/workspace/myexpress",
 		"/D/workspace/react-demo-test",
 		"/D/workspace/vue-dev",
-		"/D/workspace/element-dev",
-		"/D/workspace/vote_jys",
 		"/D/workspace/vant-dev3",
 		"/D/workspace/vant-dev2",
 		"/E/FileRecv/下载/vue-router-dev/vue-router-dev",
-		"/D/workspace/webpack_test",
-		"/D/workspace/element-dev/element",
 		"/E/FileRecv/下载/Vue-Access-Control-master/Vue-Access-Control-master",
 		"/D/workspace/CS-Interview-Knowledge-Map-master",
 		"/E/FileRecv/下载/colorpicker/colorpicker/colorpicker",
@@ -36,7 +59,6 @@
 		"/E/FileRecv/下载/vue-baidu-map-master/vue-baidu-map-master",
 		"/E/FileRecv/下载/clipboard.js-master/clipboard.js-master",
 		"/D/workspace/tdhyd",
-		"/D/workspace/myPromise",
 		"/D/workspace/抄",
 		"/D/workspace/node",
 		"/E/FileRecv/下载/Promise-master/Promise-master",
@@ -88,18 +110,462 @@
 		"/E/sublime_project",
 		"/E/FileRecv/下载/weapp-adapter"
 	],
-	"last_version": 3143,
-	"last_window_id": 76,
+	"last_version": 3176,
+	"last_window_id": 81,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 880.0,
+		"new_window_height": 800.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"tex",
+						"textTitle"
+					],
+					[
+						"wid",
+						"widgetBasic"
+					],
+					[
+						"wi",
+						"widget_basic"
+					],
+					[
+						"cu",
+						"cursor"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"end",
+						"endstr"
+					],
+					[
+						"tes",
+						"test_arr"
+					],
+					[
+						"pa",
+						"parent"
+					],
+					[
+						"con",
+						"context"
+					],
+					[
+						"del",
+						"del"
+					],
+					[
+						"crea",
+						"createElement"
+					],
+					[
+						"ch",
+						"checked"
+					],
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"mem",
+						"MemberName"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"fil",
+						"files"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"pre",
+						"processWidth"
+					],
+					[
+						"pr",
+						"processWidth"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"fi",
+						"file"
+					],
+					[
+						"im",
+						"imgList"
+					],
+					[
+						"i",
+						"imgList"
+					],
+					[
+						"co",
+						"components"
+					],
+					[
+						"re",
+						"regx"
+					],
+					[
+						"file",
+						"file"
+					],
+					[
+						"res",
+						"resultParm"
+					],
+					[
+						"af",
+						"AfterUpload"
+					],
+					[
+						"RES",
+						"result"
+					],
+					[
+						"f",
+						"fileList"
+					],
+					[
+						"set",
+						"setInc"
+					],
+					[
+						"cos",
+						"console"
+					],
+					[
+						"up",
+						"uploadFile"
+					],
+					[
+						"is",
+						"isdone"
+					],
+					[
+						"F",
+						"Function"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"proce",
+						"processWidth"
+					],
+					[
+						"se",
+						"setInc"
+					],
+					[
+						"uo",
+						"uploadParm"
+					],
+					[
+						"ke",
+						"key"
+					],
+					[
+						"FUNC",
+						"function"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"val",
+						"value"
+					],
+					[
+						"ran",
+						"random"
+					],
+					[
+						"get",
+						"getTime"
+					],
+					[
+						"ra",
+						"randomChar"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"char",
+						"charAt"
+					],
+					[
+						"retu",
+						"return"
+					],
+					[
+						"Ma",
+						"Math"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"upl",
+						"upload"
+					],
+					[
+						"RET",
+						"returnData"
+					],
+					[
+						"ini",
+						"initFormData"
+					],
+					[
+						"al",
+						"aliUrl"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"ARR",
+						"arr"
+					],
+					[
+						"cond",
+						"conditions"
+					],
+					[
+						"ge",
+						"getElementById"
+					],
+					[
+						"REQ",
+						"require"
+					],
+					[
+						"bor",
+						"border-color"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"bind",
+						"bindtap"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"fl",
+						"flex-start"
+					],
+					[
+						"sp",
+						"space-between"
+					],
+					[
+						"mf",
+						"mfbj.wxss"
+					],
+					[
+						"cur",
+						"currentValue"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"va",
+						"val"
+					],
+					[
+						"c",
+						"components"
+					],
+					[
+						"CU",
+						"currentColor"
+					],
+					[
+						"po-",
+						"pos-r\tposition: relative;"
+					],
+					[
+						"la",
+						"label_name"
+					],
+					[
+						"le",
+						"length_limit"
+					],
+					[
+						"rg",
+						"rgb_v"
+					],
+					[
+						"rec",
+						"rectleft"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"fn",
+						"function"
+					],
+					[
+						"bac",
+						"backgroundColor"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"retur",
+						"returnvalue"
+					],
+					[
+						"kes",
+						"keysNoWithers"
+					],
+					[
+						"keys",
+						"keysNoWithers"
+					],
+					[
+						"with",
+						"withName"
+					],
+					[
+						"WI",
+						"withName"
+					],
+					[
+						"add",
+						"addEventListener"
+					],
+					[
+						"pro",
+						"products"
+					],
+					[
+						"proT",
+						"proTest"
+					],
+					[
+						"dat",
+						"data-method"
+					],
+					[
+						"hi",
+						"hiddenInput"
+					],
+					[
+						"l",
+						"link"
+					],
+					[
+						"per",
+						"permissionList"
+					],
+					[
+						"D",
+						"DynamicRoutes"
+					],
+					[
+						"rou",
+						"routes"
+					],
+					[
+						"d",
+						"dynamicRoute"
+					],
+					[
+						"bas",
+						"baseUrl"
+					],
+					[
+						"ne",
+						"networkInterfaces"
+					],
+					[
+						"ca",
+						"catch"
+					],
+					[
+						"path",
+						"pathList"
+					],
+					[
+						"L",
+						"Layout"
+					],
+					[
+						"lo",
+						"login/"
+					],
+					[
+						"rout",
+						"routerObj"
+					],
+					[
+						"ro",
+						"router"
+					],
+					[
+						"User",
+						"User"
+					],
+					[
+						"b",
+						"block"
+					],
+					[
+						"sc",
+						"scrollTop"
+					],
 					[
 						"font",
 						"font-size"
@@ -121,36 +587,12 @@
 						"overflow"
 					],
 					[
-						"wi",
-						"width"
-					],
-					[
 						"RT",
 						"return"
 					],
 					[
-						"ret",
-						"ret"
-					],
-					[
-						"co",
-						"const"
-					],
-					[
 						"ex",
 						"exec"
-					],
-					[
-						"ke",
-						"keyPath"
-					],
-					[
-						"c",
-						"common2.js"
-					],
-					[
-						"cons",
-						"console"
 					],
 					[
 						"di",
@@ -165,10 +607,6 @@
 						"buildDemoEntry"
 					],
 					[
-						"con",
-						"content"
-					],
-					[
 						"wre",
 						"writeFileSync"
 					],
@@ -177,24 +615,12 @@
 						"export"
 					],
 					[
-						"pre",
-						"progress"
-					],
-					[
 						"comp",
 						"Component"
 					],
 					[
-						"im",
-						"import"
-					],
-					[
 						"com",
 						"componentWrapper"
-					],
-					[
-						"pa",
-						"packages/"
 					],
 					[
 						"export",
@@ -205,412 +631,8 @@
 						"UserOfWechat"
 					],
 					[
-						"get",
-						"getName"
-					],
-					[
 						"su",
 						"sub"
-					],
-					[
-						"aa_a",
-						"aa_arr"
-					],
-					[
-						"ti",
-						"time"
-					],
-					[
-						"cos",
-						"console"
-					],
-					[
-						"typ",
-						"typeof"
-					],
-					[
-						"O",
-						"Object"
-					],
-					[
-						"CON",
-						"construct"
-					],
-					[
-						"my",
-						"myInstance"
-					],
-					[
-						"XM",
-						"XMLHttpFactory"
-					],
-					[
-						"TO",
-						"toPrimitive"
-					],
-					[
-						"obj",
-						"obj2"
-					],
-					[
-						"prize",
-						"prize_num"
-					],
-					[
-						"OBJ",
-						"obj"
-					],
-					[
-						"OB",
-						"obj1"
-					],
-					[
-						"ty",
-						"typeof"
-					],
-					[
-						"val",
-						"valueOf"
-					],
-					[
-						"tex",
-						"text"
-					],
-					[
-						"a",
-						"auto"
-					],
-					[
-						"ar",
-						"args"
-					],
-					[
-						"conver",
-						"convertCountyId"
-					],
-					[
-						"CITY",
-						"city_id"
-					],
-					[
-						"city",
-						"city_id"
-					],
-					[
-						"o",
-						"oArray"
-					],
-					[
-						"for",
-						"foreach\tforeach …"
-					],
-					[
-						"def",
-						"default_city"
-					],
-					[
-						"cur",
-						"cur_w"
-					],
-					[
-						"getNow",
-						"getNowExpiretime"
-					],
-					[
-						"curr",
-						"current_time"
-					],
-					[
-						"is_a",
-						"is_array"
-					],
-					[
-						"serac",
-						"search_result"
-					],
-					[
-						"search",
-						"search_name"
-					],
-					[
-						"sear",
-						"search_result"
-					],
-					[
-						"cout",
-						"county_arr"
-					],
-					[
-						"resul",
-						"result_around"
-					],
-					[
-						"reg",
-						"region_type"
-					],
-					[
-						"county",
-						"county_id"
-					],
-					[
-						"par",
-						"parent_id"
-					],
-					[
-						"selec",
-						"selectWeatherId"
-					],
-					[
-						"upda",
-						"update"
-					],
-					[
-						"img",
-						"border-image"
-					],
-					[
-						"ci",
-						"city_name"
-					],
-					[
-						"pr",
-						"printObj"
-					],
-					[
-						"va",
-						"val"
-					],
-					[
-						"decor",
-						"decoratorApp"
-					],
-					[
-						"pro",
-						"prototype"
-					],
-					[
-						"Mac",
-						"MacBookDecorator"
-					],
-					[
-						"to",
-						"todoItem"
-					],
-					[
-						"In",
-						"Interface"
-					],
-					[
-						"sc",
-						"screeSize"
-					],
-					[
-						"set",
-						"setColor"
-					],
-					[
-						"func",
-						"function"
-					],
-					[
-						"re",
-						"region"
-					],
-					[
-						"arr",
-						"array"
-					],
-					[
-						"prov",
-						"province_id"
-					],
-					[
-						"se",
-						"search_name_arr"
-					],
-					[
-						"ser",
-						"search_name_arr"
-					],
-					[
-						"result",
-						"result_city"
-					],
-					[
-						"res",
-						"result_city_id"
-					],
-					[
-						"up",
-						"updateCityHit"
-					],
-					[
-						"array_re",
-						"array_reverse"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"we",
-						"weather"
-					],
-					[
-						"of",
-						"offsetX"
-					],
-					[
-						"HS",
-						"HSB"
-					],
-					[
-						"lef",
-						"left"
-					],
-					[
-						"hex",
-						"hexValue"
-					],
-					[
-						"right",
-						"rightHSB"
-					],
-					[
-						"ri",
-						"rightPointer"
-					],
-					[
-						"de",
-						"deltaX"
-					],
-					[
-						"off",
-						"offsetY"
-					],
-					[
-						"RIGH",
-						"rightTop"
-					],
-					[
-						"on",
-						"onmousemove"
-					],
-					[
-						"ge",
-						"getBoundingClientRect"
-					],
-					[
-						"clien",
-						"clientX"
-					],
-					[
-						"rig",
-						"rightTop"
-					],
-					[
-						"DE",
-						"deltaY"
-					],
-					[
-						"sr",
-						"startTop"
-					],
-					[
-						"str",
-						"startTop"
-					],
-					[
-						"st",
-						"startTop"
-					],
-					[
-						"sta",
-						"startTop"
-					],
-					[
-						"righ",
-						"rightTop"
-					],
-					[
-						"ono",
-						"onmouseup"
-					],
-					[
-						"ev",
-						"ev_move"
-					],
-					[
-						"mo",
-						"moveable"
-					],
-					[
-						"mou",
-						"mousedown"
-					],
-					[
-						"i",
-						"initialize"
-					],
-					[
-						"dir",
-						"directive_mouse"
-					],
-					[
-						"mar",
-						"margin"
-					],
-					[
-						"ini",
-						"initialSwipe"
-					],
-					[
-						"touch",
-						"touchable"
-					],
-					[
-						"sw",
-						"swipe_item"
-					],
-					[
-						"provic",
-						"provice_id"
-					],
-					[
-						"db",
-						"db_town_result"
-					],
-					[
-						"getT",
-						"getTownLink"
-					],
-					[
-						"db_t",
-						"db_town_result"
-					],
-					[
-						"sea",
-						"search_link"
-					],
-					[
-						"array_p",
-						"array_push"
-					],
-					[
-						"po",
-						"position_result"
-					],
-					[
-						"db_",
-						"db_position"
-					],
-					[
-						"user",
-						"userInfo"
-					],
-					[
-						"us",
-						"userInfo"
 					]
 				]
 			},
@@ -620,17 +642,17 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 139.0,
-				"last_filter": "install",
+				"height": 114.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"remove",
 						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
 					],
 					[
 						"set",
@@ -641,7 +663,7 @@
 			},
 			"console":
 			{
-				"height": 130.0,
+				"height": 395.0,
 				"history":
 				[
 					"view.run_command(\"htmlprettify\")",
@@ -659,134 +681,134 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/mysass/mysass.sublime-build",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/common.scss",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/scss.sublime-build",
-				"/D/workspace/vote_jys/css/ruanzhuang/main.scss",
-				"/D/workspace/vote_jys/css_glass.html",
-				"/C/Users/Administrator/Desktop/demo/index.html",
-				"/D/workspace/vote_jys/css/ruanzhuang/cssmain.css",
-				"/D/workspace/vote_jys/css/ruanzhuang/main.css",
-				"/D/workspace/vote_jys/css/cssmain.css",
-				"/D/workspace/vote_jys/css/css.css",
-				"/D/workspace/vote_jys/css/ruanzhuang/main.css.map",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/Layout.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/Sidebar.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/index.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/App.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/index_phone.html",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/Navbar.vue",
-				"/D/workspace/vant-dev2/vant-dev/packages/address-list/index.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/utils/bem.js",
-				"/D/workspace/vant-dev2/vant-dev/packages/address-edit/index.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/breadcrumb/index.vue",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/common.css",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/router/index.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/main.scss",
-				"/D/workspace/vant-dev2/vant-dev/packages/radio-group/index.vue",
-				"/D/workspace/vant-dev2/vant-dev/packages/actionsheet/en-US.md",
-				"/D/workspace/vant-dev2/vant-dev/packages/address-edit/demo/index.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/utils/create/index.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/breadcrumb",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
-				"/G/FTP本地路径/无锡/移动/nginx.conf",
-				"/G/FTP本地路径/无锡/移动/error.log",
-				"/G/FTP本地路径/无锡/移动/access.log",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/DocsApp.vue",
-				"/D/workspace/vant-dev2/vant-dev/packages/utils/create-basic.js",
-				"/D/workspace/vue-element-admin-master/src/router/index.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/main.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/base.css",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/layout.css",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/build/utils.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/Main.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/tree_select/index.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/package.json",
-				"/D/workspace/vue-code-review/前端实用的npm包.md",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/swipe/index.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/loading/index.vue",
-				"/D/workspace/vue-element-admin-master/src/App.vue",
-				"/D/workspace/vue-element-admin-master/src/views/layout/Layout.vue",
-				"/D/workspace/vue-element-admin-master/src/main.js",
-				"/D/workspace/vant-dev2/vant-dev/packages/mixins/bem.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/index.js",
-				"/D/workspace/vue-element-admin-master/src/router/_import_production.js",
-				"/D/workspace/vue-element-admin-master/src/router/_import_development.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/TagsView.vue",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/mobile.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/index.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/demo-entry.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/demo-common.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/router.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/docs-entry.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/doc.config.js",
-				"/D/workspace/vant-dev2/vant-dev/.eslintrc.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/SimpleSidebar.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/SimpleMain.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/input/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/text_title/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/group_form/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/textarea/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/input/demo/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/router/index_init.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/utils/permission.json",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/widget_basic/demo/index.vue",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/component.sublime-snippet",
-				"/D/workspace/vue-element-admin-master/src/utils/validate.js",
-				"/D/workspace/vue-element-admin-master/src/utils/clipboard.js",
-				"/D/workspace/vant-dev/docs/src/DocsApp.vue",
-				"/D/workspace/vant-dev2/vant-dev/packages/nav-bar/index.vue",
-				"/D/workspace/vant-dev2/vant-dev/packages/utils/create.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/components/DemoList.vue",
-				"/D/workspace/vant-dev2/vant-dev/packages/dialog/index.js",
-				"/D/workspace/vant-dev2/vant-dev/packages/toast/index.js",
-				"/D/workspace/vant-dev2/vant-dev/packages/index.js",
-				"/D/workspace/vue-element-admin-master/src/views/layout/components/index.js",
-				"/D/workspace/vue-element-admin-master/src/views/layout/components/AppMain.vue",
-				"/D/workspace/vant-dev2/vant-dev/packages/tree-select/demo/index.vue",
-				"/D/workspace/vue-element-admin-master/src/views/clipboard/index.vue",
-				"/D/workspace/vote_jys/test_css.html",
-				"/D/workspace/vant-dev2/vant-dev/packages/actionsheet/zh-CN.md",
-				"/D/workspace/vant-dev2/vant-dev/docs/markdown/theme.zh-CN.md",
-				"/D/workspace/vant-dev2/vant-dev/docs/markdown/theme.en-US.md",
-				"/D/workspace/vant-dev/packages/index.js",
-				"/D/workspace/vue-element-admin-master/src/utils/auth.js",
-				"/D/workspace/vue-element-admin-master/src/utils/request.js",
-				"/D/workspace/vue-element-admin-master/src/utils/openWindow.js",
-				"/D/workspace/vue-element-admin-master/src/utils/createUniqueString.js",
-				"/D/workspace/vant-dev/packages/mixins/bem.js",
-				"/D/workspace/vue-element-admin-master/src/views/excel/exportExcel.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/mixins/bem.js",
-				"/D/workspace/vue-element-admin-master/src/views/theme/index.vue",
-				"/D/workspace/vue-element-admin-master/src/utils/index.js",
-				"/D/workspace/vant-dev/packages/actionsheet/index.vue",
-				"/D/workspace/vant-dev/packages/address-edit/index.vue",
-				"/D/workspace/vant-dev/packages/address-list/index.vue",
-				"/D/workspace/vant-dev/packages/address-list/demo/index.vue",
-				"/D/workspace/vant-dev/packages/actionsheet/demo/index.vue",
-				"/D/workspace/vant-dev/packages/address-edit/demo/index.vue",
-				"/D/workspace/vant-dev/packages/area/demo/index.vue",
-				"/D/workspace/vant-dev/packages/area/index.vue",
-				"/D/workspace/vant-dev/packages/utils/create.js",
-				"/D/workspace/vant-dev/packages/utils/create-basic.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/.eslintrc.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/theme.css",
-				"/D/workspace/vue-element-admin-master/src/components/ThemePicker/index.vue",
-				"/G/FTP本地路径/无锡/移动/czxbj.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/console.sublime-snippet",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/vue.sublime-snippet",
-				"/E/FileRecv/下载/download/font_750wk843m3a/demo_symbol.html",
-				"/E/FileRecv/下载/download/font_750wk843m3a/iconfont.css",
-				"/E/FileRecv/下载/download/font_750wk843m3a/demo.css",
-				"/E/FileRecv/下载/download/font_750wk843m3a/demo_unicode.html",
-				"/E/FileRecv/下载/download/font_750wk843m3a/demo_fontclass.html",
-				"/E/FileRecv/下载/download/font_750wk843m3a/iconfont.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/README.md",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/server.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.dev.conf.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/build/check-versions.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/config/index.js",
-				"/D/workspace/vant-dev/package.json",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/build/build.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/config/dev.env.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/build/webpack.base.conf.js",
-				"/D/workspace/element-dev/element/package.json",
-				"/D/workspace/vue-element-admin-master/build/build.js",
-				"/D/workspace/vue-element-admin-master/package.json"
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/text_title/demo/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/upload/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/upload/demo/index.vue",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/textara",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/widget_basic/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/upload/preview-list.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/common/transition.scss",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/index_phone.html",
+				"/D/workspace/element-dev/element/packages/upload/src/upload-list.vue",
+				"/D/workspace/element-dev/element/packages/select/src/select.vue",
+				"/G/FTP本地路径/无锡/移动/cspdsj.html",
+				"/D/workspace/vue-code-review/关于vue循环列表中的key属性的踩坑之路.MD",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/utils/common.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/upload/upload-list.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/config/baseUrl.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/index.js",
+				"/D/workspace/vant-dev2/vant-dev/packages/radio/demo/index.vue",
+				"/D/workspace/element-dev/element/packages/menu/src/menu.vue",
+				"/D/workspace/vant-dev2/vant-dev/packages/radio/index.vue",
+				"/D/workspace/vue-code-review/vue的api的学习.MD",
+				"/D/workspace/vote_jys/test_object.html",
+				"/F/wamp12/www/TP/index.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/radio/demo/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/radio/index.vue",
+				"/D/workspace/element-dev/element/packages/theme-chalk/src/common/transition.scss",
+				"/D/workspace/element-dev/element/packages/submenu/index.js",
+				"/D/workspace/element-dev/element/packages/menu/src/submenu.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/mixins/getParent.js",
+				"/D/workspace/vant-dev2/vant-dev/packages/radio-group/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/radio_group/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/component_test/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/component_test",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/router/index.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/router/index_router.js",
+				"/C/Users/Administrator/Documents/web/goods/goods.php",
+				"/C/Users/Administrator/Documents/web/goods/route2.php",
+				"/C/Users/Administrator/Documents/web/goods/route.php",
+				"/C/Users/Administrator/Documents/index.php",
+				"/C/Users/Administrator/Documents/goods.php",
+				"/C/Users/Administrator/Documents/config.php",
+				"/C/Users/Administrator/Documents/web/goods/ewei_shopv2_api2.php",
+				"/C/Users/Administrator/Documents/web/goods/index.php",
+				"/C/Users/Administrator/Documents/web/goods/site.php",
+				"/C/Users/Administrator/Documents/mobile/goods/code.php",
+				"/C/Users/Administrator/Documents/mobile/goods/detail.php",
+				"/C/Users/Administrator/Documents/mobile/goods/index.php",
+				"/C/Users/Administrator/Documents/mobile/goods/package.php",
+				"/C/Users/Administrator/Documents/web/goods/category.php",
+				"/C/Users/Administrator/Documents/web/goods/ewei_shopv2_api.php",
+				"/C/Users/Administrator/Documents/mobile/goods/picker.php",
+				"/C/Users/Administrator/Documents/mobile/account/index.php",
+				"/G/FTP本地路径/无锡/移动/ChannelAction.class.php",
+				"/G/FTP本地路径/无锡/移动/index.html",
+				"/C/Users/Administrator/Documents/web/goods/api.php",
+				"/C/Users/Administrator/Documents/web/goods/sm.15out.com.conf",
+				"/C/Users/Administrator/Documents/mobile/shop/category.php",
+				"/C/Users/Administrator/Documents/web/index.php",
+				"/D/workspace/raunzhuan/public/gobang.html",
+				"/D/workspace/raunzhuan/public/header.html",
+				"/D/workspace/raunzhuan/public/common.php",
+				"/D/workspace/raunzhuan/public/login.html",
+				"/D/workspace/raunzhuan/public/reg.html",
+				"/D/workspace/raunzhuan/public/meta.html",
+				"/D/workspace/raunzhuan/info/goodsdetail.html",
+				"/D/workspace/raunzhuan/index.html",
+				"/D/workspace/raunzhuan/info/hdinfo.html",
+				"/D/workspace/raunzhuan/clbz.html",
+				"/D/workspace/raunzhuan/jkjj.html",
+				"/G/FTP本地路径/无锡/移动/meta.html",
+				"/G/FTP本地路径/无锡/移动/gdlx.html",
+				"/C/Users/Administrator/Documents/sm.15out.com/ewei_shopv2/index.php",
+				"/C/Users/Administrator/Documents/sm.15out.com/welcome.ctrl.php",
+				"/D/wamp30/www/bmhcaipiao/application/index/view/blend/blend.html",
+				"/C/Users/Administrator/Documents/nginx.conf",
+				"/C/Users/Administrator/Documents/sm.15out.com/api.php",
+				"/C/Users/Administrator/Documents/sm.15out.com/root.txt",
+				"/C/Users/Administrator/Documents/sm.15out.com.log",
+				"/G/FTP本地路径/合肥/移动/ChannelAction.class.php",
+				"/C/Users/Administrator/Documents/site.php",
+				"/C/Users/Administrator/Documents/ChannelAction.class.php",
+				"/C/Users/Administrator/Documents/ewei_shopv2_api.php",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/pages/pay/pay.vue",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/main.js",
+				"/C/Users/Administrator/Documents/init.lua",
+				"/C/Users/Administrator/Documents/nginx.conf.default",
+				"/C/Users/Administrator/Documents/enable-php-54.conf",
+				"/C/Users/Administrator/Documents/enable-php-00.conf",
+				"/C/Users/Administrator/Documents/www",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/vuex/type.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/vuex/state.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/vuex/mutations.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/package.json",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/pages/cart/component/CartHeader.vue",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/pages/cart/cart.vue",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/router/index.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/vuex/actions.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/vuex/index.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/pages/my/MyCollection.vue",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/fon/iconfont.css",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/build/build.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/build/check-versions.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/build/dev-client.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/build/dev-server.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/config/dev.env.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/config/index.js",
+				"/D/workspace/raunzhuan/static/wap/css/common/header.css",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/.babelrc",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/data.json",
+				"/D/workspace/raunzhuan/static/wap/css/common/reset.css",
+				"/D/wamp30/www/bmhcaipiao/application/index/view/buyrecord/buydetails.html",
+				"/C/Users/Administrator/Desktop/Lib/Lib/Action/BaseAction.class.php",
+				"/C/Users/Administrator/Desktop/Lib/Lib/Action/Wap/PublicAction.class.php",
+				"/E/wamp25/www/web3/App/Common/common.php",
+				"/G/FTP本地路径/无锡/移动/PublicAction.class.php",
+				"/E/wamp25/www/web3/App/Core/Extend/Library/ORG/Util/Image.class.php",
+				"/E/wamp25/www/web3/App/Lib/Action/Wap/PublicAction.class.php"
 			],
 			"find":
 			{
@@ -797,6 +819,52 @@
 				"height": 124.0,
 				"where_history":
 				[
+					"D:\\workspace\\element-dev\\element\\packages",
+					"C:\\Users\\Administrator\\Documents\\mobile",
+					"C:\\Users\\Administrator\\Documents\\mobile\\goods",
+					"C:\\Users\\Administrator\\Documents\\mobile",
+					"C:\\Users\\Administrator\\Documents\\mobile\\goods",
+					"C:\\Users\\Administrator\\Documents\\mobile",
+					"C:\\Users\\Administrator\\Documents\\conf",
+					"E:\\FLAXP\\Tencent Files\\1132228219\\FileRecv\\瞬美商城项目\\瞬美商城项目\\shunmei\\src\\pages",
+					"E:\\wamp25\\www\\web3",
+					"C:\\Users\\Administrator\\Desktop\\Lib",
+					"E:\\wamp25\\www\\web3\\App\\Core",
+					"E:\\wamp25\\www\\web3\\App\\Lib\\Action\\Wap",
+					"E:\\wamp25\\www\\web3\\App\\Lib\\Action",
+					"E:\\wamp25\\www\\web3\\App\\Core",
+					"E:\\wamp25\\www\\web3",
+					"C:\\Users\\Administrator\\Desktop\\Lib\\Lib",
+					"E:\\wamp25\\www\\webtdh\\App\\Core",
+					"E:\\wamp25\\www\\webtdh",
+					"C:\\Users\\Administrator\\Desktop\\Lib\\Lib",
+					"C:\\Users\\Administrator\\Desktop\\Lib",
+					"C:\\Users\\Administrator\\Desktop\\Lib\\Lib\\Action",
+					"D:\\workspace\\raunzhuan",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\common_simple_frame\\common-simple\\common-simple\\packages\\components",
+					"D:\\workspace\\common_simple_frame\\common-simple\\common-simple\\packages",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\桌面杂项2017年9月28日\\quickstart\\pages",
+					"D:\\wamp30\\www\\bmhcaipiao\\public\\static",
+					"D:\\wamp30\\www\\bmhcaipiao",
+					"D:\\workspace\\element-dev\\element\\packages",
+					"D:\\wamp30\\www\\bmhcaipiao\\application\\index",
+					"D:\\wamp30\\www\\bmhcaipiao\\application\\index\\controller",
+					"D:\\wamp30\\www\\bmhcaipiao\\application\\index",
+					"D:\\workspace\\myexpress\\myapp\\models",
+					"D:\\workspace\\myexpress\\myapp\\bin",
+					"D:\\workspace\\common_simple_frame\\common-simple\\common-simple\\packages",
+					"D:\\桌面杂项2017年9月28日\\quickstart\\pages",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\common_simple_frame\\common-simple\\common-simple\\packages",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"G:\\FTP本地路径\\无锡\\移动\\备份 configaction\\Default\\public\\Public",
+					"D:\\workspace\\vant-dev2\\vant-dev\\docs",
+					"D:\\workspace\\element-dev\\element",
+					"D:\\workspace\\vant-dev2\\vant-dev\\docs",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\vue-permission-control\\src",
 					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
 					"D:\\workspace\\vant-dev2\\vant-dev",
 					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
@@ -815,33 +883,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
-					"bold",
-					"white",
-					"import",
-					"b()",
-					"allowed_file_extensions",
-					"cssLoader",
-					"sass-resources-loader",
-					"Simple",
-					"install",
-					"this",
-					"no-invalid",
-					"navbar",
-					"simpler-header",
-					"sidebar",
-					"intro",
+					"imgList",
+					"transition-group",
+					"simple-progress",
+					"widget-basic",
+					"start",
+					"del",
+					"data",
+					"Goods_EweiShopV2Page",
+					"_condition",
+					"iframe",
+					"guest",
+					"get",
+					"category",
+					"list",
+					"category",
+					"logo",
+					"gobang",
+					"logo",
 					"header",
-					"nav",
-					"toggleClass",
-					"theme",
-					"toggleClass",
-					"radio-label",
-					"getThemeCluster",
-					"no-confusing",
-					"activeIndex",
-					"host",
-					"open",
-					"menu-wrapper"
+					"MORE",
+					"brands",
+					"header",
+					"gobang",
+					"logo",
+					"最新活动",
+					"lqzh1688",
+					"http://www.lqzh1688.com",
+					"lqzh",
+					"map",
+					"watch",
+					"computed",
+					"slot",
+					"echo",
+					"价格说明",
+					"footer",
+					"加入心愿单",
+					".header_nav",
+					"href=\"http://www.jdstb.com/brand/brand-detail",
+					"href",
+					"infolist",
+					"http://soft.wxjysgcd.com/App/Tpl/Wap/Default/Public/static/wap/image/",
+					"进口家具",
+					"https://static.jdstb.com/static/wap/image/menu-jk/",
+					"https://static.jdstb.com/static/wap/image/menu-jk/j",
+					"https://static.jdstb.com/uploads/",
+					"进口家具",
+					"footer",
+					"readConfig",
+					"_read",
+					"readConfig",
+					"_read",
+					"readReg",
+					"YdCache",
+					"argument",
+					"Image",
+					"session",
+					"session('membercode')",
+					"session",
+					"build",
+					"changeNum",
+					"nums",
+					"imgUrls",
+					"form_submit2",
+					"form_submit",
+					"section1",
+					"container",
+					"form_submit",
+					"imgUrls",
+					"changecode",
+					"guestbookCode",
+					"version",
+					"build",
+					"buildimageverify",
+					"Image",
+					"memberCode",
+					"MemberCode",
+					"login",
+					"register",
+					"RegisterForm",
+					"captcha?v=5bc7fa4c0f1da",
+					"href=\"https://static.jdstb.com/",
+					"src=\"https://static.jdstb.com/",
+					"footer",
+					"LoginForm",
+					"aria",
+					"error",
+					"infoerror",
+					"captcha",
+					"footer",
+					"captcha",
+					"script src=\"https://static.jdstb.com/",
+					"src=\"https://static.jdstb.com/",
+					"href=\"https://static.jdstb.com/",
+					" href=\"https://static.jdstb.com/",
+					"href=\"https://static.jdstb.com/",
+					"https://static.jdstb.com/",
+					"login",
+					"footer",
+					"gzip",
+					"cache",
+					"fastcgi_cache",
+					"expires",
+					"expire",
+					"infolist",
+					"MORE",
+					"banner",
+					"src=\"static",
+					"link href",
+					"script src",
+					"script",
+					"\"http://soft.wxjysgcd.com//",
+					"response",
+					"src",
+					"swiper.min.js",
+					"href",
+					"48",
+					"47",
+					"json",
+					"jd_track",
+					".js",
+					"Udesk嵌入代码配置错误！",
+					"target-densitydpi",
+					"desk",
+					"udesk",
+					"udesk_jsonp",
+					"udesk",
+					"http://jdstb.udesk.cn/im_client/?web_plugin_id=35447",
+					"udesk"
 				],
 				"highlight": false,
 				"in_selection": false,
@@ -849,20 +1018,22 @@
 				"regex": false,
 				"replace_history":
 				[
+					"  ",
+					"   "
 				],
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
-				"wrap": false
+				"wrap": true
 			},
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 31.0
 			},
 			"input":
 			{
-				"height": 44.0
+				"height": 50.0
 			},
 			"menu_visible": true,
 			"output.SublimeLinter":
@@ -871,11 +1042,11 @@
 			},
 			"output.SublimeLinter Messages":
 			{
-				"height": 494.0
+				"height": 27.0
 			},
 			"output.exec":
 			{
-				"height": 155.0
+				"height": 31.0
 			},
 			"output.find_results":
 			{
@@ -889,10 +1060,10 @@
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "Packages/SASS Build/SASS.sublime-build",
+			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 70.0
+				"height": 58.0
 			},
 			"save_all_on_build": false,
 			"select_file":
@@ -926,13 +1097,13 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 310.0,
+			"side_bar_width": 267.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1706.0
+		"new_window_width": 1419.0
 	},
 	"windows":
 	[
@@ -942,8 +1113,448 @@
 				"selected_items":
 				[
 					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"tex",
+						"textTitle"
+					],
+					[
+						"wid",
+						"widgetBasic"
+					],
+					[
+						"wi",
+						"widget_basic"
+					],
+					[
+						"cu",
+						"cursor"
+					],
+					[
+						"in",
+						"inline-block"
+					],
+					[
+						"end",
+						"endstr"
+					],
+					[
+						"tes",
+						"test_arr"
+					],
+					[
+						"pa",
+						"parent"
+					],
+					[
+						"con",
+						"context"
+					],
+					[
+						"del",
+						"del"
+					],
+					[
+						"crea",
+						"createElement"
+					],
+					[
+						"ch",
+						"checked"
+					],
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"mem",
+						"MemberName"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"fil",
+						"files"
+					],
+					[
+						"ret",
+						"return"
+					],
+					[
+						"pre",
+						"processWidth"
+					],
+					[
+						"pr",
+						"processWidth"
+					],
+					[
 						"min",
-						"min-width"
+						"min-height"
+					],
+					[
+						"fi",
+						"file"
+					],
+					[
+						"im",
+						"imgList"
+					],
+					[
+						"i",
+						"imgList"
+					],
+					[
+						"co",
+						"components"
+					],
+					[
+						"re",
+						"regx"
+					],
+					[
+						"file",
+						"file"
+					],
+					[
+						"res",
+						"resultParm"
+					],
+					[
+						"af",
+						"AfterUpload"
+					],
+					[
+						"RES",
+						"result"
+					],
+					[
+						"f",
+						"fileList"
+					],
+					[
+						"set",
+						"setInc"
+					],
+					[
+						"cos",
+						"console"
+					],
+					[
+						"up",
+						"uploadFile"
+					],
+					[
+						"is",
+						"isdone"
+					],
+					[
+						"F",
+						"Function"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"proce",
+						"processWidth"
+					],
+					[
+						"se",
+						"setInc"
+					],
+					[
+						"uo",
+						"uploadParm"
+					],
+					[
+						"ke",
+						"key"
+					],
+					[
+						"FUNC",
+						"function"
+					],
+					[
+						"for",
+						"forEach"
+					],
+					[
+						"val",
+						"value"
+					],
+					[
+						"ran",
+						"random"
+					],
+					[
+						"get",
+						"getTime"
+					],
+					[
+						"ra",
+						"randomChar"
+					],
+					[
+						"time",
+						"timestamp"
+					],
+					[
+						"char",
+						"charAt"
+					],
+					[
+						"retu",
+						"return"
+					],
+					[
+						"Ma",
+						"Math"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"upl",
+						"upload"
+					],
+					[
+						"RET",
+						"returnData"
+					],
+					[
+						"ini",
+						"initFormData"
+					],
+					[
+						"al",
+						"aliUrl"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"ARR",
+						"arr"
+					],
+					[
+						"cond",
+						"conditions"
+					],
+					[
+						"ge",
+						"getElementById"
+					],
+					[
+						"REQ",
+						"require"
+					],
+					[
+						"bor",
+						"border-color"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"bind",
+						"bindtap"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"fl",
+						"flex-start"
+					],
+					[
+						"sp",
+						"space-between"
+					],
+					[
+						"mf",
+						"mfbj.wxss"
+					],
+					[
+						"cur",
+						"currentValue"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"va",
+						"val"
+					],
+					[
+						"c",
+						"components"
+					],
+					[
+						"CU",
+						"currentColor"
+					],
+					[
+						"po-",
+						"pos-r\tposition: relative;"
+					],
+					[
+						"la",
+						"label_name"
+					],
+					[
+						"le",
+						"length_limit"
+					],
+					[
+						"rg",
+						"rgb_v"
+					],
+					[
+						"rec",
+						"rectleft"
+					],
+					[
+						"cons",
+						"console"
+					],
+					[
+						"fn",
+						"function"
+					],
+					[
+						"bac",
+						"backgroundColor"
+					],
+					[
+						"to",
+						"toString"
+					],
+					[
+						"retur",
+						"returnvalue"
+					],
+					[
+						"kes",
+						"keysNoWithers"
+					],
+					[
+						"keys",
+						"keysNoWithers"
+					],
+					[
+						"with",
+						"withName"
+					],
+					[
+						"WI",
+						"withName"
+					],
+					[
+						"add",
+						"addEventListener"
+					],
+					[
+						"pro",
+						"products"
+					],
+					[
+						"proT",
+						"proTest"
+					],
+					[
+						"dat",
+						"data-method"
+					],
+					[
+						"hi",
+						"hiddenInput"
+					],
+					[
+						"l",
+						"link"
+					],
+					[
+						"per",
+						"permissionList"
+					],
+					[
+						"D",
+						"DynamicRoutes"
+					],
+					[
+						"rou",
+						"routes"
+					],
+					[
+						"d",
+						"dynamicRoute"
+					],
+					[
+						"bas",
+						"baseUrl"
+					],
+					[
+						"ne",
+						"networkInterfaces"
+					],
+					[
+						"ca",
+						"catch"
+					],
+					[
+						"path",
+						"pathList"
+					],
+					[
+						"L",
+						"Layout"
+					],
+					[
+						"lo",
+						"login/"
+					],
+					[
+						"rout",
+						"routerObj"
+					],
+					[
+						"ro",
+						"router"
+					],
+					[
+						"User",
+						"User"
+					],
+					[
+						"b",
+						"block"
+					],
+					[
+						"sc",
+						"scrollTop"
 					],
 					[
 						"font",
@@ -966,36 +1577,12 @@
 						"overflow"
 					],
 					[
-						"wi",
-						"width"
-					],
-					[
 						"RT",
 						"return"
 					],
 					[
-						"ret",
-						"ret"
-					],
-					[
-						"co",
-						"const"
-					],
-					[
 						"ex",
 						"exec"
-					],
-					[
-						"ke",
-						"keyPath"
-					],
-					[
-						"c",
-						"common2.js"
-					],
-					[
-						"cons",
-						"console"
 					],
 					[
 						"di",
@@ -1010,10 +1597,6 @@
 						"buildDemoEntry"
 					],
 					[
-						"con",
-						"content"
-					],
-					[
 						"wre",
 						"writeFileSync"
 					],
@@ -1022,24 +1605,12 @@
 						"export"
 					],
 					[
-						"pre",
-						"progress"
-					],
-					[
 						"comp",
 						"Component"
 					],
 					[
-						"im",
-						"import"
-					],
-					[
 						"com",
 						"componentWrapper"
-					],
-					[
-						"pa",
-						"packages/"
 					],
 					[
 						"export",
@@ -1050,465 +1621,29 @@
 						"UserOfWechat"
 					],
 					[
-						"get",
-						"getName"
-					],
-					[
 						"su",
 						"sub"
-					],
-					[
-						"aa_a",
-						"aa_arr"
-					],
-					[
-						"ti",
-						"time"
-					],
-					[
-						"cos",
-						"console"
-					],
-					[
-						"typ",
-						"typeof"
-					],
-					[
-						"O",
-						"Object"
-					],
-					[
-						"CON",
-						"construct"
-					],
-					[
-						"my",
-						"myInstance"
-					],
-					[
-						"XM",
-						"XMLHttpFactory"
-					],
-					[
-						"TO",
-						"toPrimitive"
-					],
-					[
-						"obj",
-						"obj2"
-					],
-					[
-						"prize",
-						"prize_num"
-					],
-					[
-						"OBJ",
-						"obj"
-					],
-					[
-						"OB",
-						"obj1"
-					],
-					[
-						"ty",
-						"typeof"
-					],
-					[
-						"val",
-						"valueOf"
-					],
-					[
-						"tex",
-						"text"
-					],
-					[
-						"a",
-						"auto"
-					],
-					[
-						"ar",
-						"args"
-					],
-					[
-						"conver",
-						"convertCountyId"
-					],
-					[
-						"CITY",
-						"city_id"
-					],
-					[
-						"city",
-						"city_id"
-					],
-					[
-						"o",
-						"oArray"
-					],
-					[
-						"for",
-						"foreach\tforeach …"
-					],
-					[
-						"def",
-						"default_city"
-					],
-					[
-						"cur",
-						"cur_w"
-					],
-					[
-						"getNow",
-						"getNowExpiretime"
-					],
-					[
-						"curr",
-						"current_time"
-					],
-					[
-						"is_a",
-						"is_array"
-					],
-					[
-						"serac",
-						"search_result"
-					],
-					[
-						"search",
-						"search_name"
-					],
-					[
-						"sear",
-						"search_result"
-					],
-					[
-						"cout",
-						"county_arr"
-					],
-					[
-						"resul",
-						"result_around"
-					],
-					[
-						"reg",
-						"region_type"
-					],
-					[
-						"county",
-						"county_id"
-					],
-					[
-						"par",
-						"parent_id"
-					],
-					[
-						"selec",
-						"selectWeatherId"
-					],
-					[
-						"upda",
-						"update"
-					],
-					[
-						"img",
-						"border-image"
-					],
-					[
-						"ci",
-						"city_name"
-					],
-					[
-						"pr",
-						"printObj"
-					],
-					[
-						"va",
-						"val"
-					],
-					[
-						"decor",
-						"decoratorApp"
-					],
-					[
-						"pro",
-						"prototype"
-					],
-					[
-						"Mac",
-						"MacBookDecorator"
-					],
-					[
-						"to",
-						"todoItem"
-					],
-					[
-						"In",
-						"Interface"
-					],
-					[
-						"sc",
-						"screeSize"
-					],
-					[
-						"set",
-						"setColor"
-					],
-					[
-						"func",
-						"function"
-					],
-					[
-						"re",
-						"region"
-					],
-					[
-						"arr",
-						"array"
-					],
-					[
-						"prov",
-						"province_id"
-					],
-					[
-						"se",
-						"search_name_arr"
-					],
-					[
-						"ser",
-						"search_name_arr"
-					],
-					[
-						"result",
-						"result_city"
-					],
-					[
-						"res",
-						"result_city_id"
-					],
-					[
-						"up",
-						"updateCityHit"
-					],
-					[
-						"array_re",
-						"array_reverse"
-					],
-					[
-						"fun",
-						"function"
-					],
-					[
-						"we",
-						"weather"
-					],
-					[
-						"of",
-						"offsetX"
-					],
-					[
-						"HS",
-						"HSB"
-					],
-					[
-						"lef",
-						"left"
-					],
-					[
-						"hex",
-						"hexValue"
-					],
-					[
-						"right",
-						"rightHSB"
-					],
-					[
-						"ri",
-						"rightPointer"
-					],
-					[
-						"de",
-						"deltaX"
-					],
-					[
-						"off",
-						"offsetY"
-					],
-					[
-						"RIGH",
-						"rightTop"
-					],
-					[
-						"on",
-						"onmousemove"
-					],
-					[
-						"ge",
-						"getBoundingClientRect"
-					],
-					[
-						"clien",
-						"clientX"
-					],
-					[
-						"rig",
-						"rightTop"
-					],
-					[
-						"DE",
-						"deltaY"
-					],
-					[
-						"sr",
-						"startTop"
-					],
-					[
-						"str",
-						"startTop"
-					],
-					[
-						"st",
-						"startTop"
-					],
-					[
-						"sta",
-						"startTop"
-					],
-					[
-						"righ",
-						"rightTop"
-					],
-					[
-						"ono",
-						"onmouseup"
-					],
-					[
-						"ev",
-						"ev_move"
-					],
-					[
-						"mo",
-						"moveable"
-					],
-					[
-						"mou",
-						"mousedown"
-					],
-					[
-						"i",
-						"initialize"
-					],
-					[
-						"dir",
-						"directive_mouse"
-					],
-					[
-						"mar",
-						"margin"
-					],
-					[
-						"ini",
-						"initialSwipe"
-					],
-					[
-						"touch",
-						"touchable"
-					],
-					[
-						"sw",
-						"swipe_item"
-					],
-					[
-						"provic",
-						"provice_id"
-					],
-					[
-						"db",
-						"db_town_result"
-					],
-					[
-						"getT",
-						"getTownLink"
-					],
-					[
-						"db_t",
-						"db_town_result"
-					],
-					[
-						"sea",
-						"search_link"
-					],
-					[
-						"array_p",
-						"array_push"
-					],
-					[
-						"po",
-						"position_result"
-					],
-					[
-						"db_",
-						"db_position"
-					],
-					[
-						"user",
-						"userInfo"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/Layout.vue",
+					"file": "/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/widget_basic/demo/index.vue",
 					"settings":
 					{
-						"buffer_size": 877,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/index.vue",
-					"settings":
-					{
-						"buffer_size": 2378,
+						"buffer_size": 1250,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/Navbar.vue",
+					"file": "/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/widget_basic/index.vue",
 					"settings":
 					{
-						"buffer_size": 2132,
+						"buffer_size": 3434,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/workspace/common_simple_frame/common-simple/common-simple/packages/main.js",
-					"settings":
-					{
-						"buffer_size": 693,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "{\n\"shell_cmd\":\"sass ${file_path}/:${file_path}/css/\",\n\"selector\": \"source.sass, source.scss\",\n\"line_regex\": \"Line ([0-9]+):\",\n\"osx\":\n{\n\"path\": \"/usr/local/bin:$PATH\"\n},\n\"windows\":\n{\n\"shell\": \"true\"\n}\n}",
-					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/mysass/mysass.sublime-build",
-					"file_size": 213,
-					"file_write_time": 131820548818227648,
-					"settings":
-					{
-						"buffer_size": 201,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/workspace/vue-element-admin-master/src/views/layout/components/Navbar.vue",
-					"settings":
-					{
-						"buffer_size": 3625,
-						"line_ending": "Unix"
 					}
 				}
 			],
@@ -1519,17 +1654,17 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 164.0,
-				"last_filter": "remove",
+				"height": 114.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
 						"install",
 						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
 					],
 					[
 						"set",
@@ -1540,7 +1675,7 @@
 			},
 			"console":
 			{
-				"height": 130.0,
+				"height": 395.0,
 				"history":
 				[
 					"view.run_command(\"htmlprettify\")",
@@ -1558,145 +1693,138 @@
 			},
 			"expanded_folders":
 			[
-				"/D/workspace/common_simple_frame/common-simple/common-simple",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components",
-				"/D/workspace/vue-element-admin-master",
-				"/D/workspace/vue-element-admin-master/src",
-				"/D/workspace/vue-element-admin-master/src/views",
-				"/D/workspace/vue-element-admin-master/src/views/layout",
-				"/D/workspace/vue-element-admin-master/src/views/layout/components"
+				"/D/workspace/common_simple_frame/common-simple/common-simple"
 			],
 			"file_history":
 			[
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/mysass/mysass.sublime-build",
-				"/D/workspace/vue-element-admin-master/src/components/Dropzone/index.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/breadcrumb/index.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/index_phone.html",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/Layout.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/Navbar.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/index.vue",
-				"/D/workspace/vue-element-admin-master/src/views/layout/Layout.vue",
-				"/D/workspace/vue-element-admin-master/src/views/layout/components/Sidebar/index.vue",
-				"/D/workspace/vue-element-admin-master/src/views/layout/components/Sidebar/SidebarItem.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/Sidebar.vue",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/D/workspace/vote_jys/soft_design/main.css",
-				"/D/workspace/vote_jys/soft_design.html",
-				"/D/workspace/vote_jys/soft_design/css/main.css",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/eslint-fix.sublime-build",
-				"/D/workspace/vote_jys/soft_design/main.scss",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/common.scss",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/scss.sublime-build",
-				"/D/workspace/vote_jys/css/ruanzhuang/main.scss",
-				"/D/workspace/vote_jys/css_glass.html",
-				"/C/Users/Administrator/Desktop/demo/index.html",
-				"/D/workspace/vote_jys/css/ruanzhuang/cssmain.css",
-				"/D/workspace/vote_jys/css/ruanzhuang/main.css",
-				"/D/workspace/vote_jys/css/cssmain.css",
-				"/D/workspace/vote_jys/css/css.css",
-				"/D/workspace/vote_jys/css/ruanzhuang/main.css.map",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/App.vue",
-				"/D/workspace/vant-dev2/vant-dev/packages/address-list/index.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/utils/bem.js",
-				"/D/workspace/vant-dev2/vant-dev/packages/address-edit/index.vue",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/common.css",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/router/index.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/main.scss",
-				"/D/workspace/vant-dev2/vant-dev/packages/radio-group/index.vue",
-				"/D/workspace/vant-dev2/vant-dev/packages/actionsheet/en-US.md",
-				"/D/workspace/vant-dev2/vant-dev/packages/address-edit/demo/index.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/utils/create/index.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/breadcrumb",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
-				"/G/FTP本地路径/无锡/移动/nginx.conf",
-				"/G/FTP本地路径/无锡/移动/error.log",
-				"/G/FTP本地路径/无锡/移动/access.log",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/DocsApp.vue",
-				"/D/workspace/vant-dev2/vant-dev/packages/utils/create-basic.js",
-				"/D/workspace/vue-element-admin-master/src/router/index.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/main.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/base.css",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/layout.css",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/build/utils.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/Main.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/tree_select/index.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/package.json",
-				"/D/workspace/vue-code-review/前端实用的npm包.md",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/swipe/index.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/loading/index.vue",
-				"/D/workspace/vue-element-admin-master/src/App.vue",
-				"/D/workspace/vue-element-admin-master/src/main.js",
-				"/D/workspace/vant-dev2/vant-dev/packages/mixins/bem.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/index.js",
-				"/D/workspace/vue-element-admin-master/src/router/_import_production.js",
-				"/D/workspace/vue-element-admin-master/src/router/_import_development.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/TagsView.vue",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/mobile.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/index.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/demo-entry.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/demo-common.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/router.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/docs-entry.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/doc.config.js",
-				"/D/workspace/vant-dev2/vant-dev/.eslintrc.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/SimpleSidebar.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/SimpleMain.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/input/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/text_title/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/group_form/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/textarea/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/input/demo/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/router/index_init.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/utils/permission.json",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/widget_basic/demo/index.vue",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/component.sublime-snippet",
-				"/D/workspace/vue-element-admin-master/src/utils/validate.js",
-				"/D/workspace/vue-element-admin-master/src/utils/clipboard.js",
-				"/D/workspace/vant-dev/docs/src/DocsApp.vue",
-				"/D/workspace/vant-dev2/vant-dev/packages/nav-bar/index.vue",
-				"/D/workspace/vant-dev2/vant-dev/packages/utils/create.js",
-				"/D/workspace/vant-dev2/vant-dev/docs/src/components/DemoList.vue",
-				"/D/workspace/vant-dev2/vant-dev/packages/dialog/index.js",
-				"/D/workspace/vant-dev2/vant-dev/packages/toast/index.js",
-				"/D/workspace/vant-dev2/vant-dev/packages/index.js",
-				"/D/workspace/vue-element-admin-master/src/views/layout/components/index.js",
-				"/D/workspace/vue-element-admin-master/src/views/layout/components/AppMain.vue",
-				"/D/workspace/vant-dev2/vant-dev/packages/tree-select/demo/index.vue",
-				"/D/workspace/vue-element-admin-master/src/views/clipboard/index.vue",
-				"/D/workspace/vote_jys/test_css.html",
-				"/D/workspace/vant-dev2/vant-dev/packages/actionsheet/zh-CN.md",
-				"/D/workspace/vant-dev2/vant-dev/docs/markdown/theme.zh-CN.md",
-				"/D/workspace/vant-dev2/vant-dev/docs/markdown/theme.en-US.md",
-				"/D/workspace/vant-dev/packages/index.js",
-				"/D/workspace/vue-element-admin-master/src/utils/auth.js",
-				"/D/workspace/vue-element-admin-master/src/utils/request.js",
-				"/D/workspace/vue-element-admin-master/src/utils/openWindow.js",
-				"/D/workspace/vue-element-admin-master/src/utils/createUniqueString.js",
-				"/D/workspace/vant-dev/packages/mixins/bem.js",
-				"/D/workspace/vue-element-admin-master/src/views/excel/exportExcel.vue",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/mixins/bem.js",
-				"/D/workspace/vue-element-admin-master/src/views/theme/index.vue",
-				"/D/workspace/vue-element-admin-master/src/utils/index.js",
-				"/D/workspace/vant-dev/packages/actionsheet/index.vue",
-				"/D/workspace/vant-dev/packages/address-edit/index.vue",
-				"/D/workspace/vant-dev/packages/address-list/index.vue",
-				"/D/workspace/vant-dev/packages/address-list/demo/index.vue",
-				"/D/workspace/vant-dev/packages/actionsheet/demo/index.vue",
-				"/D/workspace/vant-dev/packages/address-edit/demo/index.vue",
-				"/D/workspace/vant-dev/packages/area/demo/index.vue",
-				"/D/workspace/vant-dev/packages/area/index.vue",
-				"/D/workspace/vant-dev/packages/utils/create.js",
-				"/D/workspace/vant-dev/packages/utils/create-basic.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/.eslintrc.js",
-				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/theme.css",
-				"/D/workspace/vue-element-admin-master/src/components/ThemePicker/index.vue",
-				"/G/FTP本地路径/无锡/移动/czxbj.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/console.sublime-snippet",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/vue.sublime-snippet",
-				"/E/FileRecv/下载/download/font_750wk843m3a/demo_symbol.html",
-				"/E/FileRecv/下载/download/font_750wk843m3a/iconfont.css",
-				"/E/FileRecv/下载/download/font_750wk843m3a/demo.css",
-				"/E/FileRecv/下载/download/font_750wk843m3a/demo_unicode.html"
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/text_title/demo/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/upload/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/upload/demo/index.vue",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/textara",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/widget_basic/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/upload/preview-list.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/styles/common/transition.scss",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/index_phone.html",
+				"/D/workspace/element-dev/element/packages/upload/src/upload-list.vue",
+				"/D/workspace/element-dev/element/packages/select/src/select.vue",
+				"/G/FTP本地路径/无锡/移动/cspdsj.html",
+				"/D/workspace/vue-code-review/关于vue循环列表中的key属性的踩坑之路.MD",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/utils/common.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/upload/upload-list.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/config/baseUrl.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/index.js",
+				"/D/workspace/vant-dev2/vant-dev/packages/radio/demo/index.vue",
+				"/D/workspace/element-dev/element/packages/menu/src/menu.vue",
+				"/D/workspace/vant-dev2/vant-dev/packages/radio/index.vue",
+				"/D/workspace/vue-code-review/vue的api的学习.MD",
+				"/D/workspace/vote_jys/test_object.html",
+				"/F/wamp12/www/TP/index.html",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/radio/demo/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/radio/index.vue",
+				"/D/workspace/element-dev/element/packages/theme-chalk/src/common/transition.scss",
+				"/D/workspace/element-dev/element/packages/submenu/index.js",
+				"/D/workspace/element-dev/element/packages/menu/src/submenu.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/mixins/getParent.js",
+				"/D/workspace/vant-dev2/vant-dev/packages/radio-group/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/radio_group/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/component_test/index.vue",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/component_test",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/router/index.js",
+				"/D/workspace/common_simple_frame/common-simple/common-simple/packages/router/index_router.js",
+				"/C/Users/Administrator/Documents/web/goods/goods.php",
+				"/C/Users/Administrator/Documents/web/goods/route2.php",
+				"/C/Users/Administrator/Documents/web/goods/route.php",
+				"/C/Users/Administrator/Documents/index.php",
+				"/C/Users/Administrator/Documents/goods.php",
+				"/C/Users/Administrator/Documents/config.php",
+				"/C/Users/Administrator/Documents/web/goods/ewei_shopv2_api2.php",
+				"/C/Users/Administrator/Documents/web/goods/index.php",
+				"/C/Users/Administrator/Documents/web/goods/site.php",
+				"/C/Users/Administrator/Documents/mobile/goods/code.php",
+				"/C/Users/Administrator/Documents/mobile/goods/detail.php",
+				"/C/Users/Administrator/Documents/mobile/goods/index.php",
+				"/C/Users/Administrator/Documents/mobile/goods/package.php",
+				"/C/Users/Administrator/Documents/web/goods/category.php",
+				"/C/Users/Administrator/Documents/web/goods/ewei_shopv2_api.php",
+				"/C/Users/Administrator/Documents/mobile/goods/picker.php",
+				"/C/Users/Administrator/Documents/mobile/account/index.php",
+				"/G/FTP本地路径/无锡/移动/ChannelAction.class.php",
+				"/G/FTP本地路径/无锡/移动/index.html",
+				"/C/Users/Administrator/Documents/web/goods/api.php",
+				"/C/Users/Administrator/Documents/web/goods/sm.15out.com.conf",
+				"/C/Users/Administrator/Documents/mobile/shop/category.php",
+				"/C/Users/Administrator/Documents/web/index.php",
+				"/D/workspace/raunzhuan/public/gobang.html",
+				"/D/workspace/raunzhuan/public/header.html",
+				"/D/workspace/raunzhuan/public/common.php",
+				"/D/workspace/raunzhuan/public/login.html",
+				"/D/workspace/raunzhuan/public/reg.html",
+				"/D/workspace/raunzhuan/public/meta.html",
+				"/D/workspace/raunzhuan/info/goodsdetail.html",
+				"/D/workspace/raunzhuan/index.html",
+				"/D/workspace/raunzhuan/info/hdinfo.html",
+				"/D/workspace/raunzhuan/clbz.html",
+				"/D/workspace/raunzhuan/jkjj.html",
+				"/G/FTP本地路径/无锡/移动/meta.html",
+				"/G/FTP本地路径/无锡/移动/gdlx.html",
+				"/C/Users/Administrator/Documents/sm.15out.com/ewei_shopv2/index.php",
+				"/C/Users/Administrator/Documents/sm.15out.com/welcome.ctrl.php",
+				"/D/wamp30/www/bmhcaipiao/application/index/view/blend/blend.html",
+				"/C/Users/Administrator/Documents/nginx.conf",
+				"/C/Users/Administrator/Documents/sm.15out.com/api.php",
+				"/C/Users/Administrator/Documents/sm.15out.com/root.txt",
+				"/C/Users/Administrator/Documents/sm.15out.com.log",
+				"/G/FTP本地路径/合肥/移动/ChannelAction.class.php",
+				"/C/Users/Administrator/Documents/site.php",
+				"/C/Users/Administrator/Documents/ChannelAction.class.php",
+				"/C/Users/Administrator/Documents/ewei_shopv2_api.php",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/pages/pay/pay.vue",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/main.js",
+				"/C/Users/Administrator/Documents/init.lua",
+				"/C/Users/Administrator/Documents/nginx.conf.default",
+				"/C/Users/Administrator/Documents/enable-php-54.conf",
+				"/C/Users/Administrator/Documents/enable-php-00.conf",
+				"/C/Users/Administrator/Documents/www",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/vuex/type.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/vuex/state.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/vuex/mutations.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/package.json",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/pages/cart/component/CartHeader.vue",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/pages/cart/cart.vue",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/router/index.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/vuex/actions.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/vuex/index.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/pages/my/MyCollection.vue",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/src/fon/iconfont.css",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/build/build.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/build/check-versions.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/build/dev-client.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/build/dev-server.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/config/dev.env.js",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/config/index.js",
+				"/D/workspace/raunzhuan/static/wap/css/common/header.css",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/.babelrc",
+				"/E/FLAXP/Tencent Files/1132228219/FileRecv/瞬美商城项目/瞬美商城项目/shunmei/data.json",
+				"/D/workspace/raunzhuan/static/wap/css/common/reset.css",
+				"/D/wamp30/www/bmhcaipiao/application/index/view/buyrecord/buydetails.html",
+				"/C/Users/Administrator/Desktop/Lib/Lib/Action/BaseAction.class.php",
+				"/C/Users/Administrator/Desktop/Lib/Lib/Action/Wap/PublicAction.class.php",
+				"/E/wamp25/www/web3/App/Common/common.php",
+				"/G/FTP本地路径/无锡/移动/PublicAction.class.php",
+				"/E/wamp25/www/web3/App/Core/Extend/Library/ORG/Util/Image.class.php",
+				"/E/wamp25/www/web3/App/Lib/Action/Wap/PublicAction.class.php"
 			],
 			"find":
 			{
@@ -1707,6 +1835,52 @@
 				"height": 124.0,
 				"where_history":
 				[
+					"D:\\workspace\\element-dev\\element\\packages",
+					"C:\\Users\\Administrator\\Documents\\mobile",
+					"C:\\Users\\Administrator\\Documents\\mobile\\goods",
+					"C:\\Users\\Administrator\\Documents\\mobile",
+					"C:\\Users\\Administrator\\Documents\\mobile\\goods",
+					"C:\\Users\\Administrator\\Documents\\mobile",
+					"C:\\Users\\Administrator\\Documents\\conf",
+					"E:\\FLAXP\\Tencent Files\\1132228219\\FileRecv\\瞬美商城项目\\瞬美商城项目\\shunmei\\src\\pages",
+					"E:\\wamp25\\www\\web3",
+					"C:\\Users\\Administrator\\Desktop\\Lib",
+					"E:\\wamp25\\www\\web3\\App\\Core",
+					"E:\\wamp25\\www\\web3\\App\\Lib\\Action\\Wap",
+					"E:\\wamp25\\www\\web3\\App\\Lib\\Action",
+					"E:\\wamp25\\www\\web3\\App\\Core",
+					"E:\\wamp25\\www\\web3",
+					"C:\\Users\\Administrator\\Desktop\\Lib\\Lib",
+					"E:\\wamp25\\www\\webtdh\\App\\Core",
+					"E:\\wamp25\\www\\webtdh",
+					"C:\\Users\\Administrator\\Desktop\\Lib\\Lib",
+					"C:\\Users\\Administrator\\Desktop\\Lib",
+					"C:\\Users\\Administrator\\Desktop\\Lib\\Lib\\Action",
+					"D:\\workspace\\raunzhuan",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\common_simple_frame\\common-simple\\common-simple\\packages\\components",
+					"D:\\workspace\\common_simple_frame\\common-simple\\common-simple\\packages",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\桌面杂项2017年9月28日\\quickstart\\pages",
+					"D:\\wamp30\\www\\bmhcaipiao\\public\\static",
+					"D:\\wamp30\\www\\bmhcaipiao",
+					"D:\\workspace\\element-dev\\element\\packages",
+					"D:\\wamp30\\www\\bmhcaipiao\\application\\index",
+					"D:\\wamp30\\www\\bmhcaipiao\\application\\index\\controller",
+					"D:\\wamp30\\www\\bmhcaipiao\\application\\index",
+					"D:\\workspace\\myexpress\\myapp\\models",
+					"D:\\workspace\\myexpress\\myapp\\bin",
+					"D:\\workspace\\common_simple_frame\\common-simple\\common-simple\\packages",
+					"D:\\桌面杂项2017年9月28日\\quickstart\\pages",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\common_simple_frame\\common-simple\\common-simple\\packages",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"G:\\FTP本地路径\\无锡\\移动\\备份 configaction\\Default\\public\\Public",
+					"D:\\workspace\\vant-dev2\\vant-dev\\docs",
+					"D:\\workspace\\element-dev\\element",
+					"D:\\workspace\\vant-dev2\\vant-dev\\docs",
+					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
+					"D:\\workspace\\vue-permission-control\\src",
 					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
 					"D:\\workspace\\vant-dev2\\vant-dev",
 					"D:\\workspace\\vant-dev2\\vant-dev\\packages",
@@ -1725,34 +1899,134 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"imgList",
+					"transition-group",
+					"simple-progress",
+					"widget-basic",
+					"start",
+					"del",
 					"data",
-					"bold",
-					"white",
-					"import",
-					"b()",
-					"allowed_file_extensions",
-					"cssLoader",
-					"sass-resources-loader",
-					"Simple",
-					"install",
-					"this",
-					"no-invalid",
-					"navbar",
-					"simpler-header",
-					"sidebar",
-					"intro",
+					"Goods_EweiShopV2Page",
+					"_condition",
+					"iframe",
+					"guest",
+					"get",
+					"category",
+					"list",
+					"category",
+					"logo",
+					"gobang",
+					"logo",
 					"header",
-					"nav",
-					"toggleClass",
-					"theme",
-					"toggleClass",
-					"radio-label",
-					"getThemeCluster",
-					"no-confusing",
-					"activeIndex",
-					"host",
-					"open",
-					"menu-wrapper"
+					"MORE",
+					"brands",
+					"header",
+					"gobang",
+					"logo",
+					"最新活动",
+					"lqzh1688",
+					"http://www.lqzh1688.com",
+					"lqzh",
+					"map",
+					"watch",
+					"computed",
+					"slot",
+					"echo",
+					"价格说明",
+					"footer",
+					"加入心愿单",
+					".header_nav",
+					"href=\"http://www.jdstb.com/brand/brand-detail",
+					"href",
+					"infolist",
+					"http://soft.wxjysgcd.com/App/Tpl/Wap/Default/Public/static/wap/image/",
+					"进口家具",
+					"https://static.jdstb.com/static/wap/image/menu-jk/",
+					"https://static.jdstb.com/static/wap/image/menu-jk/j",
+					"https://static.jdstb.com/uploads/",
+					"进口家具",
+					"footer",
+					"readConfig",
+					"_read",
+					"readConfig",
+					"_read",
+					"readReg",
+					"YdCache",
+					"argument",
+					"Image",
+					"session",
+					"session('membercode')",
+					"session",
+					"build",
+					"changeNum",
+					"nums",
+					"imgUrls",
+					"form_submit2",
+					"form_submit",
+					"section1",
+					"container",
+					"form_submit",
+					"imgUrls",
+					"changecode",
+					"guestbookCode",
+					"version",
+					"build",
+					"buildimageverify",
+					"Image",
+					"memberCode",
+					"MemberCode",
+					"login",
+					"register",
+					"RegisterForm",
+					"captcha?v=5bc7fa4c0f1da",
+					"href=\"https://static.jdstb.com/",
+					"src=\"https://static.jdstb.com/",
+					"footer",
+					"LoginForm",
+					"aria",
+					"error",
+					"infoerror",
+					"captcha",
+					"footer",
+					"captcha",
+					"script src=\"https://static.jdstb.com/",
+					"src=\"https://static.jdstb.com/",
+					"href=\"https://static.jdstb.com/",
+					" href=\"https://static.jdstb.com/",
+					"href=\"https://static.jdstb.com/",
+					"https://static.jdstb.com/",
+					"login",
+					"footer",
+					"gzip",
+					"cache",
+					"fastcgi_cache",
+					"expires",
+					"expire",
+					"infolist",
+					"MORE",
+					"banner",
+					"src=\"static",
+					"link href",
+					"script src",
+					"script",
+					"\"http://soft.wxjysgcd.com//",
+					"response",
+					"src",
+					"swiper.min.js",
+					"href",
+					"48",
+					"47",
+					"json",
+					"jd_track",
+					".js",
+					"Udesk嵌入代码配置错误！",
+					"target-densitydpi",
+					"desk",
+					"udesk",
+					"udesk_jsonp",
+					"udesk",
+					"http://jdstb.udesk.cn/im_client/?web_plugin_id=35447",
+					"udesk"
 				],
 				"highlight": false,
 				"in_selection": false,
@@ -1760,12 +2034,14 @@
 				"regex": false,
 				"replace_history":
 				[
+					"  ",
+					"   "
 				],
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
-				"wrap": false
+				"wrap": true
 			},
 			"folders":
 			[
@@ -1773,43 +2049,85 @@
 					"path": "D:\\workspace\\common_simple_frame\\common-simple\\common-simple"
 				},
 				{
+					"path": "D:\\workspace\\vant-dev2\\vant-dev"
+				},
+				{
+					"path": "D:\\workspace\\vue-permission-control"
+				},
+				{
+					"path": "D:\\workspace\\vote_jys\\soft_design"
+				},
+				{
+					"path": "D:\\workspace\\webpack_test"
+				},
+				{
+					"path": "D:\\workspace\\study-code"
+				},
+				{
+					"path": "D:\\workspace\\element-dev\\element"
+				},
+				{
 					"path": "D:\\workspace\\vote_jys"
 				},
 				{
-					"path": "D:\\workspace\\element-dev"
+					"path": "D:\\workspace\\vant-dev2\\vant-dev\\node_modules\\vant-doc"
 				},
 				{
-					"path": "D:\\workspace\\vue-dev"
-				},
-				{
-					"path": "D:\\workspace\\react-demo-test"
-				},
-				{
-					"path": "D:\\workspace\\myexpress"
+					"path": "D:\\桌面杂项2017年9月28日\\quickstart"
 				},
 				{
 					"path": "D:\\workspace\\vue-code-review"
 				},
 				{
-					"path": "D:\\workspace\\vue-element-admin-master"
+					"path": "D:\\workspace\\myexpress\\myapp"
 				},
 				{
-					"path": "D:\\workspace\\vant-dev2\\vant-dev"
+					"path": "C:\\Users\\Administrator\\Desktop\\oss-h5-upload-js-php"
+				},
+				{
+					"path": "D:\\wamp30\\www\\chaohong"
+				},
+				{
+					"path": "D:\\wamp30\\www\\bmhcaipiao"
+				},
+				{
+					"path": "E:\\FileRecv\\下载\\nodercms-1.4.0\\nodercms-1.4.0"
+				},
+				{
+					"path": "D:\\workspace\\vant-dev2\\vant-dev\\node_modules\\nprogress"
+				},
+				{
+					"path": "D:\\workspace\\raunzhuan"
+				},
+				{
+					"path": "C:\\Users\\Administrator\\Desktop\\Lib"
+				},
+				{
+					"path": "E:\\wamp25\\www\\web3"
+				},
+				{
+					"path": "E:\\FLAXP\\Tencent Files\\1132228219\\FileRecv\\瞬美商城项目\\瞬美商城项目\\shunmei"
+				},
+				{
+					"path": "C:\\Users\\Administrator\\Documents\\conf"
+				},
+				{
+					"path": "C:\\Users\\Administrator\\Documents\\mobile"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 4,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/Layout.vue",
+							"file": "/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/widget_basic/demo/index.vue",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 877,
+								"buffer_size": 1250,
 								"regions":
 								{
 								},
@@ -1822,11 +2140,8 @@
 								],
 								"settings":
 								{
-									"SL.25.region_keys":
-									[
-									],
 									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone": 29,
 									"bracket_highlighter.clone_locations":
 									{
 										"close":
@@ -1844,61 +2159,61 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
 									],
 									"bracket_highlighter.locations":
 									{
@@ -1917,632 +2232,87 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/Vue/vue.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/index.vue",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2378,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1216,
-										1216
-									]
-								],
-								"settings":
-								{
-									"SL.26.region_keys":
-									[
-									],
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
+										"bh_unmatched_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
 									],
 									"syntax": "Packages/Vue/vue.tmLanguage",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 228.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/workspace/common_simple_frame/common-simple/common-simple/packages/pages/layout/components/Navbar.vue",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2132,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										559,
-										551
-									]
-								],
-								"settings":
-								{
-									"SL.29.region_keys":
-									[
-									],
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/Vue/vue.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/workspace/common_simple_frame/common-simple/common-simple/packages/main.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 693,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										587,
-										587
-									]
-								],
-								"settings":
-								{
-									"SL.30.region_keys":
-									[
-										"sublime_linter.protected_regions",
-										"SL.eslint.Highlights.|0a4c2b4984efd04454be31f516fcbd731f3602286925b989ba9925181aafebce|region.yellowish markup.error.sublime_linter|32",
-										"SL.eslint.Gutter.|region.yellowish markup.error.sublime_linter|Packages/SublimeLinter/gutter-themes/Blueberry Cross/error.png"
-									],
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": 30,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 912.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 4,
-							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/mysass/mysass.sublime-build",
+							"buffer": 1,
+							"file": "/D/workspace/common_simple_frame/common-simple/common-simple/packages/components/widget_basic/index.vue",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 201,
+								"buffer_size": 3434,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										201,
-										201
+										503,
+										503
 									]
 								],
 								"settings":
@@ -2555,8 +2325,8 @@
 										{
 											"1":
 											[
-												200,
-												201
+												756,
+												757
 											]
 										},
 										"icon":
@@ -2571,8 +2341,8 @@
 										{
 											"1":
 											[
-												0,
-												1
+												680,
+												681
 											]
 										},
 										"unmatched":
@@ -2581,87 +2351,72 @@
 									},
 									"bracket_highlighter.clone_regions":
 									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
 									],
 									"bracket_highlighter.locations":
 									{
 										"close":
 										{
-											"1":
-											[
-												200,
-												201
-											]
 										},
 										"icon":
 										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"region.purplish"
-											]
 										},
 										"open":
 										{
-											"1":
-											[
-												0,
-												1
-											]
 										},
 										"unmatched":
 										{
@@ -2669,252 +2424,70 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
 									],
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+									"syntax": "Packages/Vue/vue.tmLanguage",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 285.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/D/workspace/vue-element-admin-master/src/views/layout/components/Navbar.vue",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3625,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										764,
-										1618
-									]
-								],
-								"settings":
-								{
-									"SL.28.region_keys":
-									[
-									],
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.clone": -1,
-									"bracket_highlighter.clone_locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.clone_regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/Vue/vue.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
 							"type": "text"
 						}
 					]
@@ -2927,11 +2500,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 31.0
 			},
 			"input":
 			{
-				"height": 44.0
+				"height": 50.0
 			},
 			"layout":
 			{
@@ -2953,7 +2526,7 @@
 				"cols":
 				[
 					0.0,
-					0.927329192547,
+					0.861579325469,
 					1.0
 				],
 				"rows":
@@ -2969,11 +2542,11 @@
 			},
 			"output.SublimeLinter Messages":
 			{
-				"height": 494.0
+				"height": 27.0
 			},
 			"output.exec":
 			{
-				"height": 327.0
+				"height": 31.0
 			},
 			"output.find_results":
 			{
@@ -2987,12 +2560,12 @@
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "Packages/mysass/mysass.sublime-build",
-			"position": "0,2,3,-32000,-32000,-1,-1,1669,60,731,1782",
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,989,66,131,1501",
 			"project": "",
 			"replace":
 			{
-				"height": 70.0
+				"height": 58.0
 			},
 			"save_all_on_build": false,
 			"select_file":
@@ -3030,7 +2603,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 310.0,
+			"side_bar_width": 267.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
