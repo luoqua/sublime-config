@@ -28,11 +28,11 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint_d",
 		"SublimeLinter-eslint",
-		"SublimeOnSaveBuild",
 		"SublimeTmpl",
 		"Syntax Highlighting for PostCSS",
 		"Theme - Flatland",
 		"TortoiseSVN",
-		"View In Browser"
+		"View In Browser",
+		"Vue Syntax Highlight"
 	]
 }
